@@ -12,7 +12,7 @@
             <td> 03.02.2022 </td>
             <td>  0.1   </td>
             <td> Criação do documento </td>
-            <td> Amanda Nobre, Abraão  </td>
+            <td> Amanda Nobre, Abraão Alves </td>
         </tr>
     </tbody>
 </table>
