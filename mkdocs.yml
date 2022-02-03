@@ -1,10 +1,18 @@
-site_name: Grupo 06
+site_name: AntennaPod
+site_url: https://requisitos-de-software.github.io/2021.2-AntennaPod/
 
-repo_name: 2021.2-Grupo06
+repo_name: AntennaPod
+repo_url: https://github.com/Requisitos-de-Software/2021.2-AntennaPod
 
 theme:
   name: material
+  logo: img/favicon.ico
+  favicon: img/favicon.ico
+  palette:
+    primary: light blue
 
 nav:
   - Início: index.md
-  - Sobre: about.md
+
+extra_css:
+  - 'css/style.css'

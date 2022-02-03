@@ -1,4 +1,6 @@
-# 2021.2-Grupo06
+# AntennaPod
+
+[Site de documentação](https://requisitos-de-software.github.io/2021.2-AntennaPod/).
 
 ## Configuração do ambiente
 
@@ -11,3 +13,17 @@ Dependências:
 ```py
 pip3 install -r requirements.txt # ou com pip
 ```
+
+Subir o servidor:
+
+```py
+mkdocs serve
+```
+
+## Links para documentação MkDocs
+
+Tema do MkDocs é o [Material](https://squidfunk.github.io/mkdocs-material/).
+
+[Criação e personalização da documentação](https://squidfunk.github.io/mkdocs-material/creating-your-site/).
+
+[CI para documentação](https://squidfunk.github.io/mkdocs-material/publishing-your-site/).
