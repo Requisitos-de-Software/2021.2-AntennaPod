@@ -39,13 +39,3 @@ O objetivo da organização é contribuir para o ecosistema de podcasts.
         height="150" style="border-radius:50%;"></a>
   </div>
 </div>
-
-
-## Ferramentas
-
-- Github: para rastramento de tarefas (issues) e 
-hospedagem do site da documentação.
-- Discord: será utilizado para chamadas em grupo.
-- Telegram: para envio de mensagens em texto.
-- Canva: para confecção de slides para apresentação.
-- Draw.io: para confecção de diagramas
