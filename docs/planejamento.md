@@ -19,18 +19,15 @@
 
 # Heatmap
 
-<img src="./img/heatmap.jpg">
-<p>O Heatmap é uma excelente maneira de mapear quais são os dias da semana e o horário em que
-    existe maior disponibilidade das pessoas, essa tabela mostra quantas pessoas estão disponíveis
-    em cada dia e cada horário da semana. A tabela completa com a disponibilidade individual
-    está disponível no
-    <a href="link"> Drive</a>.
+<img src="./img/heatmap.jpeg">
+<p>O Heatmap mostra quantas pessoas da equipe estão disponiveis em determinados horários e dias. A tabela com as disponibilidades individuais está disponível no
+    <a href="https://docs.google.com/spreadsheets/d/1BLhhFdXQga0X0WAd7KLn-UkEZvHdPkqJEjPx4qN1C4I/edit?usp=sharing"> Google Sheets</a>.
 </p>
 
 # Rich Picture
 
 <img src="./img/heatmap.jpg">
-<p> texto sobre rich picture
+<p> O Rich picture é uma forma de visualizar como um sistema se comporta, identificando atores, ações e consequências e colocando fronteiras no sistema.
 </p>
 
 # Cronograma
