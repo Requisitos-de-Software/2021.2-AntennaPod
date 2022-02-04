@@ -1,10 +1,11 @@
+# Planejamento
 ## Histórico de Versão
 
 | Data         | Versão   | Descrição              | Autor(es)               |
 |--------------|----------|------------------------|-------------------------|
 |  03.02.2022  |   0.1    |  Criação do documento  |  Amanda Nobre, Abraão   |
 
-# Heatmap
+## Heatmap
 
 ![Heatmap](img/heatmap.jpeg)
 
@@ -15,13 +16,13 @@
     <a href="link"> Drive</a>.
 </p>
 
-# Rich Picture
+## Rich Picture
 
 ![Rich Picture]()
 <p> texto sobre rich picture
 </p>
 
-# Cronograma
+## Cronograma
 
 ### 1ª entrega: de 24/01 até 06/02
 
