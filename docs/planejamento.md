@@ -65,6 +65,189 @@
 </table>
 
 ### 2ª entrega
+##### **De 06/02 até 20/02**
+
+<table class="table table-striped border" style="color:black;">
+    <thead style="background-color: #036ca3;">
+        <th>Tarefa</th>
+        <th>Participante(s)</th>
+        <th>Revisor(es)</th>
+        <th>Estimativa de Entrega</th>
+    </thead>
+    <tbody>
+    <tr>
+    <td>Técnicas</td>
+    <td>A decidir</td>
+    <td>A decidir</td>
+    <td>18/02</td>
+    </tr>
+    <tr>
+    <td>Priorizações</td>
+    <td>A decidir</td>
+    <td>A decidir</td>
+    <td>18/02</td>
+    </tr>
+    </tbody>
+</table>
+
+### 3ª entrega
+##### **De 20/02 até 06/03**
+
+<table class="table table-striped border" style="color:black;">
+    <thead style="background-color: #036ca3;">
+        <th>Tarefa</th>
+        <th>Participante(s)</th>
+        <th>Revisor(es)</th>
+        <th>Estimativa de Entrega</th>
+    </thead>
+    <tbody>
+    <tr>
+    <td>Cenários</td>
+    <td>A decidir</td>
+    <td>A decidir</td>
+    <td>04/03</td>
+    </tr>
+     <tr>
+    <td>Léxico</td>
+    <td>A decidir</td>
+    <td>A decidir</td>
+    <td>04/03</td>
+    </tr>
+    <tr>
+    <td>Especificação Suplementar</td>
+    <td>A decidir</td>
+    <td>A decidir</td>
+    <td>04/03</td>
+    </tr>
+     <tr>
+    <td>Use Case</td>
+    <td>A decidir</td>
+    <td>A decidir</td>
+    <td>04/03</td>
+    </tr>
+    </tbody>
+</table>
+
+### 4ª entrega
+##### **De 06/03 até 09/03**
+
+<table class="table table-striped border" style="color:black;">
+    <thead style="background-color: #036ca3;">
+        <th>Tarefa</th>
+        <th>Participante(s)</th>
+        <th>Revisor(es)</th>
+        <th>Estimativa de Entrega</th>
+    </thead>
+    <tbody>
+    <tr>
+    <td>Ágil (Histórias de Usuário, Backlogs) NFR Framework</td>
+    <td>A decidir</td>
+    <td>A decidir</td>
+    <td>07/03</td>
+    </tr>
+    </tbody>
+</table>
+
+### 5ª entrega
+##### **De 09/03 até 23/03**
+
+<table class="table table-striped border" style="color:black;">
+    <thead style="background-color: #036ca3;">
+        <th>Tarefa</th>
+        <th>Participante(s)</th>
+        <th>Revisor(es)</th>
+        <th>Estimativa de Entrega</th>
+    </thead>
+    <tbody>
+    <tr>
+    <td>Verificação</td>
+    <td>A decidir</td>
+    <td>A decidir</td>
+    <td>21/03</td>
+    </tr>
+    <tr>
+    <td>Validação</td>
+    <td>A decidir</td>
+    <td>A decidir</td>
+    <td>21/03</td>
+    </tr>
+    </tbody>
+</table>
+
+### 6ª entrega
+##### **De 23/03 até 03/04**
+
+<table class="table table-striped border" style="color:black;">
+    <thead style="background-color: #036ca3;">
+        <th>Tarefa</th>
+        <th>Participante(s)</th>
+        <th>Revisor(es)</th>
+        <th>Estimativa de Entrega</th>
+    </thead>
+    <tbody>
+    <tr>
+    <td>Pós-Rastreabilidade: Gerência II</td>
+    <td>A decidir</td>
+    <td>A decidir</td>
+    <td>01/04</td>
+    </tr>
+    </tbody>
+</table>
+
+
+### 7ª entrega
+##### **De 03/04 até 25/04**
+
+<table class="table table-striped border" style="color:black;">
+    <thead style="background-color: #036ca3;">
+        <th>Tarefa</th>
+        <th>Participante(s)</th>
+        <th>Revisor(es)</th>
+        <th>Estimativa de Entrega</th>
+    </thead>
+    <tbody>
+    <tr>
+    <td>Entrega do projeto final</td>
+    <td>Todos</td>
+    <td>Yudi</td>
+    <td>23/04</td>
+    </tr>
+    </tbody>
+</table>
+
+### 1ª entrega
+##### **De xx/xx até xx/xx**
+
+<table class="table table-striped border" style="color:black;">
+    <thead style="background-color: #036ca3;">
+        <th>Tarefa</th>
+        <th>Participante(s)</th>
+        <th>Revisor(es)</th>
+        <th>Entrega</th>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Cronograma</td>
+            <td>Amanda e Abraão</td>
+            <td>Matheus</td>
+            <td>03/02</td>
+        </tr>
+        <tr>
+            <td>HeatMap</td>
+            <td>Amanda</td>
+            <td>Bruna</td>
+            <td>03/02</td>
+        </tr>
+        <tr>
+            <td>Rich Picture</td>
+            <td>Yudi</td>
+            <td>Thais</td>
+            <td>03/02</td>
+        </tr>
+    </tbody>
+</table>
+
+### 2ª entrega
 ##### **De xx/xx até xx/xx**
 
 <table class="table table-striped border" style="color:black;">
