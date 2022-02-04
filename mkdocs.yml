@@ -14,5 +14,7 @@ theme:
 nav:
   - Início: index.md
   - Planejamento: planejamento.md
+
+  
 extra_css:
   - 'css/style.css'
