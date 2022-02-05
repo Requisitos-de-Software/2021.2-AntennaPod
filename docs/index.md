@@ -1,5 +1,7 @@
 # AntennaPod
 
+![logo antenna pod](img/logo.png)
+
 Este site é dedicado à disciplina do Requisitos de Software, cursada no 1º
 semestre de 2021, sobre o aplicativo AntennaPod.
 
