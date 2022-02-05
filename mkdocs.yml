@@ -14,6 +14,8 @@ theme:
 nav:
   - Início: index.md
   - Planejamento: planejamento.md
+  - Apresentações:
+    - Apresentação-1: apresentacoes/apresentacao1.md
 
   
 extra_css:
