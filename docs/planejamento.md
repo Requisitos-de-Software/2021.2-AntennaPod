@@ -15,7 +15,8 @@
 
 ## Rich Picture
 
-![Rich Picture]()
+![Rich Picture](img/richpicture.jpg)
+
 <p> O Rich picture é uma forma de visualizar como um sistema se comporta, identificando atores, ações e consequências e colocando fronteiras no sistema.
 </p>
 
@@ -26,7 +27,7 @@
 | Tarefa       | Participante(s) | Revisor(es) | Entrega |
 |--------------|-----------------|-------------|---------|
 | Cronograma   | Amanda e Abraão | Matheus Fonseca    | 03/02   |
-| HeatMap      | Amanda          | matheus Calixto       | 03/02   |
+| HeatMap      | Amanda          | Matheus Calixto       | 03/02   |
 | Rich Picture | Yudi            | Thais       | 03/02   |
 
 ### 2ª entrega: de 06/02 até 20/02
@@ -66,7 +67,7 @@
 
 | Tarefa                   | Participante(s) | Revisor(es) | Estimativa de Entrega |
 |--------------------------|-----------------|-------------|-----------------------|
-| Entrega do projeto final | Todos           | Yudi        |                       |
+| Entrega do projeto final | Todos           | A decidir   |     23/04             |
 
 ## Ferramentas
 
@@ -76,6 +77,5 @@
 |<img width="100" height="100" src="../img/discord.png">|O Discord será utilizado para chamadas em grupo.|
 |<img width="100" height="100" src="../img/telegram.png">|O Telegram será utilizado para a comunicação da equipe.|
 |<img width="100" height="100" src="../img/canva.png">|O Canva será utilizado para confecção de slides para apresentação.|
-|<img width="100" height="100" src="../img/teams.png">|O Microsoft Teams será utilizado para a gravação dos vídeos em equipe.|
+|<img width="100" height="100" src="../img/jitsi.png">|O Jitsi Meet será utilizado para a gravação dos vídeos em equipe.|
 |<img width="100" height="100" src="../img/drawio.png">|O Draw.io será utilizado para confecção de diagramas.|
-
