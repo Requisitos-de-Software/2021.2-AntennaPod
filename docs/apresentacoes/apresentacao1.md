@@ -8,4 +8,4 @@ Apresentação referente a primeira entrega do projeto final da máteria requisi
 
 ## Slide da Apresentação
 
-<iframe width="900" src="https://www.canva.com/design/DAE3PRD1BH0/d-_Mw1_lWYIdgQzhydIoFw/view?utm_content=DAE3PRD1BH0&utm_campaign=designshare&utm_medium=link&utm_source=publishpresent" title="Canva Slide" frameborder="0" allowfullscreen></iframe>
+<iframe width="900" src="https://www.canva.com/design/DAE3PRD1BH0/d-_Mw1_lWYIdgQzhydIoFw/view" title="Canva Slide" frameborder="0" allowfullscreen></iframe>
