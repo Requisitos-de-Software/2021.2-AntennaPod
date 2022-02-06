@@ -77,5 +77,5 @@
 |<img width="100" height="100" src="../img/discord.png">|O Discord será utilizado para chamadas em grupo.|
 |<img width="100" height="100" src="../img/telegram.png">|O Telegram será utilizado para a comunicação da equipe.|
 |<img width="100" height="100" src="../img/canva.png">|O Canva será utilizado para confecção de slides para apresentação.|
-|<img width="100" height="100" src="../img/jitsi.png">|O Jitsi Meet será utilizado para a gravação dos vídeos em equipe.|
+|<img width="100" height="100" src="../img/teams.png">|O Microsoft Teams será utilizado para a gravação dos vídeos em equipe.|
 |<img width="100" height="100" src="../img/drawio.png">|O Draw.io será utilizado para confecção de diagramas.|
