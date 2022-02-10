@@ -6,6 +6,7 @@ Este documento visa padronizar os commits no repositório do projeto.
 | Data       | Versão | Descrição                      | Autor             |
 | :--------: | :----: | :----------:                   | :---------------: |
 | 10/02/2022 |  1.0   | Versão inicial do documento | [Matheus Sousa](https://github.com/gatotabaco)|
+| 10/02/2022 |  1.1   | Correção do tipo de arquivo | [Matheus Sousa](https://github.com/gatotabaco)|
 
 ## Semântica do Commit
 
