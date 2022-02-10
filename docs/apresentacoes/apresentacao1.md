@@ -1,5 +1,10 @@
 # Apresentação 1
 
+## Histórico de versões
+| Data         | Versão   | Descrição              | Autor(es)               |
+|--------------|----------|------------------------|-------------------------|
+|             |         |                |                       |
+
 Apresentação referente a primeira entrega do projeto final da máteria requisitos de software, onde mostramos nosso integrantes, nosso cronograma, aplicativo escolhido e ferramentas utilizadas.
 
 ## Video de Apresentação
