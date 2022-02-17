@@ -3,7 +3,7 @@
 ## Histórico de versões
 | Data         | Versão   | Descrição              | Autor(es)               |
 |--------------|----------|------------------------|-------------------------|
-|  15.02.2022  |   0.1    |  Criação do documento  |  Amanda Nobre, Abraão           |
+|  15.02.2022  |   0.1    |  Criação do documento  |  Amanda Nobre, Abraão   |
 
 ## Introdução
 
