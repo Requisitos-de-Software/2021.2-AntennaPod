@@ -3,12 +3,18 @@
 ## Histórico de versões
 | Data         | Versão   | Descrição              | Autor(es)               |
 |--------------|----------|------------------------|-------------------------|
-|  15.02.2022  |   0.1    |  Criação do documento  |  Amanda Nobre, Abraão           |
+|  15.02.2022  |   0.1    |  Criação do documento  |  Amanda Nobre, Abraão Alves          |
+| 17.02.2022   |   0.2    | Edição da introdução e metodologia |Abraão Alves |
 
 ## Introdução
 
-Brainstorm pipipopopo
 
+<p align="justify">&emsp;&emsp;O brainstorming é basicamente uma técnica para geração de ideias onde é feita uma ou varias reuniões com várias pessoas que fazem parte do projeto para darem sugestões de ideias sem serem criticadas ou julgadas, isto é, a técnica sugere a exploração de toda e qualquer ideia, fruto da reunião, seja explorada livremente. A técnica é utilizada no início do processo de elicitação para serem listados a maior parte de requisitos possível, quando ainda há muito pouco conhecido sobre o projeto.</p>
+
+## Metodologia
+
+<p align="justify">&emsp;&emsp;
+</p>
 ## Participantes
 - Amanda Nobre
 - Abraão
