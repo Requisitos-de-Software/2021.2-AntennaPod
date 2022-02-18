@@ -16,10 +16,10 @@ nav:
   - Planejamento: planejamento.md
   - Pré-Rastreamento: 
     - Rich Picture: richPicture.md
-  - Elicitação de Requisitos:
-    - Brainstorm: brainstorm.md
   - Apresentações:
     - Apresentação-1: apresentacoes/apresentacao1.md
-  
+  - Elicitação: 
+    - Técnicas:
+      - Brainstorming: elicitação/tecnicas/brainstorm.md
 extra_css:
   - 'css/style.css'
