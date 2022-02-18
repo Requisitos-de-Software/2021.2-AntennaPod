@@ -20,7 +20,7 @@ nav:
     - Técnicas:
       - Análise de Protocolo: planejamento.md
       - Brainstorm: elicitacao/brainstorm.md
-      - Introspecção: planejamento.md
+      - Introspecção: elicitacao/introspeccao.md
       - Observação: planejamento.md
     - Priorização:
       - 100 Pila: planejamento.md
