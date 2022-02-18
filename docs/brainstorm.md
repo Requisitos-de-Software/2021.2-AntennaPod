@@ -15,14 +15,6 @@
 <p align="justify">&emsp;&emsp;Não foi possível ser feita a reunião presencialmente devido à pandemia, mas, a reunião foi realizada remotamente no dia 07/02/2022 utilizando o discord para nos comunicarmos, e também, o miro para melhor demonstração das ideias que os integrantes da reunião idealizaram para o levantamento dos requisitos.
 </p>
 
-## Participantes 
- - Abraão Alves
- - Amanda Nobre
- - Yudi Yamane
- - Matheus Fonseca
-
-<p align="justify">&emsp;&emsp;
-</p>
 ## Participantes
 - Amanda Nobre
 - Abraão
