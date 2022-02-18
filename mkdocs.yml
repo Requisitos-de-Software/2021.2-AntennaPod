@@ -16,6 +16,14 @@ nav:
   - Planejamento: planejamento.md
   - Pré-Rastreamento: 
     - Rich Picture: richPicture.md
+  - Elicitação: 
+    - Técnicas:
+      - Análise de Protocolo: planejamento.md
+      - Brainstorm: elicitacao/brainstorm.md
+      - Introspecção: planejamento.md
+      - Observação: planejamento.md
+    - Priorização:
+      - 100 Pila: planejamento.md
   - Apresentações:
     - Apresentação-1: apresentacoes/apresentacao1.md
   
