@@ -13,7 +13,10 @@ theme:
 
 nav:
   - Início: index.md
-  - Planejamento: planejamento.md
+  - Planejamento: 
+    - Metodologia: metodologia.md
+    - Headmap: headmap.md
+    - Cronograma: cronograma.md
   - Pré-Rastreamento: 
     - Rich Picture: richPicture.md
   - Elicitação: 
