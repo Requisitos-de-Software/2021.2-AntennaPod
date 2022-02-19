@@ -27,9 +27,9 @@ procurar um podcast etc.
 
 | ID    | Descrição                                                          |
 |-------|--------------------------------------------------------------------|
-| OBS01 | Ouvir um podcast sem ter que se inscrever em seu podcast           |
-| OBS02 | Baixar um podcast sem ter que se inscrever em seu podcast          |
-| OBS03 | Uma forma direta e fácil de acessar a página principal             |
+| OBS01 | Ouvir um episódio sem ter que se inscrever em seu podcast           |
+| OBS02 | Baixar um episódio sem ter que se inscrever em seu podcast          |
+| OBS03 | Deve existir uma forma direta e fácil de acessar a página principal             |
 
 
 ## Referências
