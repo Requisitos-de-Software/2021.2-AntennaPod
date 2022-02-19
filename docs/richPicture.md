@@ -4,6 +4,7 @@
 | Data         | Versão   | Descrição              | Autor(es)               |
 |--------------|----------|------------------------|-------------------------|
 |  10.02.2022  |   0.1    |  Criação do documento  |  Amanda Nobre           |
+|  11.02.2022  |   0.2    |  Atualização do rich picture  |  Yudi Yamane           |
 
 ## Introdução
 
