@@ -15,7 +15,7 @@ Existem dois tipos de análise de protocolo: no protocolo concorrente o usuário
 ## Metodologia
 
 Optamos por aplicar ambos os tipos de análise de protocolo, o concorrente e o retrospectivo, visando obter melhores resultados.
-Para realizar a análise o usuário Gabriel, que nunca teve contato com o app anteriormente, foi convidado para navegar pela aplicação. Foi documentado as ações e verbalizações do mesmo.
+Para realizar a análise o usuário Gabriel, que nunca teve contato com o aplicativo anteriormente, foi convidado para navegar pela aplicação. Foram documentadas as ações e verbalizações do mesmo.
 
 | Entrevistador | Usuário |
 | ------------- | ------- |
@@ -50,27 +50,28 @@ Aqui imagino que ficariam os episódios que eu assisti. Mas tá vazio.
 ## Resultados
 
 | ID | Descrição |
-| 01 | O usuário deve conseguir se inscrever no podcast que ele deseja |
-| 02 | O usuário deve conseguir pesquisar pelos podcasts disponíveis |
-| 03 | O usuário deve conseguir pesquisar podcasts disponíveis no iTunes |
-| 04 | O usuário deve conseguir pesquisar pelos episódios de cada podcast |
-| 05 | O usuário deve conseguir filtrar os episódios de podcast |
-| 06 | O usuário deve conseguir ordenar os episódios de podcast |
-| 07 | O usuário deve conseguir visualizar suas assinaturas |
-| 08 | O usuário deve conseguir visualizar os episódios dos podcasts |
-| 09 | O usuário deve conseguir fazer downloads dos episódios que deseja |
-| 10 | O usuário deve conseguir visualizar seus downloads |
-| 11 | O usuário deve conseguir importar uma lista de podcast |
-| 12 | O usuário deve ser capaz de navegar no app através de uma barra lateral |
-| 13 | O usuário deve conseguir atualizar de lista de episódios |
-| 14 | O usuário deve ser capaz de ser redirecionado para o website do podcast assinado por um link |
-| 15 | O usuário deve conseguir compartilhar o podcast |
-| 16 | O usuário deve ser capaz de compartilhar um episodio (Whatsapp, Facebook, Instagram, etc) |
-| 17 | O usuário deve conseguir renomear o podcast assinado |
-| 18 | O usuário deve conseguir remover o podcast das suas assinaturas |
-| 19 | O usuário deve conseguir visualizar informações sobre o podcast |
-| 20 | O usuário deve conseguir alterar a ordem da fila de reprodução |
-| 21 | O usuário deve conseguir visualizar o histórico de reprodução |
+| -- | --------- |
+| AP01 | O usuário deve conseguir se inscrever no podcast que ele deseja |
+| AP02 | O usuário deve conseguir pesquisar pelos podcasts disponíveis |
+| AP03 | O usuário deve conseguir pesquisar podcasts disponíveis no iTunes |
+| AP04 | O usuário deve conseguir pesquisar pelos episódios de cada podcast |
+| AP05 | O usuário deve conseguir filtrar os episódios de podcast |
+| AP06 | O usuário deve conseguir ordenar os episódios de podcast |
+| AP07 | O usuário deve conseguir visualizar suas assinaturas |
+| AP08 | O usuário deve conseguir visualizar os episódios dos podcasts |
+| AP09 | O usuário deve conseguir fazer downloads dos episódios que deseja |
+| AP10 | O usuário deve conseguir visualizar seus downloads |
+| AP11 | O usuário deve conseguir importar uma lista de podcast |
+| AP12 | O usuário deve ser capaz de navegar no app através de uma barra lateral |
+| AP13 | O usuário deve conseguir atualizar de lista de episódios |
+| AP14 | O usuário deve ser capaz de ser redirecionado para o website do podcast assinado por um link |
+| AP15 | O usuário deve conseguir compartilhar o podcast |
+| AP16 | O usuário deve ser capaz de compartilhar um episodio (Whatsapp, Facebook, Instagram, etc) |
+| AP17 | O usuário deve conseguir renomear o podcast assinado |
+| AP18 | O usuário deve conseguir remover o podcast das suas assinaturas |
+| AP19 | O usuário deve conseguir visualizar informações sobre o podcast |
+| AP20 | O usuário deve conseguir alterar a ordem da fila de reprodução |
+| AP21 | O usuário deve conseguir visualizar o histórico de reprodução |
 
 
 ## Referências
