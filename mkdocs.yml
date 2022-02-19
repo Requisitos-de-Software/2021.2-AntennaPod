@@ -15,7 +15,7 @@ nav:
   - Início: index.md
   - Planejamento: 
     - Metodologia: metodologia.md
-    - Headmap: headmap.md
+    - Heatmap: heatmap.md
     - Cronograma: cronograma.md
   - Pré-Rastreamento: 
     - Rich Picture: richPicture.md
@@ -25,8 +25,7 @@ nav:
       - Brainstorm: elicitacao/brainstorm.md
       - Introspecção: elicitacao/introspeccao.md
       - Observação: observacao.md
-    - Priorização:
-      - 100 Pila: priorizacao.md
+    - Resultado: elicitacao/resultado.md
   - Apresentações:
     - Apresentação-1: apresentacoes/apresentacao1.md
   

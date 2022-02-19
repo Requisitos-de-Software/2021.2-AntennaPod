@@ -1,4 +1,4 @@
-# Headmap
+# Heatmap
 
 O Heatmap mostra quantas pessoas da equipe estão disponiveis em determinados horários e dias.
 
