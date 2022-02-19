@@ -113,4 +113,6 @@ O resultado da elicitação e priorização pode ser visto na tabela abaixo:
 | 64 | O aplicativo deve ser intuitivo                         | Brainstorm | 2,00 |
 | 65 | O aplicativo deverá rodar em qualquer plataforma mobile | Brainstorm | 1,50 |
 
-<!-- ## Referências -->
+## Referências
+
+WIEGERS, Karl et al. First things first: Setting requirement priorities: $100. In: SOFTWARE Requirements. 3. ed. [S. l.: s. n.], 2013. cap. 16, p. 321-322.
