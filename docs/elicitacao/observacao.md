@@ -32,6 +32,7 @@ procurar um podcast etc.
 | OBS03 | Uma forma direta e fácil de acessar a página principal             |
 
 
-<!-- ## Referências
+## Referências
 
-Quando necessárias, as referências devem estar em formato ABNT. -->
+WIEGERS, Karl et al. Requirements elicitation: Observations. In: SOFTWARE Requirements. 3. ed. [S. l.: s. n.], 2013. cap. 7, p. 125-126.
+
