@@ -19,14 +19,14 @@ nav:
     - Cronograma: cronograma.md
   - Pré-Rastreamento: 
     - Rich Picture: richPicture.md
-  - Elicitação: 
+  - Elicitação:
     - Técnicas:
-      - Análise de Protocolo: planejamento.md
+      - Análise de Protocolo: elicitacao/protocolo.md
       - Brainstorm: elicitacao/brainstorm.md
       - Introspecção: elicitacao/introspeccao.md
-      - Observação: planejamento.md
+      - Observação: observacao.md
     - Priorização:
-      - 100 Pila: planejamento.md
+      - 100 Pila: priorizacao.md
   - Apresentações:
     - Apresentação-1: apresentacoes/apresentacao1.md
   
