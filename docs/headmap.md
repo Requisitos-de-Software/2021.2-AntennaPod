@@ -1,5 +1,7 @@
 # Headmap
 
+O Heatmap mostra quantas pessoas da equipe estão disponiveis em determinados horários e dias.
+
 ## Histórico de Versão
 
 | Data         | Versão   | Descrição              | Autor(es)               |
@@ -14,6 +16,6 @@ Figura 1 - Heatmap da Equipe <br>
 Autora: Amanda 
 </p>
 
-<p>O Heatmap mostra quantas pessoas da equipe estão disponiveis em determinados horários e dias. A tabela com as disponibilidades individuais está disponível no
+<p> A tabela com as disponibilidades individuais está disponível no
     <a href="https://docs.google.com/spreadsheets/d/1BLhhFdXQga0X0WAd7KLn-UkEZvHdPkqJEjPx4qN1C4I/edit?usp=sharing"> Google Sheets</a>.
 </p>
