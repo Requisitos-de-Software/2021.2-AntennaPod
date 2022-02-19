@@ -12,8 +12,11 @@ o usuário utilizando o sistema, realizando as tarefas mais comuns. Outra maneir
 de realizar essa técnica é o engenheiro de requisitos passar pelo papel de usuário.
 
 ## Metodologia
+Um usuário foi observado executando algumas ações comuns no aplicativo como
+escutar um episódio, pausar um episódio, baixar um episódio, assinar um podcast, 
+procurar um podcast etc.
 
-
+<!-- Matheus Calixto, adicione sua versão aqui -->
 
 ### Participantes
 
