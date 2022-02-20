@@ -87,30 +87,14 @@ O resultado da elicitação e priorização pode ser visto na tabela abaixo:
 | RF51 | O usuário deve ser capaz de criar playlist de episódios                                      | Brainstorm           | 0,50   |
 | RF54 | O usuário deve ser capaz de visualizar podcasts por país                                     | Brainstorm           | 0,50   |
 | RF56 | O usuário deve ser capaz de sincronizar o aplicativo com a conta do gpodder.net              | Introspecção         | 0,50   |
-| RF04 | O usuário deve conseguir se inscrever no podcast que ele deseja                              | Análise de Protocolo | 0,00   |
-| RF05 | O usuário deve conseguir pesquisar pelos podcasts disponíveis                                | Análise de Protocolo | 0,00   |
-| RF08 | O usuário deve conseguir ordenar os episódios de podcast                                     | Análise de Protocolo | 0,00   |
-| RF09 | O usuário deve conseguir filtrar os episódios de podcast                                     | Análise de Protocolo | 0,00   |
-| RF15 | O usuário deve conseguir atualizar de lista de episódios                                     | Análise de Protocolo | 0,00   |
-| RF17 | O usuário deve conseguir compartilhar o podcast                                              | Análise de Protocolo | 0,00   |
-| RF19 | O usuário deve conseguir remover o podcast das suas assinaturas                              | Análise de Protocolo | 0,00   |
-| RF35 | O usuário deve ser capaz de renomear podcast assinado                                        | Brainstorm           | 0,00   |
-| RF40 | O usuário deve ser capaz de listar episódios da fila de reprodução                           | Brainstorm           | 0,00   |
-| RF41 | O usuário deve ser capaz de acessar o histórico de podcasts escutados                        | Brainstorm           | 0,00   |
-| RF42 | O usuário deve ser capaz de baixar um episódio de um podcast                                 | Brainstorm           | 0,00   |
-| RF44 | O usuário deve ser capaz de listar downloads                                                 | Brainstorm           | 0,00   |
-| RF46 | O usuário deve ser capaz de compartilhar um episodio (Whatsapp, Facebook, Instagram, etc)    | Brainstorm           | 0,00   |
-| RF64 | O usuário deve ser capaz de listar downloads                                                 | Brainstorm           | 0,00   |
-| RF65 | O usuário deve ser capaz de compartilhar um episodio (Whatsapp, Facebook, Instagram, etc)    | Brainstorm           | 0,00   |
-| RF66 | O usuário deve ser capaz de acessar página inicial *                                         | Brainstorm           | 0,00   |
 
 ### Requisitos Não Funcionais
 
 | ID | Descrição                                               | Técnica    | R$   |
 |----|---------------------------------------------------------|------------|------|
-| RNF 66 | O aplicativo não requer cadastro                        | Brainstorm | 3,00 |
-| RNF 64 | O aplicativo deve ser intuitivo                         | Brainstorm | 2,00 |
-| RNF 65 | O aplicativo deverá rodar em qualquer plataforma mobile | Brainstorm | 1,50 |
+| RNF01 | O aplicativo não requer cadastro                        | Brainstorm | 3,00 |
+| RNF02 | O aplicativo deve ser intuitivo                         | Brainstorm | 2,00 |
+| RNF03 | O aplicativo deverá rodar em qualquer plataforma mobile | Brainstorm | 1,50 |
 
 ## Referências
 
