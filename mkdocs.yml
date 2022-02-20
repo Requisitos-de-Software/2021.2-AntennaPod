@@ -16,8 +16,9 @@ nav:
   - Planejamento: planejamento.md
   - Pré-Rastreamento: 
     - Rich Picture: richPicture.md
-  - Elicitação de Requisitos:
-    - Observação: elicitacao/observacao.md 
+  - Elicitação:
+    - Técnicas:
+      - Observação: elicitacao/observacao.md 
   - Apresentações:
     - Apresentação-1: apresentacoes/apresentacao1.md
   
