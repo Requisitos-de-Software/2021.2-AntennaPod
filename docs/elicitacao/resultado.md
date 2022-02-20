@@ -100,7 +100,6 @@ O resultado da elicitação e priorização pode ser visto na tabela abaixo:
 | RF42 | O usuário deve ser capaz de baixar um episódio de um podcast                                 | Brainstorm           | 0,00   |
 | RF44 | O usuário deve ser capaz de listar downloads                                                 | Brainstorm           | 0,00   |
 | RF46 | O usuário deve ser capaz de compartilhar um episodio (Whatsapp, Facebook, Instagram, etc)    | Brainstorm           | 0,00   |
-| RF55 | O usuário deve ser capaz de acessar página inicial *                                         | Brainstorm           | 0,00   |
 | RF64 | O usuário deve ser capaz de listar downloads                                                 | Brainstorm           | 0,00   |
 | RF65 | O usuário deve ser capaz de compartilhar um episodio (Whatsapp, Facebook, Instagram, etc)    | Brainstorm           | 0,00   |
 | RF66 | O usuário deve ser capaz de acessar página inicial *                                         | Brainstorm           | 0,00   |
@@ -109,9 +108,9 @@ O resultado da elicitação e priorização pode ser visto na tabela abaixo:
 
 | ID | Descrição                                               | Técnica    | R$   |
 |----|---------------------------------------------------------|------------|------|
-| 66 | O aplicativo não requer cadastro                        | Brainstorm | 3,00 |
-| 64 | O aplicativo deve ser intuitivo                         | Brainstorm | 2,00 |
-| 65 | O aplicativo deverá rodar em qualquer plataforma mobile | Brainstorm | 1,50 |
+| RNF 66 | O aplicativo não requer cadastro                        | Brainstorm | 3,00 |
+| RNF 64 | O aplicativo deve ser intuitivo                         | Brainstorm | 2,00 |
+| RNF 65 | O aplicativo deverá rodar em qualquer plataforma mobile | Brainstorm | 1,50 |
 
 ## Referências
 
