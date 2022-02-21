@@ -17,7 +17,7 @@ A equipe se reuniu no Discord e como todos os integrantes já haviam baixado e u
 - Abraão Alves
 - Amanda Nobre
 - Matheus Calixto
-- Matheus Fonseca
+- Matheus Sousa
 - Thais Rebouças
 - Yudi Yamane
 
