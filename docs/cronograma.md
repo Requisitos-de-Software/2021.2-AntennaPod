@@ -1,25 +1,12 @@
-# Planejamento
+# Cronograma
 
 ## Histórico de Versão
 
 | Data         | Versão   | Descrição              | Autor(es)               |
 |--------------|----------|------------------------|-------------------------|
-|  03.02.2022  |   0.1    |  Criação do documento  |  Amanda Nobre, Abraão   |
-|  10.02.2022  |   0.2    |  Retirada do Rich Picture  |  Amanda Nobre   |
-
-## Heatmap
-
-![Heatmap](img/heatmap.jpeg)
-<p align = "center"> 
-Figura 1 - Heatmap da Equipe <br>
-Autora: Amanda 
-</p>
-
-<p>O Heatmap mostra quantas pessoas da equipe estão disponiveis em determinados horários e dias. A tabela com as disponibilidades individuais está disponível no
-    <a href="https://docs.google.com/spreadsheets/d/1BLhhFdXQga0X0WAd7KLn-UkEZvHdPkqJEjPx4qN1C4I/edit?usp=sharing"> Google Sheets</a>.
-</p>
-
-## Cronograma
+|  03.02.2022  |   0.1    |  Criação do documento e do cronograma  |  Amanda Nobre, Abraão   |
+|  03.02.2022  |   0.2    |  Revisão  |  Matheus Sousa   |
+|  18.02.2022  |   0.3    |  Criação de uma nova versão do documento  |  Thaís Rebouças   |
 
 ### 1ª entrega: de 24/01 até 06/02
 
@@ -67,14 +54,3 @@ Autora: Amanda
 | Tarefa                   | Participante(s) | Revisor(es) | Estimativa de Entrega |
 |--------------------------|-----------------|-------------|-----------------------|
 | Entrega do projeto final | Todos           | A decidir   |     23/04             |
-
-## Ferramentas
-
-|Ferramenta|Descrição|
-|-|-|
-|<img width="100" height="100" src="../img/github.png" >|O GitHub será utilizado para rastramento de tarefas (issues) e hospedagem do site da documentação.|
-|<img width="100" height="100" src="../img/discord.png">|O Discord será utilizado para chamadas em grupo.|
-|<img width="100" height="100" src="../img/telegram.png">|O Telegram será utilizado para a comunicação da equipe.|
-|<img width="100" height="100" src="../img/canva.png">|O Canva será utilizado para confecção de slides para apresentação.|
-|<img width="100" height="100" src="../img/teams.png">|O Microsoft Teams será utilizado para a gravação dos vídeos em equipe.|
-|<img width="100" height="100" src="../img/drawio.png">|O Draw.io será utilizado para confecção de diagramas.|
