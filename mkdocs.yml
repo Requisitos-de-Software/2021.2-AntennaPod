@@ -19,6 +19,10 @@ nav:
   - Elicitação:
     - Técnicas:
       - Observação: elicitacao/observacao.md 
+      - Análise de Protocolo: analiseProtocolo.md
+      - Brainstorm: elicitacao/brainstorm.md
+      - Introspecção: elicitacao/introspeccao.md
+    - Resultado: elicitacao/resultado.md
   - Apresentações:
     - Apresentação-1: apresentacoes/apresentacao1.md
   
