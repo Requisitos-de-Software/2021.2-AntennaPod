@@ -14,17 +14,17 @@ theme:
 nav:
   - Início: index.md
   - Planejamento: 
-    - Metodologia: metodologia.md
-    - Heatmap: heatmap.md
-    - Cronograma: cronograma.md
+    - Metodologia: planejamento/metodologia.md
+    - Heatmap: planejamento/heatmap.md
+    - Cronograma: planejamento/cronograma.md
   - Pré-Rastreamento: 
-    - Rich Picture: richPicture.md
+    - Rich Picture: pre-rastreamento/richPicture.md
   - Elicitação:
     - Técnicas:
-      - Observação: elicitacao/observacao.md 
-      - Análise de Protocolo: analiseProtocolo.md
+      - Análise de Protocolo: elicitacao/analiseProtocolo.md
       - Brainstorm: elicitacao/brainstorm.md
       - Introspecção: elicitacao/introspeccao.md
+      - Observação: elicitacao/observacao.md
     - Resultado: elicitacao/resultado.md
   - Apresentações:
     - Apresentação-1: apresentacoes/apresentacao1.md

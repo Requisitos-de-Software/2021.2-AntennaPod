@@ -22,7 +22,7 @@ maior é a prioridade do requisito.
 - Amanda Nobre
 - Thais Rebouças
 - Matheus Calixto
-- Matheus Fonseca
+- Matheus Sousa
 - Yudi Yamane
 
 ## Metodologia
