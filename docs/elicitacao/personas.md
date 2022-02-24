@@ -7,7 +7,10 @@
 
 ## Introdução
 
-Falar sobre a teoria aqui...
+Uma persona é um personagem fictício que pertence a grupo de usuários e descreve as
+características de um usuário típico. São definidas as partir dos objetivos do 
+usuário que são descobertos quando é analisado o domínio da atividade do usuário
+em um processo incremental.
 
 ## Personas
 
@@ -61,4 +64,6 @@ colocar um disco para tocar em sua vitrola.
 
 ## Referências
 
-Quando necessárias, as referências devem estar em formato ABNT.
+<!-- Feito aqui ó: https://referenciabibliografica.net/a/pt-br/ref/abnt -->
+
+BARBOSA, Simone et al. Organização do espaço do problema: Personas. In: INTERAÇÃO Humano-Computador. 1. ed. [S. l.]: Elsevier, 2010. cap. 6, p. 176-183. ISBN 978-85-352-3418-3.
