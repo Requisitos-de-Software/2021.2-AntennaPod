@@ -14,23 +14,25 @@ Redigida por: _Autor_
     - Nome 4
     - Nome 5
 
-## Notas pré reunião
-
-Um breve comentário sobre a motivação da reunião.
-
 ## Pauta da Reunião
 
-Tópicos a serem discutidos.
+Um breve comentário sobre a motivação da reunião.
+- Tópicos a serem discutidos.
+
+## Reunião
+### Primeiro momento
+
+### Segundo momento
 
 # Tabelas de atividades
 ## Melhorias
 
-| Atividade         | Responsáveis   |
-|-------------------|----------------|
-|   |     |
+| Atividade | Responsáveis |
+| --------- | ------------ |
+|           |              |
 
 ## Próxima entrega
 
-| Atividade         | Responsáveis   |
-|-------------------|----------------|
-|   |     |
+| Atividade | Responsáveis |
+| --------- | ------------ |
+|           |              |
