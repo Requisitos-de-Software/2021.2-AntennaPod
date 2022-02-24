@@ -30,7 +30,7 @@ nav:
       - Brainstorm: elicitacao/brainstorm.md
       - Introspecção: elicitacao/introspeccao.md
       - Observação: elicitacao/observacao.md
-    - Resultado: elicitacao/resultado.md
+    - Priorização: elicitacao/100reais.md
   - Modelagem:
     - Casos de uso: modelagem/casosDeUso.md
     - Caso 01: modelagem/uc01.md
