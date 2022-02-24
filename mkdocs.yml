@@ -4,6 +4,10 @@ site_url: https://requisitos-de-software.github.io/2021.2-AntennaPod/
 repo_name: AntennaPod
 repo_url: https://github.com/Requisitos-de-Software/2021.2-AntennaPod
 
+markdown_extensions:
+  - attr_list
+  - md_in_html
+
 theme:
   name: material
   logo: img/favicon.ico
@@ -20,6 +24,7 @@ nav:
   - Pré-Rastreamento: 
     - Rich Picture: pre-rastreamento/richPicture.md
   - Elicitação:
+    - Personas: elicitacao/personas.md
     - Técnicas:
       - Análise de Protocolo: elicitacao/analiseProtocolo.md
       - Brainstorm: elicitacao/brainstorm.md
