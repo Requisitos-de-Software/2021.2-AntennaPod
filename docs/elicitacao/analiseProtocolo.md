@@ -21,6 +21,10 @@ Para realizar a análise o usuário Gabriel, que nunca teve contato com o aplica
 | ------------- | ------- |
 | Matheus Sousa | Gabriel |
 
+## Participantes
+- Matheus Sousa
+- Thais Rebouças
+
 ## Verbalização do Gabriel
 
 ### Tela de Adicionar Podcast

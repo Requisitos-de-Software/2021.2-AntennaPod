@@ -16,7 +16,7 @@ O Rich picture é uma forma de explorar, reconhecer e definir como um sistema se
 
 A primeira versão do RichPicture do projeto foi feita a mão, quase que como um protótipo, para passar pela aprovação da equipe.
 
-![Rich Picture](img/richpicture.jpg)
+![Rich Picture](../../img/richpicture.jpg)
 <p align = "center"> 
 Figura 1 - RichPicture versão 1.0 <br>
 Autora: Thais
@@ -27,7 +27,7 @@ Autora: Thais
 A segunda e última versão do RichPicture, diferente da primeira, foi feita na ferramenta Draw.io. Nenhuma
 mudança significativa foi feita, apenas deixando o artefato digital.
 
-![Rich Picture](img/richPicture2.png)
+![Rich Picture](../../img/richPicture2.png)
 <p align = "center"> 
 Figura 2 - RichPicture versão 2.0 <br>
 Autor: Yudi

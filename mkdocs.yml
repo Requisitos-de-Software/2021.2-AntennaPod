@@ -13,18 +13,22 @@ theme:
 
 nav:
   - Início: index.md
-  - Planejamento: planejamento.md
+  - Planejamento: 
+    - Metodologia: planejamento/metodologia.md
+    - Heatmap: planejamento/heatmap.md
+    - Cronograma: planejamento/cronograma.md
   - Pré-Rastreamento: 
-    - Rich Picture: richPicture.md
+    - Rich Picture: pre-rastreamento/richPicture.md
   - Elicitação:
     - Técnicas:
-      - Observação: elicitacao/observacao.md 
-      - Análise de Protocolo: analiseProtocolo.md
+      - Análise de Protocolo: elicitacao/analiseProtocolo.md
       - Brainstorm: elicitacao/brainstorm.md
       - Introspecção: elicitacao/introspeccao.md
+      - Observação: elicitacao/observacao.md
     - Priorização: elicitacao/100reais.md
   - Apresentações:
     - Apresentação-1: apresentacoes/apresentacao1.md
+    - Apresentação-2: apresentacoes/apresentacao2.md
   
 extra_css:
   - 'css/style.css'

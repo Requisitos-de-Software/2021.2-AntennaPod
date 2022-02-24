@@ -26,7 +26,7 @@ Os participantes para essa técnica são os integrantes da equipe do projeto:
 - Amanda Nobre
 - Thais Rebouças
 - Matheus Calixto
-- Matheus Fonseca
+- Matheus Sousa
 - Yudi Yamane
 
 ## Metodologia

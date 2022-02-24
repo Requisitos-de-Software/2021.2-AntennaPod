@@ -1,39 +1,29 @@
-# Planejamento
+# Cronograma
 
 ## Histórico de Versão
 
 | Data         | Versão   | Descrição              | Autor(es)               |
 |--------------|----------|------------------------|-------------------------|
-|  03.02.2022  |   0.1    |  Criação do documento  |  Amanda Nobre, Abraão   |
-|  10.02.2022  |   0.2    |  Retirada do Rich Picture  |  Amanda Nobre   |
-
-## Heatmap
-
-![Heatmap](img/heatmap.jpeg)
-<p align = "center"> 
-Figura 1 - Heatmap da Equipe <br>
-Autora: Amanda 
-</p>
-
-<p>O Heatmap mostra quantas pessoas da equipe estão disponiveis em determinados horários e dias. A tabela com as disponibilidades individuais está disponível no
-    <a href="https://docs.google.com/spreadsheets/d/1BLhhFdXQga0X0WAd7KLn-UkEZvHdPkqJEjPx4qN1C4I/edit?usp=sharing"> Google Sheets</a>.
-</p>
-
-## Cronograma
+|  03.02.2022  |   0.1    |  Criação do documento e do cronograma  |  Amanda Nobre, Abraão Alves  |
+|  03.02.2022  |   0.2    |  Revisão  |  Matheus Sousa   |
+|  18.02.2022  |   0.3    |  Criação de uma nova versão do documento  |  Thaís Rebouças   |
 
 ### 1ª entrega: de 24/01 até 06/02
 
 | Tarefa       | Participante(s) | Revisor(es) | Entrega |
 |--------------|-----------------|-------------|---------|
-| Cronograma   | Amanda e Abraão | Matheus Fonseca    | 03/02   |
+| Cronograma   | Amanda e Abraão| Matheus Sousa    | 03/02   |
 | HeatMap      | Amanda          | Matheus Calixto       | 03/02   |
 | Rich Picture | Yudi            | Thais       | 03/02   |
 
 ### 2ª entrega: de 06/02 até 20/02
 | Tarefa       | Participante(s) | Revisor(es) | Estimativa de Entrega |
 |--------------|-----------------|-------------|-----------------------|
-| Técnicas     | A decidir       | A decidir   | 18/02                 |
-| Priorizações | A decidir       | A decidir   | 18/02                 |
+| Análise de Protocolo  | Matheus Sousa e Thais | Abraão | 11/02                 |
+| Brainstorm   | Amanda, Abraão, Matheus Sousa e Yudi | Matheus Calixto | 15/02                 |
+| Introspecção | Todos       | Amanda   | 18/02                 |
+| Observação   | Matheus Calixto e Yudi       | Thais   | 17/02                 |
+| Priorização R$ 100 | Todos       | Yudi   | 18/02                 |
 
 ### 3ª entrega: de 20/02 até 06/03
 
@@ -67,14 +57,3 @@ Autora: Amanda
 | Tarefa                   | Participante(s) | Revisor(es) | Estimativa de Entrega |
 |--------------------------|-----------------|-------------|-----------------------|
 | Entrega do projeto final | Todos           | A decidir   |     23/04             |
-
-## Ferramentas
-
-|Ferramenta|Descrição|
-|-|-|
-|<img width="100" height="100" src="../img/github.png" >|O GitHub será utilizado para rastramento de tarefas (issues) e hospedagem do site da documentação.|
-|<img width="100" height="100" src="../img/discord.png">|O Discord será utilizado para chamadas em grupo.|
-|<img width="100" height="100" src="../img/telegram.png">|O Telegram será utilizado para a comunicação da equipe.|
-|<img width="100" height="100" src="../img/canva.png">|O Canva será utilizado para confecção de slides para apresentação.|
-|<img width="100" height="100" src="../img/teams.png">|O Microsoft Teams será utilizado para a gravação dos vídeos em equipe.|
-|<img width="100" height="100" src="../img/drawio.png">|O Draw.io será utilizado para confecção de diagramas.|

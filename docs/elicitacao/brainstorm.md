@@ -17,7 +17,7 @@ Não foi possível ser feita a reunião presencialmente devido à pandemia, mas,
 ## Participantes
 - Abraão Alves
 - Amanda Nobre
-- Matheus Fonseca
+- Matheus Sousa
 - Yudi Yamane
 
 ## Resultados
