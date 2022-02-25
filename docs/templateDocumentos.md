@@ -1,19 +1,28 @@
 # Título
 
 ## Histórico de versões
-| Data         | Versão   | Descrição              | Autor(es)               |
-|--------------|----------|------------------------|-------------------------|
-|  10.02.2022  |   0.1    |  Criação do documento  |  Amanda Nobre           |
+| Data       | Versão | Descrição            | Autor        | Revisor |
+| ---------- | ------ | -------------------- | ------------ | ------- |
+| 10.02.2022 | 0.1    | Criação do documento | Amanda Nobre | Thais   |
 
-## Tópico 1
+## Introdução
 
-Se o documento for de alguma técnica, o tópico um será a introdução.
-Texto do tópico 1.
+Introduçao explicando o artefato ou a técnica.
 
-### Subtópico 1
+## Metodologia
 
-Para imagens é necessário seguir a formatação:
+Explicação de como a equipe usou a técnica/criou o artefato: Em qual plataforma foi a reunião, quanto tempo durou, data da reunião, passos que o grupo seguiu e outras informações que o grupo julgar pertinente.
 
+## Participantes
+
+- Nome 1
+- Nome 2
+
+## Resultados
+
+Resultados da técnica/artefato.
+
+*Para imagens é necessário seguir a formatação:
 
 (IMAGEM) <br>
 Figura n - Título da imagem <br>
@@ -27,10 +36,10 @@ Figura 1 - Heatmap da Equipe <br>
 Autora: Amanda 
 </p>
 
-### Subtópico 2
+### Subtópico
 
-Texto do subtópico 2.
+Texto do subtópico.
 
 ## Referências
 
-Quando necessárias, as referências devem estar em formato ABNT.
+As referências devem estar em formato ABNT.
