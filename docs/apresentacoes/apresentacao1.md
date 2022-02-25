@@ -1,9 +1,9 @@
 # Apresentação 1
 
 ## Histórico de versões
-| Data       | Versão | Descrição            | Autor           | Revisor      |
-| ---------- | ------ | -------------------- | --------------- | ------------ |
-| 05.02.2022 | 1.0    | Criação do documento | Matheus Calixto | Amanda Nobre |
+| Data       | Versão | Descrição            | Autor                                            | Revisor                                      |
+| ---------- | ------ | -------------------- | ------------------------------------------------ | -------------------------------------------- |
+| 05.02.2022 | 1.0    | Criação do documento | [Matheus Calixto](https://github.com/matheuscvp) | [Amanda Nobre](https://github.com/AmandaNbr) |
 
 Apresentação referente a primeira entrega do projeto final da máteria requisitos de software, onde mostramos nosso integrantes, nosso cronograma, aplicativo escolhido e ferramentas utilizadas.
 
