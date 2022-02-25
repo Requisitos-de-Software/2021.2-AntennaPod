@@ -1,6 +1,7 @@
 # Brainstorm
 
 ## Histórico de versões
+
 | Data       | Versão | Descrição                          | Autor                      | Revisor |
 | ---------- | ------ | ---------------------------------- | -------------------------- | ------- |
 | 15.02.2022 | 1.0    | Criação do documento               | [Amanda Nobre](https://github.com/AmandaNbr) e [Abraão Alves](https://github.com/Abraao1231) | --      |
@@ -64,3 +65,7 @@ Não foi possível ser feita a reunião presencialmente devido à pandemia, mas,
 |  BSNF31  | O aplicativo deve ser fácil de ser utilizado |
 |  BSNF32  | O aplicativo deverá rodar em qualquer plataforma mobile |
 |  BSNF33  | O sistema não requere cadastro |
+
+### Referências
+
+WIEGERS, Karl; BEATTY, Joy. **Software Requirements**. 3. ed. [S. l.: s. n.], 2013.
