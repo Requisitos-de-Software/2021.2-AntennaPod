@@ -24,16 +24,18 @@ A equipe se reuniu no Discord e como todos os integrantes já haviam baixado e u
 
 ## Resultados
 
+### Requisitos funcionais
+
 |   ID   | Descrição              | 
 |--------|------------------------|
-|  INTR01  | O usuário deve ser capaz de sincronizar o aplicativo com a conta do gpodder.net |
-|  INTR02  | O usuário deve ser capaz de alterar o tema (visual) do aplicativo |
-|  INTR03  | O usuário deve ser capaz de visualizar estatísticas de horas de reprodução |
-|  INTR04  | O usuário deve ser capaz de visualizar estatísticas do tamanho dos downloads |
-|  INTR05  | O usuário deve ser capaz de navegar no aplicativo através da barra lateral |
-|  INTR06  | O usuário deve ser capaz de, ao reproduzir um episódio, avançar e voltar episódios |
-|  INTR07  | O usuário deve ser capaz de, ao reproduzir um episódio, avançar e voltar 10 segundos |
-|  INTR08  | O usuário deve ser capaz de realizar um backup de dados |
+|  INTF01  | O usuário deve ser capaz de sincronizar o aplicativo com a conta do gpodder.net |
+|  INTF02  | O usuário deve ser capaz de alterar o tema (visual) do aplicativo |
+|  INTF03  | O usuário deve ser capaz de visualizar estatísticas de horas de reprodução |
+|  INTF04  | O usuário deve ser capaz de visualizar estatísticas do tamanho dos downloads |
+|  INTF05  | O usuário deve ser capaz de navegar no aplicativo através da barra lateral |
+|  INTF06  | O usuário deve ser capaz de, ao reproduzir um episódio, avançar e voltar episódios |
+|  INTF07  | O usuário deve ser capaz de, ao reproduzir um episódio, avançar e voltar 10 segundos |
+|  INTF08  | O usuário deve ser capaz de realizar um backup de dados |
 
 ## Referências
 
