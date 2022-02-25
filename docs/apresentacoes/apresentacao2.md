@@ -1,9 +1,9 @@
 # Apresentação 2
 
 ## Histórico de versões
-| Data         | Versão   | Descrição              | Autor(es)               |
-|--------------|----------|------------------------|-------------------------|
-| 22.02.2022   | 1.0      |  criação do documento  | Matheus Calixto         |
+| Data       | Versão | Descrição            | Autor           | Revisor      |
+| ---------- | ------ | -------------------- | --------------- | ------------ |
+| 22.02.2022 | 1.0    | Criação do documento | Matheus Calixto | Amanda Nobre |
 
 Apresentação Referente a Elicitação e Priorização dos requisitos do AntennaPod.
 
