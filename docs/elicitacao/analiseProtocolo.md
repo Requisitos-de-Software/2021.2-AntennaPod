@@ -2,10 +2,10 @@
 
 ## Histórico de Versão
 
-| Data         | Versão   | Descrição              | Autor(es)               |
-|--------------|----------|------------------------|-------------------------|
-| 11.02.2022 | 0.1 | Criação do documento | Matheus Sousa, Thaís Rebouças |
-| 17.02.2022 | 0.2 | Adição da transcrição da entrevista e resultado da elicitação | Thaís Rebouças |
+| Data       | Versão | Descrição                                                     | Autor                         | Revisor |
+| ---------- | ------ | ------------------------------------------------------------- | ----------------------------- | ------- |
+| 11.02.2022 | 1.0    | Criação do documento                                          | [Matheus Sousa](https://github.com/gatotabaco) e [Thais Rebouças](https://github.com/Thais-ra) |    --    |
+| 17.02.2022 | 1.1    | Adição da transcrição da entrevista e resultado da elicitação | [Thais Rebouças](https://github.com/Thais-ra)                |   [Abraão Alves](https://github.com/Abraao1231)       |
 
 ## Introdução
 
@@ -19,11 +19,11 @@ Para realizar a análise o usuário Gabriel, que nunca teve contato com o aplica
 
 | Entrevistador | Usuário |
 | ------------- | ------- |
-| Matheus Sousa | Gabriel |
+| [Matheus Sousa](https://github.com/gatotabaco) | Gabriel |
 
 ## Participantes
-- Matheus Sousa
-- Thais Rebouças
+- [Matheus Sousa](https://github.com/gatotabaco)
+- [Thais Rebouças](https://github.com/Thais-ra)
 
 ## Verbalização do Gabriel
 

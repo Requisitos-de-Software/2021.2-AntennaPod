@@ -1,10 +1,10 @@
 # Brainstorm
 
 ## Histórico de versões
-| Data         | Versão   | Descrição              | Autor(es)               |
-|--------------|----------|------------------------|-------------------------|
-|  15.02.2022  |   0.1    |  Criação do documento  |  Amanda Nobre, Abraão Alves          |
-| 17.02.2022   |   0.2    | Edição da introdução e metodologia | Abraão Alves |
+| Data       | Versão | Descrição                          | Autor                      | Revisor |
+| ---------- | ------ | ---------------------------------- | -------------------------- | ------- |
+| 15.02.2022 | 1.0    | Criação do documento               | [Amanda Nobre](https://github.com/AmandaNbr) e [Abraão Alves](https://github.com/Abraao1231) | --      |
+| 17.02.2022 | 1.1    | Edição da introdução e metodologia | [Abraão Alves](https://github.com/Abraao1231) | [Matheus Calixto](https://github.com/matheuscvp) |
 
 ## Introdução
 
@@ -15,10 +15,10 @@ O brainstorming é basicamente uma técnica para geração de ideias onde é fe
 Não foi possível ser feita a reunião presencialmente devido à pandemia, mas, a reunião foi realizada remotamente no dia 07/02/2022 utilizando o discord para nos comunicarmos, e também, o miro para melhor demonstração das ideias que os integrantes da reunião idealizaram para o levantamento dos requisitos.
 
 ## Participantes
-- Abraão Alves
-- Amanda Nobre
-- Matheus Sousa
-- Yudi Yamane
+- [Abraão Alves](https://github.com/Abraao1231) 
+- [Amanda Nobre](https://github.com/AmandaNbr)
+- [Matheus Sousa](https://github.com/gatotabaco)
+- [Yudi Yamane](https://github.com/yudi-azvd)
 
 ## Resultados
 

@@ -1,10 +1,10 @@
 # Priorização: R$ 100
 
 ## Histórico de versões
-| Data       | Versão | Descrição                                                | Revisor        | Autor(es)   |
-| ---------- | ------ | -------------------------------------------------------- | -------------- | ----------- |
-| 18.02.2022 | 0.1    | Criação do documento                                     | ---            | Yudi Yamane |
-| 23.02.2022 | 1.0    | Renomeação do documento e esclarecimento da ténica R$100 | Thais Rebouças | Yudi Yamane |
+| Data       | Versão | Descrição                                                | Autor                                       | Revisor            |
+| ---------- | ------ | -------------------------------------------------------- | ------------------------------------------- | ------------------ |
+| 18.02.2022 | 1.0    | Criação do documento                                     | [Yudi Yamane](https://github.com/yudi-azvd) |          --          |
+| 23.02.2022 | 1.1    | Renomeação do documento e esclarecimento da ténica R$100 | [Yudi Yamane](https://github.com/yudi-azvd) | [Thais Rebouças](https://github.com/Thais-ra) |
 
 ## Introdução
 
@@ -22,12 +22,12 @@ maior é a prioridade do requisito.
 
 Os participantes para essa técnica são os integrantes da equipe do projeto:
 
-- Abraão Alves 
-- Amanda Nobre
-- Thais Rebouças
-- Matheus Calixto
-- Matheus Sousa
-- Yudi Yamane
+- [Abraão Alves](https://github.com/Abraao1231) 
+- [Amanda Nobre](https://github.com/AmandaNbr)
+- [Thais Rebouças](https://github.com/Thais-ra)
+- [Matheus Calixto](https://github.com/matheuscvp)
+- [Matheus Sousa](https://github.com/gatotabaco)
+- [Yudi Yamane](https://github.com/yudi-azvd)
 
 ## Metodologia
 Em reunião no Discord, os requisitos levantados pelos participantes foram colocados

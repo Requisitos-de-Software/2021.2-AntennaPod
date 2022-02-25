@@ -1,9 +1,9 @@
 # Observação
 
 ## Histórico de versões
-| Data         | Versão   | Descrição              | Autor(es)               |
-|--------------|----------|------------------------|-------------------------|
-|  17.02.2022  |   0.1    |  Criação do documento  |  Yudi Yamane            |
+| Data       | Versão | Descrição            | Autor       | Revisor |
+| ---------- | ------ | -------------------- | ----------- | ------- |
+| 17.02.2022 | 1.0    | Criação do documento | [Yudi Yamane](https://github.com/yudi-azvd) | [Amanda Nobre](https://github.com/AmandaNbr) |
 
 ## Introdução
 
@@ -20,8 +20,8 @@ procurar um podcast etc.
 
 ### Participantes
 
-- Matheus Calixto
-- Yudi Yamane
+- [Matheus Calixto](https://github.com/matheuscvp)
+- [Yudi Yamane](https://github.com/yudi-azvd)
 
 ## Resultado
 
