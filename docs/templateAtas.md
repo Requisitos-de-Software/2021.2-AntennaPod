@@ -1,5 +1,10 @@
 # Ata de Reunião do dia 00/00
 
+## Histórico de versões
+| Data       | Versão | Descrição            | Autor | Revisor |
+| ---------- | ------ | -------------------- | ----- | ------- |
+| 24.02.2022 | 0.1    | Criação do documento | Thaís | Amanda  |
+
 Reunião realizada no _Plataforma_.
 
 Data: 00 de mes de 2022
@@ -8,11 +13,11 @@ Redigida por: _Autor_
 
 ### Participantes:
 
-    - Nome 1
-    - Nome 2
-    - Nome 3
-    - Nome 4
-    - Nome 5
+- Nome 1
+- Nome 2
+- Nome 3
+- Nome 4
+- Nome 5
 
 ## Pauta da Reunião
 
