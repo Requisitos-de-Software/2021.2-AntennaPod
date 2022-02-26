@@ -5,9 +5,9 @@
 | ---------- | ------ | -------------------- | ----- | ------- |
 | 24.02.2022 | 0.1    | Criação do documento | Thaís | Amanda  |
 
-Reunião realizada no _Plataforma_.
+Reunião realizada no _Plataforma_
 
-Data: 00 de mes de 2022
+Data da reunião: 00 de mes de 2022
 
 Redigida por: _Autor_
 
