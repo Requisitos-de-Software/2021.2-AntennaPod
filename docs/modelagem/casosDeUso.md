@@ -26,6 +26,8 @@ nos links abaixo:
 
 [UC01 - Baixar episódio](./uc01.md)
 
+[UC02 - Assinar um podcast](./uc02.md)
+
 ## Referências
 
 WIEGERS, Karl et al. Understanding user requirements. In: SOFTWARE Requirements. 3. ed. [S. l.: s. n.], 2013. cap. 8.

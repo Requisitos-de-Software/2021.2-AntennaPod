@@ -33,7 +33,8 @@ nav:
     - Priorização: elicitacao/100reais.md
   - Modelagem:
     - Casos de uso: modelagem/casosDeUso.md
-    - Caso 01: modelagem/uc01.md
+    - Caso 01 - Baixar episódio: modelagem/uc01.md
+    - Caso 02 - Assinar podacast: modelagem/uc02.md
   - Apresentações:
     - Apresentação-1: apresentacoes/apresentacao1.md
     - Apresentação-2: apresentacoes/apresentacao2.md
