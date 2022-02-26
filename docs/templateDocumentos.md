@@ -1,9 +1,9 @@
 # Título
 
 ## Histórico de versões
-| Data       | Versão | Descrição            | Autor        | Revisor |
-| ---------- | ------ | -------------------- | ------------ | ------- |
-| 10.02.2022 | 0.1    | Criação do documento | Amanda Nobre | Thais   |
+| Data       | Versão | Descrição            | Autor                                        | Revisor                                       |
+| ---------- | ------ | -------------------- | -------------------------------------------- | --------------------------------------------- |
+| 10.02.2022 | 1.0    | Criação do documento | [Amanda Nobre](https://github.com/AmandaNbr) | [Thaís Rebouças](https://github.com/Thais-ra) |
 
 ## Introdução
 
@@ -11,12 +11,12 @@ Introduçao explicando o artefato ou a técnica.
 
 ## Metodologia
 
-Explicação de como a equipe usou a técnica/criou o artefato: Em qual plataforma foi a reunião, quanto tempo durou, data da reunião, passos que o grupo seguiu e outras informações que o grupo julgar pertinente.
+Explicação de como a equipe usou a técnica/criou o artefato: Em qual plataforma foi a reunião, quanto tempo durou, data da reunião, passos que o grupo seguiu e outras informações que o grupo julgar pertinentes.
 
 ## Participantes
 
-- Nome 1
-- Nome 2
+- Nome 1 (com link para o perfil no github)
+- Nome 2 (com link para o perfil no github)
 
 ## Resultados
 
