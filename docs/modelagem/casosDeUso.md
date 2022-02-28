@@ -1,9 +1,9 @@
 # Casos de Uso
 
 ## Histórico de versões
-| Data       | Versão | Descrição            | Revisores | Autor(es)   |
-| ---------- | ------ | -------------------- | --------- | ----------- |
-| 24.02.2022 | 0.1    | Criação do documento |           | Yudi Yamane |
+| Data       | Versão | Descrição            | Revisores      | Autor(es)   |
+| ---------- | ------ | -------------------- | -------------- | ----------- |
+| 24.02.2022 | 0.1    | Criação do documento | Thais Rebouças | Yudi Yamane |
 
 ## Introdução
 

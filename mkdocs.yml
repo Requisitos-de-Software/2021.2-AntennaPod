@@ -35,6 +35,7 @@ nav:
     - Casos de uso: modelagem/casosDeUso.md
     - Caso 01 - Baixar episódio: modelagem/uc01.md
     - Caso 02 - Assinar podacast: modelagem/uc02.md
+    - Caso 03 - Visualizar lista de podcasts assinados: modelagem/uc03.md
   - Apresentações:
     - Apresentação-1: apresentacoes/apresentacao1.md
     - Apresentação-2: apresentacoes/apresentacao2.md
