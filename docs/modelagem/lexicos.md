@@ -7,39 +7,37 @@
 
 ## Introdução
 
-Introduçao explicando o artefato ou a técnica. acabou
+Léxico é técnica de modelagem que tem como objeto principal a própria linguagem, pois busca descrever símbolos (palavras chave e frases recorrentes no desenvolvimento do projeto) para mapeá-los e entender as noções e impactos de cada símbolo levantado.
+
+A descrição de símbolos ocorre das 3 seguintes formas:
+
+| Tipo   | Noção                                                                    | Impacto                                                                                                      |
+| ------ | ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------ |
+| VERBO  | Quem realiza, quando acontece e quais os procedimentos envolvidos.       | Quais os reflexos da ação no ambiente (outras ações que devem ocorrer) e quais os novos estados decorrentes. |
+| OBJETO | Definir o objeto e identificar outros objetos com os quais se relaciona. | Ações que podem ser aplicadas ao objeto.                                                                     |
+| ESTADO | O que significa e quais ações levaram a esse estado.                     | Identificar outros estados e ações que podem ocorrer a partir do estado que se descreve.                     |
+
 
 ## Metodologia
 
-Explicação de como a equipe usou a técnica/criou o artefato: Em qual plataforma foi a reunião, quanto tempo durou, data da reunião, passos que o grupo seguiu e outras informações que o grupo julgar pertinentes.
+Para definir os léxicos o grupo utilizou o seguinte modelo:
+
+| LXX       | Nome do Léxico            |
+| --------- | ------------------------- |
+| Tipo      | (Verbo, objeto ou estado) |
+| Sinônimos | Sinônimos do léxico       |
+| Noção     | Noção do léxico           |
+| Impacto   | Impactos do léxico        |
+| Autor     | Autor do léxico           |
 
 ## Participantes
 
-- Nome 1 (com link para o perfil no github)
-- Nome 2 (com link para o perfil no github)
+- [Amanda Nobre](https://github.com/AmandaNbr)
 
 ## Resultados
 
 Resultados da técnica/artefato.
 
-*Para imagens é necessário seguir a formatação:
-
-(IMAGEM) <br>
-Figura n - Título da imagem <br>
-Autor ou Fonte
-
-Exemplo:
-
-![Heatmap](img/heatmap.jpeg)
-<p align = "center"> 
-Figura 1 - Heatmap da Equipe <br>
-Autora: Amanda 
-</p>
-
-### Subtópico
-
-Texto do subtópico.
-
 ## Referências
 
-As referências devem estar em formato ABNT.
+SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 10. 
