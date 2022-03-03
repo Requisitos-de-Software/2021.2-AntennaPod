@@ -3,7 +3,7 @@
 ## Histórico de versões
 | Data       | Versão | Descrição            | Revisores      | Autor(es)   |
 | ---------- | ------ | -------------------- | -------------- | ----------- |
-| 24.02.2022 | 0.1    | Criação do documento | Thais Rebouças | Yudi Yamane |
+| 24.02.2022 | 1.0    | Criação do documento | Thais Rebouças | Yudi Yamane |
 
 ## Introdução
 
@@ -22,11 +22,15 @@ e de exceção, pós condições e rastreabilidade.
 
 Com base nos requisitos levantados, os casos de uso foram realizados em 
 diagramas com a ferramenta Draw.io. Os resultados podem ser observados clicando
-nos links abaixo:
+nos links da lista de casos de uso logo abaixo.
+
+## Lista de casos de uso
 
 [UC01 - Baixar episódio](./uc01.md)
 
 [UC02 - Assinar um podcast](./uc02.md)
+
+[UC03 - Visualizar lista de podcasts assinados](./uc02.md)
 
 ## Referências
 
