@@ -38,6 +38,7 @@ Por ter um gosto não muito abrangente, Luana prefere favoritar os seus podcasts
 e receber notificações de novos episódios. Assim ela não precisa ficar se lembrando
 de checar de tempos em tempos se há um novo episódio.
 
+
 ### Fabio Ribeiro
 
 <figure markdown>
@@ -56,6 +57,27 @@ _"Quero me atualizar sobre oportunidades de negocio"_
 Fabio Ribeiro, 34 anos, é empreendedor desde que terminou sua faculdade e decidiu aprender mais sobre o mundo dos negócios para poder participar de mais perto sobre como as empresas funcionam e são criadas e mantidas para um melhor desenvolvimento dos seus projetos.
 
 Fábio também gosta de ser manter sempre ligado a novas tecnologias, principalmente, para melhores inovações dentro de empresas, por isso, fábio vive ouvindo podcasts de empreendedorismo e tecnologia. E por ter querer se manter sempre antenado com tudo isso, ele gosta de receber notificações sempre que chegarem novos episódios de suas assinaturas assim que lançados.
+
+
+### Alexandre Neto
+
+<figure markdown>
+  ![Heatmap](../../img/persona-alexandre.jpg){ width="200" }
+  <figcaption> Imagem 6: persona Alexandre Neto </figcaption>
+  Fonte: thispersondoesnotexist
+</figure>
+
+- Idade: 28
+- Sexo: Masculino
+- Ocupação: Professor de Ciências
+- Escolaridade: Ensino superior completo
+
+_"Gosto de compartilhar informações com meus alunos"_
+
+Alexandre Neto, 28 anos, é um professor de ciências naturais do ensino médio. gosta de se manter sempre informado sobre diversos assuntos na area das ciências de modo geral utilizando podcast para aprender novos assuntos para compartilhar com seus alunos. porém durante a ida até a escola ele não possui acesso a internet para ouvir seus podcasts, então, ele resolve baixar os seus podcasts em casa para poder assistir durante a ida até a escola e quando possível, também compartilha os episódios com seus alunos através das redes sociais.
+
+
+
 ### Dona Lurdes
 
 <figure markdown>
