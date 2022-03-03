@@ -4,11 +4,10 @@ O Heatmap mostra quantas pessoas da equipe estão disponiveis em determinados ho
 
 ## Histórico de Versão
 
-| Data         | Versão   | Descrição              | Autor(es)               |
-|--------------|----------|------------------------|-------------------------|
-|  03.02.2022  |   0.1    |  Criação do documento e criação do headmap  |  Amanda Nobre, Abraão   |
-|  03.02.2022  |   0.2    |  Revisão do headmap  |  Matheus Calixto   |
-|  18.02.2022  |   0.3    |  Criação de uma nova versão do documento  |  Thaís Rebouças   |
+| Data       | Versão | Descrição                                 | Autor                                                                                        | Revisor                                          |
+| ---------- | ------ | ----------------------------------------- | -------------------------------------------------------------------------------------------- | ------------------------------------------------ |
+| 03.02.2022 | 1.0    | Criação do documento e criação do headmap | [Amanda Nobre](https://github.com/AmandaNbr) e [Abraão Alves](https://github.com/Abraao1231) | [Matheus Calixto](https://github.com/matheuscvp) |
+| 18.02.2022 | 1.1    | Criação de uma nova versão do documento   | [Thais Rebouças](https://github.com/Thais-ra)                                                | [Amanda Nobre](https://github.com/AmandaNbr)     |
 
 ![Heatmap](../../img/heatmap.jpeg)
 <p align = "center"> 
