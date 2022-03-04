@@ -223,4 +223,5 @@ Para definir os léxicos o grupo utilizou o seguinte modelo:
 ## Referências
 
 SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 10.
+
 REQUISITOS DE SOFTWARE, DisneyPlus 2021.1. Léxicos. Disponível em: <https://requisitos-de-software.github.io/2021.1-DisneyPlus/modelagem/lexicos/#l04-conta>
