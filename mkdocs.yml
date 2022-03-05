@@ -26,6 +26,8 @@ nav:
       - Introspecção: elicitacao/introspeccao.md
       - Observação: elicitacao/observacao.md
     - Priorização: elicitacao/100reais.md
+  - Modelagem:
+    - Especificação Suplementar: modelagem/especificacaoSuplementar.md
   - Apresentações:
     - Apresentação-1: apresentacoes/apresentacao1.md
     - Apresentação-2: apresentacoes/apresentacao2.md

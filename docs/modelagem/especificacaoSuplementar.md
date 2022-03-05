@@ -1,13 +1,13 @@
-# Título
+# Especificação Suplementar
 
 ## Histórico de versões
 | Data       | Versão | Descrição            | Autor                                            | Revisor |
 | ---------- | ------ | -------------------- | ------------------------------------------------ | ------- |
-| 03.03.2022 | 1.0    | Criação do documento | [Matheus Calixto](https://github.com/matheuscvp) |         |
+| 05.03.2022 | 1.0    | Criação do documento | [Matheus Calixto](https://github.com/matheuscvp) |         |
 
 ## Introdução
 
-Especificação Suplementar é um documento em linguagem natural, no qual são descritos requisitos não funcionais. As Especificações Suplementares são um importante complemento para o Modelo de Caso de Uso, porque, juntas, capturam todos os requisitos de software (funcionais e não funcionais) que precisam ser descritos para servir como uma Especificação de Requisitos de Software completa. A Especificação Suplementar captura os requisitos do sistema que não são prontamente capturados nos casos de uso do modelo de caso de uso. Entre os requisitos estão incluídos:
+&emsp;&emsp; Especificação Suplementar é um documento que irá descrever os requisitos não funcionais. Este documento tem como objetivo ser um complemento do Modelo de Caso de Uso, pois juntos capturam os requisitos funcionais e não funcionais, para assim termos todos os requisitos de software descritos. A Especificação Suplementar captura os requisitos do sistema que não são prontamente capturados nos casos de uso do modelo de caso de uso. Entre os requisitos estão incluídos:
 
 - Requisitos legais e de regulamentação e padrões de aplicativo;
 - Atributos de qualidade do sistema a ser criado, incluindo requisitos de usabilidade, confiabilidade, desempenho e suportabilidade;
@@ -15,35 +15,39 @@ Especificação Suplementar é um documento em linguagem natural, no qual são d
 
 ## Metodologia
 
-Explicação de como a equipe usou a técnica/criou o artefato: Em qual plataforma foi a reunião, quanto tempo durou, data da reunião, passos que o grupo seguiu e outras informações que o grupo julgar pertinentes.
+&emsp;&emsp;Uma ótima maneira de especificar os requisitos não funcionais é usando o padrão denomindado pelo acrônimo FURPS+, o qual se refere à:
 
-## Participantes
+- *Functionality (funcionalidade):* enfoca os requisitos funcionais.
 
-- Nome 1 (com link para o perfil no github)
-- Nome 2 (com link para o perfil no github)
+- *Usability (usabilidade):* trata da facilidade de uso do software e inclui fatores humanos, estética, consistência na interface do usuário, ajuda on-line e contextual, assistentes, documentação, materiais de treinamento
+
+- *Reliability (confiabilidade):* trata de integridade, conformidade e interoperabilidade do software. Inclui aspectos de frequência e gravidade de falha, possibilidade de recuperação de falhas, previsibilidade, exatidão e tempo médio entre falhas.
+
+- *Performance (desempenho):*  trata de velocidade, eficiência, taxa de transferência, tempo de resposta e uso de recursos.
+
+- *Supportability (suportabilidade):* trata de extensibilidade, adaptabilidade, manutenibilidade, compatibilidade, configurabilidade, escalabilidade, instalabilidade, localizabilidade (ex.: internacionalização) e testabilidade.
+
+- *+* refere-se: as restrições de design, de implementação, de interface e física.
+
 
 ## Resultados
 
-Resultados da técnica/artefato.
+&emsp;&emsp;Após a elicitação dos requisitos do sistema capturamos os seguintes requisitos Não-Funcionais:
 
-*Para imagens é necessário seguir a formatação:
+| ID    | Descrição                                               | Técnica    | R$   |
+| ----- | ------------------------------------------------------- | ---------- | ---- |
+| RNF01 | O aplicativo não requer cadastro                        | Brainstorm | 3,00 |
+| RNF02 | O aplicativo deve ser intuitivo                         | Brainstorm | 2,00 |
+| RNF03 | O aplicativo deverá rodar em qualquer plataforma mobile | Brainstorm | 1,50 |
 
-(IMAGEM) <br>
-Figura n - Título da imagem <br>
-Autor ou Fonte
+&emsp;&emsp;Após analisarmos usando o padrão FURPS, teremos esses requisitos separados da seguinte maneira:
 
-Exemplo:
+- <strong>RNF01 - O aplicativo não requer cadastro</strong>, esse se enquadra em *Performance*, pois permite ao usuário conseguir utilizar de todos as funcionalidades do software sem precisar se cadastrar no mesmo.
 
-![Heatmap](img/heatmap.jpeg)
-<p align = "center"> 
-Figura 1 - Heatmap da Equipe <br>
-Autora: Amanda 
-</p>
+- <strong>RNF02 - O aplicativo deve ser intuitivo</strong>, esse se enquadra em *Usability*, pois tratará de questões de facilidade de uso.
 
-### Subtópico
-
-Texto do subtópico.
+- <strong>RNF03 - O aplicativo deverá rodar em qualquer plataforma mobile</strong>,  esse se enquadra em *Supportability* , pois trata do aspecto da compatibilidade e escalabiidade do software.
 
 ## Referências
 
-As referências devem estar em formato ABNT.
+VAZQUEZ, Carlos Eduardo; SIQUEIRA SIMÕES, Guilerme. Engenharia de Requisitos: Software orientado ao negócio. 1. ed. rev. [S. l.: s. n.], 2016.
