@@ -1,9 +1,9 @@
 # Personas
 
 ## Histórico de versões
-| Data       | Versão | Descrição            | Revisores | Autor(es)                            |
-| ---------- | ------ | -------------------- | --------- | ------------------------------------ |
-| 23.02.2022 | 0.1    | Criação do documento |           | Yudi Yamane, Abraão, Matheus Fonseca |
+| Data       | Versão | Descrição            | Revisores    | Autor(es)                            |
+| ---------- | ------ | -------------------- | ------------ | ------------------------------------ |
+| 23.02.2022 | 0.1    | Criação do documento | Amanda Nobre | Yudi Yamane, Abraão, Matheus Fonseca |
 
 ## Introdução
 
