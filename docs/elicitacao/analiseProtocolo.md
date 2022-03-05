@@ -2,10 +2,10 @@
 
 ## Histórico de Versão
 
-| Data         | Versão   | Descrição              | Autor(es)               |
-|--------------|----------|------------------------|-------------------------|
-| 11.02.2022 | 0.1 | Criação do documento | Matheus Sousa, Thaís Rebouças |
-| 17.02.2022 | 0.2 | Adição da transcrição da entrevista e resultado da elicitação | Thaís Rebouças |
+| Data       | Versão | Descrição                                                     | Autor                         | Revisor |
+| ---------- | ------ | ------------------------------------------------------------- | ----------------------------- | ------- |
+| 11.02.2022 | 1.0    | Criação do documento                                          | [Matheus Sousa](https://github.com/gatotabaco) e [Thais Rebouças](https://github.com/Thais-ra) |    --    |
+| 17.02.2022 | 1.1    | Adição da transcrição da entrevista e resultado da elicitação | [Thais Rebouças](https://github.com/Thais-ra)                |   [Abraão Alves](https://github.com/Abraao1231)       |
 
 ## Introdução
 
@@ -19,11 +19,11 @@ Para realizar a análise o usuário Gabriel, que nunca teve contato com o aplica
 
 | Entrevistador | Usuário |
 | ------------- | ------- |
-| Matheus Sousa | Gabriel |
+| [Matheus Sousa](https://github.com/gatotabaco) | Gabriel |
 
 ## Participantes
-- Matheus Sousa
-- Thais Rebouças
+- [Matheus Sousa](https://github.com/gatotabaco)
+- [Thais Rebouças](https://github.com/Thais-ra)
 
 ## Verbalização do Gabriel
 
@@ -53,30 +53,31 @@ Aqui imagino que ficariam os episódios que eu assisti. Mas tá vazio.
 
 ## Resultados
 
-| ID | Descrição |
-| -- | --------- |
-| AP01 | O usuário deve conseguir se inscrever no podcast que ele deseja |
-| AP02 | O usuário deve conseguir pesquisar pelos podcasts disponíveis |
-| AP03 | O usuário deve conseguir pesquisar podcasts disponíveis no iTunes |
-| AP04 | O usuário deve conseguir pesquisar pelos episódios de cada podcast |
-| AP05 | O usuário deve conseguir filtrar os episódios de podcast |
-| AP06 | O usuário deve conseguir ordenar os episódios de podcast |
-| AP07 | O usuário deve conseguir visualizar suas assinaturas |
-| AP08 | O usuário deve conseguir visualizar os episódios dos podcasts |
-| AP09 | O usuário deve conseguir fazer downloads dos episódios que deseja |
-| AP10 | O usuário deve conseguir visualizar seus downloads |
-| AP11 | O usuário deve conseguir importar uma lista de podcast |
-| AP12 | O usuário deve ser capaz de navegar no app através de uma barra lateral |
-| AP13 | O usuário deve conseguir atualizar de lista de episódios |
-| AP14 | O usuário deve ser capaz de ser redirecionado para o website do podcast assinado por um link |
-| AP15 | O usuário deve conseguir compartilhar o podcast |
-| AP16 | O usuário deve ser capaz de compartilhar um episodio (Whatsapp, Facebook, Instagram, etc) |
-| AP17 | O usuário deve conseguir renomear o podcast assinado |
-| AP18 | O usuário deve conseguir remover o podcast das suas assinaturas |
-| AP19 | O usuário deve conseguir visualizar informações sobre o podcast |
-| AP20 | O usuário deve conseguir alterar a ordem da fila de reprodução |
-| AP21 | O usuário deve conseguir visualizar o histórico de reprodução |
+### Requisitos funcionais
 
+| ID    | Descrição                                                                                    |
+| ----- | -------------------------------------------------------------------------------------------- |
+| APF01 | O usuário deve conseguir se inscrever no podcast que ele deseja                              |
+| APF02 | O usuário deve conseguir pesquisar pelos podcasts disponíveis                                |
+| APF03 | O usuário deve conseguir pesquisar podcasts disponíveis no iTunes                            |
+| APF04 | O usuário deve conseguir pesquisar pelos episódios de cada podcast                           |
+| APF05 | O usuário deve conseguir filtrar os episódios de podcast                                     |
+| APF06 | O usuário deve conseguir ordenar os episódios de podcast                                     |
+| APF07 | O usuário deve conseguir visualizar suas assinaturas                                         |
+| APF08 | O usuário deve conseguir visualizar os episódios dos podcasts                                |
+| APF09 | O usuário deve conseguir fazer downloads dos episódios que deseja                            |
+| APF10 | O usuário deve conseguir visualizar seus downloads                                           |
+| APF11 | O usuário deve conseguir importar uma lista de podcast                                       |
+| APF12 | O usuário deve ser capaz de navegar no app através de uma barra lateral                      |
+| APF13 | O usuário deve conseguir atualizar de lista de episódios                                     |
+| APF14 | O usuário deve ser capaz de ser redirecionado para o website do podcast assinado por um link |
+| APF15 | O usuário deve conseguir compartilhar o podcast                                              |
+| APF16 | O usuário deve ser capaz de compartilhar um episodio (Whatsapp, Facebook, Instagram, etc)    |
+| APF17 | O usuário deve conseguir renomear o podcast assinado                                         |
+| APF18 | O usuário deve conseguir remover o podcast das suas assinaturas                              |
+| APF19 | O usuário deve conseguir visualizar informações sobre o podcast                              |
+| APF20 | O usuário deve conseguir alterar a ordem da fila de reprodução                               |
+| APF21 | O usuário deve conseguir visualizar o histórico de reprodução                                |
 
 ## Referências
 

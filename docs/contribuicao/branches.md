@@ -2,10 +2,10 @@ Documento de padronização das branches do projeto.
 
 ## Histórico de Versões
 
-| Data       | Versão | Descrição | Autor             |
-| :--------: | :----: | :----------: | :---------------: |
-| 10/02/2022 |  1.0  | Criação da política de branch | [Matheus Sousa](https://github.com/gatotabaco)|
-| 17/02/2022 |  1.1  | Correções gramaticais | [Matheus Sousa](https://github.com/gatotabaco)|
+|    Data    | Versão |       Descrição       |                     Autor                      | Revisor                                       |
+| :--------: | :----: | :-------------------: | :--------------------------------------------: | --------------------------------------------- |
+| 10/02/2022 |  1.0   | Criação do documento  | [Matheus Sousa](https://github.com/gatotabaco) | [Abraão Alves](https://github.com/Abraao1231) |
+| 17/02/2022 |  1.1   | Correções gramaticais | [Matheus Sousa](https://github.com/gatotabaco) | [Abraão Alves](https://github.com/Abraao1231) |
 
 ## Padronização das Branches
 
