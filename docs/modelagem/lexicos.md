@@ -7,7 +7,7 @@
 
 ## Introdução
 
-Léxico é técnica de modelagem que tem como objeto principal a própria linguagem, pois busca descrever símbolos (palavras chave e frases recorrentes no desenvolvimento do projeto) para mapeá-los e entender as noções e impactos de cada símbolo levantado.
+Léxico é uma técnica de modelagem que tem como objeto principal a própria linguagem, pois busca descrever símbolos (palavras chave e frases recorrentes no desenvolvimento do projeto) para mapeá-los e entender as noções e impactos de cada símbolo levantado.
 
 A descrição de símbolos ocorre das 3 seguintes formas:
 
