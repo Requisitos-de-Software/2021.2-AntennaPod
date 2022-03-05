@@ -1,10 +1,10 @@
 # RichPicture
 
 ## Histórico de versões
-| Data         | Versão   | Descrição              | Autor(es)               |
-|--------------|----------|------------------------|-------------------------|
-|  10.02.2022  |   0.1    |  Criação do documento  |  Amanda Nobre           |
-|  11.02.2022  |   0.2    |  Atualização do rich picture  |  Yudi Yamane           |
+| Data       | Versão | Descrição                   | Autor                                        | Revisor                                       |
+| ---------- | ------ | --------------------------- | -------------------------------------------- | --------------------------------------------- |
+| 10.02.2022 | 1.0    | Criação do documento        | [Amanda Nobre](https://github.com/AmandaNbr) | [Thais Rebouças](https://github.com/Thais-ra) |
+| 11.02.2022 | 1.1    | Atualização do rich picture | [Yudi Yamane](https://github.com/yudi-azvd)  | [Amanda Nobre](https://github.com/AmandaNbr)  |
 
 ## Introdução
 

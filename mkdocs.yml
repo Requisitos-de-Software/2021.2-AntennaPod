@@ -1,5 +1,5 @@
 site_name: AntennaPod
-site_url: https://requisitos-de-software.github.io/2021.2-AntennaPod/
+site_url: https://requisitos-de-software.github.io/2021.2-AntennaPod
 
 repo_name: AntennaPod
 repo_url: https://github.com/Requisitos-de-Software/2021.2-AntennaPod
@@ -7,6 +7,7 @@ repo_url: https://github.com/Requisitos-de-Software/2021.2-AntennaPod
 markdown_extensions:
   - attr_list
   - md_in_html
+
 
 theme:
   name: material
@@ -30,7 +31,19 @@ nav:
       - Brainstorm: elicitacao/brainstorm.md
       - Introspecção: elicitacao/introspeccao.md
       - Observação: elicitacao/observacao.md
-    - Resultado: elicitacao/resultado.md
+    - Priorização: elicitacao/100reais.md
+  - Modelagem:
+    - Casos de uso: 
+      - O que é: modelagem/casosDeUso/casosDeUso.md
+      - Caso 01 - Baixar episódio: modelagem/casosDeUso/uc01.md
+      - Caso 02 - Assinar podacast: modelagem/casosDeUso/uc02.md
+      - Caso 03 - Visualizar lista de podcasts assinados: modelagem/casosDeUso/uc03.md
+  - Atas de reuniões:
+    - Fevereiro:
+      - Dia 02: reunioes/02-02.md
+      - Dia 09: reunioes/09-02.md
+      - Dia 17: reunioes/17-02.md
+      - Dia 23: reunioes/23-02.md
   - Apresentações:
     - Apresentação-1: apresentacoes/apresentacao1.md
     - Apresentação-2: apresentacoes/apresentacao2.md

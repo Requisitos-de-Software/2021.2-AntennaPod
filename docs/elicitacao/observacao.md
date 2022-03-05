@@ -1,9 +1,9 @@
 # Observação
 
 ## Histórico de versões
-| Data         | Versão   | Descrição              | Autor(es)               |
-|--------------|----------|------------------------|-------------------------|
-|  17.02.2022  |   0.1    |  Criação do documento  |  Yudi Yamane            |
+| Data       | Versão | Descrição            | Autor       | Revisor |
+| ---------- | ------ | -------------------- | ----------- | ------- |
+| 17.02.2022 | 1.0    | Criação do documento | [Yudi Yamane](https://github.com/yudi-azvd) | [Amanda Nobre](https://github.com/AmandaNbr) |
 
 ## Introdução
 
@@ -20,17 +20,18 @@ procurar um podcast etc.
 
 ### Participantes
 
-- Matheus Calixto
-- Yudi Yamane
+- [Matheus Calixto](https://github.com/matheuscvp)
+- [Yudi Yamane](https://github.com/yudi-azvd)
 
 ## Resultado
 
-| ID    | Descrição                                                          |
-|-------|--------------------------------------------------------------------|
-| OBS01 | Ouvir um episódio sem ter que se inscrever em seu podcast           |
-| OBS02 | Baixar um episódio sem ter que se inscrever em seu podcast          |
-| OBS03 | Deve existir uma forma direta e fácil de acessar a página principal             |
+### Requisitos funcionais
 
+| ID     | Descrição                                                           |
+| ------ | ------------------------------------------------------------------- |
+| OBSF01 | Ouvir um episódio sem ter que se inscrever em seu podcast           |
+| OBSF02 | Baixar um episódio sem ter que se inscrever em seu podcast          |
+| OBSF03 | Deve existir uma forma direta e fácil de acessar a página principal |
 
 ## Referências
 

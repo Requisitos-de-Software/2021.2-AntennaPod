@@ -1,9 +1,9 @@
 # Introspecção
 
 ## Histórico de versões
-| Data         | Versão   | Descrição              | Autor(es)               |
-|--------------|----------|------------------------|-------------------------|
-|  18.02.2022  |   0.1    |  Criação do documento  |  Amanda Nobre           |
+| Data       | Versão | Descrição            | Autor                                        | Revisor                                     |
+| ---------- | ------ | -------------------- | -------------------------------------------- | ------------------------------------------- |
+| 18.02.2022 | 1.0    | Criação do documento | [Amanda Nobre](https://github.com/AmandaNbr) | [Yudi Yamane](https://github.com/yudi-azvd) |
 
 ## Introdução
 
@@ -14,25 +14,28 @@ A introspecção é o método que prevê estimar e imaginar que funcionalidades 
 A equipe se reuniu no Discord e como todos os integrantes já haviam baixado e utilizado o app com antecedência foi bastante tranquilo se colocar no lugar de usuário para levantar requisitos.
 
 ## Participantes
-- Abraão Alves
-- Amanda Nobre
-- Matheus Calixto
-- Matheus Sousa
-- Thais Rebouças
-- Yudi Yamane
+
+- [Abraão Alves](https://github.com/Abraao1231) 
+- [Amanda Nobre](https://github.com/AmandaNbr)
+- [Thais Rebouças](https://github.com/Thais-ra)
+- [Matheus Calixto](https://github.com/matheuscvp)
+- [Matheus Sousa](https://github.com/gatotabaco)
+- [Yudi Yamane](https://github.com/yudi-azvd)
 
 ## Resultados
 
+### Requisitos funcionais
+
 |   ID   | Descrição              | 
 |--------|------------------------|
-|  INTR01  | O usuário deve ser capaz de sincronizar o aplicativo com a conta do gpodder.net |
-|  INTR02  | O usuário deve ser capaz de alterar o tema (visual) do aplicativo |
-|  INTR03  | O usuário deve ser capaz de visualizar estatísticas de horas de reprodução |
-|  INTR04  | O usuário deve ser capaz de visualizar estatísticas do tamanho dos downloads |
-|  INTR05  | O usuário deve ser capaz de navegar no aplicativo através da barra lateral |
-|  INTR06  | O usuário deve ser capaz de, ao reproduzir um episódio, avançar e voltar episódios |
-|  INTR07  | O usuário deve ser capaz de, ao reproduzir um episódio, avançar e voltar 10 segundos |
-|  INTR08  | O usuário deve ser capaz de realizar um backup de dados |
+|  INTF01  | O usuário deve ser capaz de sincronizar o aplicativo com a conta do gpodder.net |
+|  INTF02  | O usuário deve ser capaz de alterar o tema (visual) do aplicativo |
+|  INTF03  | O usuário deve ser capaz de visualizar estatísticas de horas de reprodução |
+|  INTF04  | O usuário deve ser capaz de visualizar estatísticas do tamanho dos downloads |
+|  INTF05  | O usuário deve ser capaz de navegar no aplicativo através da barra lateral |
+|  INTF06  | O usuário deve ser capaz de, ao reproduzir um episódio, avançar e voltar episódios |
+|  INTF07  | O usuário deve ser capaz de, ao reproduzir um episódio, avançar e voltar 10 segundos |
+|  INTF08  | O usuário deve ser capaz de realizar um backup de dados |
 
 ## Referências
 

@@ -2,9 +2,9 @@
 
 ## Histórico de Versão
 
-| Data         | Versão   | Descrição              | Autor(es)               |
-|--------------|----------|------------------------|-------------------------|
-|  18.02.2022  |   0.1    |  Criação do documento  |  Thaís Rebouças   |
+| Data       | Versão | Descrição            | Autor                                         | Revisor                                      |
+| ---------- | ------ | -------------------- | --------------------------------------------- | -------------------------------------------- |
+| 18.02.2022 | 1.0    | Criação do documento | [Thais Rebouças](https://github.com/Thais-ra) | [Amanda Nobre](https://github.com/AmandaNbr) |
 
 Para um bom desenvolvimento do projeto, a equipe adotou uma metodologia mista, ao adotar práticas e conceitos de metodologias consagradas, é possível agregar muito valor e auxiliar os integrantes no andamento do projeto.</br>
 As práticas adotadas partem principalmente do [scrum](https://www.scrum.org/), [extreme programing](http://www.extremeprogramming.org/) e kanban.
