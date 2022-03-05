@@ -21,11 +21,11 @@ Através desse documento queremos definir as funcionalidades dos requisitos atra
 
 Abaixo estão listados os requisitos não-funcionais levantados pelas das técnicas de elicitação utilizadas no projeto, que serão os mesmos utilizados no NFR Framework.
 
-| ID     | Descrição                                               |
-| ------ | ------------------------------------------------------- |
-| BSNF31 | O aplicativo deve ser fácil de ser utilizado            |
-| BSNF32 | O aplicativo deverá rodar em qualquer plataforma mobile |
-| BSNF33 | O sistema não requere cadastro                          |
+| ID     | Descrição                                               | Técnica    |
+| ------ | ------------------------------------------------------- | ---------- |
+| BSNF31 | O aplicativo deve ser fácil de ser utilizado            | Brainstorm |
+| BSNF32 | O aplicativo deverá rodar em qualquer plataforma mobile | Brainstorm |
+| BSNF33 | O sistema não requere cadastro                          | Brainstorm |
 
 ## Legenda
 
@@ -38,7 +38,7 @@ Abaixo estão listados os requisitos não-funcionais levantados pelas das técni
   <figcaption> Imagem 2: elementos de relacionamento do NFR Framework </figcaption>
 </figure>
 
+## Diagramas
 
 
-## Diagrama
 ## Bibliografia 
