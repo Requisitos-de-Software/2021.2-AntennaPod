@@ -16,7 +16,7 @@ O framework utiliza as softgoals para representar os requisitos não-funcionais,
 
 
 ## Metodologia 
-Através desse documento queremos definir as funcionalidades dos requisitos através das possiveis analises, que serão feitas depois da implementação dos diagramas do NFR Framework. Para a criação dos diagramas foi utilizada a ferramenta EdrawMax.
+Através desse documento queremos definir as funcionalidades dos requisitos através das possiveis analises, que serão feitas depois da implementação dos diagramas do NFR Framework. 
 
 ## Requisitos não funcionais
 
@@ -49,6 +49,7 @@ Abaixo estão listados os requisitos não-funcionais levantados pelas das técni
 </figure>
 
 ### Diagrama de usabilidade com propagação
+
 <figure markdown>
   ![Heatmap](../img/diagrama-nfr-propagacao.png){ width="500" }
   <figcaption> Imagem 4: Diagrama NFR Framework de usabilidade com propagação </figcaption>
