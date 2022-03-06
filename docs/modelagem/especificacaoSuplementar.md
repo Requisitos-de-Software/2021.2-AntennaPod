@@ -1,9 +1,10 @@
 # Especificação Suplementar
 
 ## Histórico de versões
-| Data       | Versão | Descrição            | Autor                                            | Revisor |
-| ---------- | ------ | -------------------- | ------------------------------------------------ | ------- |
-| 05.03.2022 | 1.0    | Criação do documento | [Matheus Calixto](https://github.com/matheuscvp) |         |
+| Data       | Versão | Descrição                                    | Autor                                            | Revisor |
+| ---------- | ------ | -------------------------------------------- | ------------------------------------------------ | ------- |
+| 03.03.2022 | 1.0    | Criação do documento                         | [Matheus Calixto](https://github.com/matheuscvp) |         |
+| 06.03.2022 | 1.1    | Corrigindo versionamento e erros gramaticais | [Matheus Calixto](https://github.com/matheuscvp) |         |
 
 ## Introdução
 
@@ -46,7 +47,7 @@
 
 - <strong>RNF02 - O aplicativo deve ser intuitivo</strong>, esse se enquadra em *Usability*, pois tratará de questões de facilidade de uso.
 
-- <strong>RNF03 - O aplicativo deverá rodar em qualquer plataforma mobile</strong>,  esse se enquadra em *Supportability* , pois trata do aspecto da compatibilidade e escalabiidade do software.
+- <strong>RNF03 - O aplicativo deverá rodar em qualquer plataforma mobile</strong>,  esse se enquadra em *Supportability* , pois trata do aspecto da compatibilidade e escalabilidade do software.
 
 ## Referências
 
