@@ -7,8 +7,8 @@
 
 ## Introdução
 
-Uma persona é um personagem fictício que pertence a grupo de usuários e descreve as
-características de um usuário típico. São definidas as partir dos objetivos do 
+Uma persona é um personagem fictício que pertence a um grupo de usuários e descreve as
+características de um usuário típico. São definidas a partir dos objetivos do 
 usuário que são descobertos quando é analisado o domínio da atividade do usuário
 em um processo incremental.
 
@@ -17,7 +17,7 @@ em um processo incremental.
 ### Luana Moreira
 
 <figure markdown>
-  ![Heatmap](../../img/persona-luana.jpg){ width="200" }
+  ![Luana Moreira](../../img/persona-luana.jpg){ width="200" }
   <figcaption> Imagem 1: persona Luana Moreira </figcaption>
   Fonte: UOL
 </figure>
@@ -74,12 +74,18 @@ Fábio também gosta de ser manter sempre ligado a novas tecnologias, principalm
 
 _"Gosto de compartilhar informações com meus alunos"_
 
-Alexandre Neto, 28 anos, é um professor de ciências naturais do ensino médio. gosta de se manter sempre informado sobre diversos assuntos na area das ciências de modo geral utilizando podcast para aprender novos assuntos para compartilhar com seus alunos. porém durante a ida até a escola ele não possui acesso a internet para ouvir seus podcasts, então, ele resolve baixar os seus podcasts em casa para poder assistir durante a ida até a escola e quando possível, também compartilha os episódios com seus alunos através das redes sociais.
+Alexandre Neto, 28 anos, é um professor de ciências naturais do ensino médio. 
+Gosta de se manter sempre informado sobre diversos assuntos na area das ciências de
+modo geral utilizando podcast para aprender novos assuntos para compartilhar com
+seus alunos. Porém durante a ida até a escola ele não possui acesso a internet 
+para ouvir seus podcasts, então, ele resolve baixar os seus podcasts em casa para
+poder assistir durante a ida até a escola e quando possível, também compartilha 
+os episódios com seus alunos através das redes sociais.
 
 ### Amadeus Bendemar
 
 <figure markdown>
-  ![Heatmap](../../img/persona-amadeus-bendemar.jpg){ width="200" }
+  ![Amadeus Bendamar](../../img/persona-amadeus-bendemar.jpg){ width="200" }
   <figcaption> Imagem 6: persona Amadeus Bendemar </figcaption>
   Fonte: thispersondoesnotexist
 </figure>
@@ -91,12 +97,22 @@ Alexandre Neto, 28 anos, é um professor de ciências naturais do ensino médio.
 
 _"Gosto de compartilhar informações com meus alunos"_
 
-Amadeus Bendemar, 29 anos, é formado em biologia e obcecado por teorias de conspiração dos mais diversos assuntos. Durante sua graduação conheceu colegas que o fizeram se interessar pelo assunto e desde então Amadeus busca saber cada vez mais sobre o assunto. É um jovem que tem familiaridade com tecnologia e, normalmente, baixa seus podcasts em um site da internet, mas sempre após escutar ele precisa apagar os arquivos para salvar memória da sua máquina. Devido aos problemas de memória, isso as vezes é um problema para Amadeus porque não consegue lembrar os episódios que assistiu ou não e perde muito tempo tentando descobrir sempre que faz uma limpa em seu computador. Amadeus precisa de uma solução que o ajude a ouvir e registrar em um histórico os podcasts que já ouviu sobre teorias conspiracionistas.
+Amadeus Bendemar, 29 anos, é formado em biologia e obcecado por teorias de 
+conspiração dos mais diversos assuntos. Durante sua graduação conheceu colegas
+que o fizeram se interessar pelo assunto e desde então Amadeus busca saber cada 
+vez mais sobre o assunto. É um jovem que tem familiaridade com tecnologia e, 
+normalmente, baixa seus podcasts em um site da internet, mas sempre após escutar
+ele precisa apagar os arquivos para salvar memória da sua máquina. Devido aos 
+problemas de memória, isso as vezes é um problema para Amadeus porque não consegue
+lembrar os episódios que assistiu ou não e perde muito tempo tentando descobrir 
+sempre que faz uma limpa em seu computador. Amadeus precisa de uma solução que o 
+ajude a ouvir e registrar em um histórico os podcasts que já ouviu sobre teorias
+conspiracionistas.
 
 ### José de Alencar
 
 <figure markdown>
-  ![Heatmap](../../img/jose-de-alencar.jpg){ width="200" }
+  ![José de Alencar](../../img/jose-de-alencar.jpg){ width="200" }
   <figcaption> Imagem 6: persona José de Alencar </figcaption>
   Fonte: this-person-does-not-exist
 </figure>
@@ -108,15 +124,24 @@ Amadeus Bendemar, 29 anos, é formado em biologia e obcecado por teorias de cons
 
 _"Sou apaixonado por futebol"._
 
-José de Alencar, 35 anos, perdeu o emprego na pandemia e decidiu ser motorista por aplicativo para ajudar a se sustentar. Desde criança ele é apaixonado por futebol e torce para o Ceilândia, o time do lugar aonde mora. Como Zé é apaixonado por futebol e passa boa parte do seu dia dentro do carro, ele passa todo esse tempo ouvindo partidas de futebol no rádio ou escutando podcasts relacionados ao assunto. Ele se considera um bom ouvinte e observador, além de acompanhar completamente o futebol nacional e internacional.
+José de Alencar, 35 anos, perdeu o emprego na pandemia e decidiu ser motorista 
+por aplicativo para ajudar a se sustentar. Desde criança ele é apaixonado por 
+futebol e torce para o Ceilândia, o time do lugar aonde mora. Como Zé é apaixonado
+por futebol e passa boa parte do seu dia dentro do carro, ele passa todo esse 
+tempo ouvindo partidas de futebol no rádio ou escutando podcasts relacionados 
+ao assunto. Ele se considera um bom ouvinte e observador, além de acompanhar 
+completamente o futebol nacional e internacional.
 
-Zé tem duas opções de entretenimento quando está trabalhando: um xiaomi redmi note 9 com conexão 4G e um rádio antigo. Antes de sair cedo para trabalhar ele gosta de organizar todos os episódios que vai ouvir em filas.
+Zé tem duas opções de entretenimento quando está trabalhando: um xiaomi redmi 
+note 9 com conexão 4G e um rádio antigo. Antes de sair cedo para trabalhar ele 
+gosta de organizar todos os episódios que vai ouvir em filas.
 
+## Antipersonas
 
 ### Dona Lurdes
 
 <figure markdown>
-  ![Heatmap](../../img/persona-dona-lurdes.jpg){ width="200" }
+  ![Dona Lurdes](../../img/persona-dona-lurdes.jpg){ width="200" }
   <figcaption> Imagem 6: antipersona Dona Lurdes </figcaption>
   Fonte: UOL
 </figure>
@@ -133,13 +158,14 @@ muito por sistemas de organização, inventários e ajudar pessoas. Lê muitos l
 Livros de fantasia, romance, bibliografias, história mundial e autores filósofos. Lurdes é uma pessoa
 analógica, prefere atas, livros, e telefone a computadores, celulares e kindles.
 
-Lurdes tem um celular moderno com acesso à internet, mas ela o usa apenas para mandar mensagens no grupo da família e ligar para amigos. Seu principal meio de atualização é o jornal da noite. Quando está fazendo algo manual que não exige muita atenção, gosta de 
-colocar um disco para tocar em sua vitrola.
+Lurdes tem um celular moderno com acesso à internet, mas ela o usa apenas para mandar mensagens no grupo 
+da família e ligar para amigos. Seu principal meio de atualização é o jornal da noite. Quando está 
+fazendo algo manual que não exige muita atenção, gosta de colocar um disco para tocar em sua vitrola.
 
 ### Maria Eduarda
 
 <figure markdown>
-  ![Heatmap](../../img/persona-maria-eduarda.jpg){ width="200" }
+  ![Maria Eduarda](../../img/persona-maria-eduarda.jpg){ width="200" }
   <figcaption> Imagem 6: antipersona Maria Eduarda </figcaption>
   Fonte: this-person-does-not-exist
 </figure>
@@ -151,10 +177,17 @@ colocar um disco para tocar em sua vitrola.
 
 _"Eu gosto de assistir desenho"._
 
-Maria Eduarda, 9 anos, estuda em uma escola no interior de Minas Gerais. Ela está cursando o ensino fundamental adora assistir desenhos na televisão, sair com as colegas e
-brincar de pique esconde. Ela gosta de assistir desenhos bem coloridos e interativos. Maria Eduarda é uma criança agitada e feliz, sempre pode ser vista correndo de um lado para o outro na escola.
+Maria Eduarda, 9 anos, estuda em uma escola no interior de Minas Gerais. Ela está
+cursando o ensino fundamental adora assistir desenhos na televisão, sair com as colegas e
+brincar de pique esconde. Ela gosta de assistir desenhos bem coloridos e interativos. 
+Maria Eduarda é uma criança agitada e feliz, sempre pode ser vista correndo de um lado
+para o outro na escola.
 
-Maria Eduarda tem um ipad, supervisionado pelos pais, e adora assistir programação infantil nele. Sua mãe sabe os melhores canais no broutube e as melhores animações na brequefriques. Essa é a principal diversão de Maria Eduarda quando não está com as outras crianças, quando está assistindo personagens divertidos interagindo com ela na tela.
+Maria Eduarda tem um iPad, supervisionado pelos pais, e adora assistir conteúdo 
+infantil nele. Sua mãe sabe os melhores canais no broutube e as melhores animações 
+na brequefriques. Essa é a principal diversão de Maria Eduarda quando não está com 
+as outras crianças, quando está assistindo personagens divertidos interagindo com 
+ela na tela.
 
 ## Referências
 
