@@ -32,12 +32,7 @@ nav:
       - Observação: elicitacao/observacao.md
     - Priorização: elicitacao/100reais.md
   - Modelagem:
-    - Casos de uso: 
-      - Introdução: modelagem/casosDeUso/casosDeUso.md
-      - Caso 01 - Baixar episódio: modelagem/casosDeUso/uc01.md
-      - Caso 02 - Assinar podacast: modelagem/casosDeUso/uc02.md
-      - Caso 03 - Visualizar lista de podcasts assinados: modelagem/casosDeUso/uc03.md
-      - Caso 04 - Receber notificações de episódios: modelagem/casosDeUso/uc04.md
+    - Casos de uso: modelagem/casosDeUso/casosDeUso.md
     - Léxicos: modelagem/lexicos.md
   - Atas de reuniões:
     - Fevereiro:
