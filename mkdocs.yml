@@ -25,6 +25,7 @@ nav:
   - Pré-Rastreamento: 
     - Rich Picture: pre-rastreamento/richPicture.md
   - Elicitação:
+    - Personas: elicitacao/personas.md
     - Técnicas:
       - Análise de Protocolo: elicitacao/analiseProtocolo.md
       - Brainstorm: elicitacao/brainstorm.md
@@ -38,6 +39,8 @@ nav:
       - Caso 02 - Assinar podacast: modelagem/casosDeUso/uc02.md
       - Caso 03 - Visualizar lista de podcasts assinados: modelagem/casosDeUso/uc03.md
     - Especificação Suplementar: modelagem/especificacaoSuplementar.md
+    - Casos de uso: modelagem/casosDeUso/casosDeUso.md
+    - NFR Framework: modelagem/nfr-framework
     - Léxicos: modelagem/lexicos.md
   - Atas de reuniões:
     - Fevereiro:
