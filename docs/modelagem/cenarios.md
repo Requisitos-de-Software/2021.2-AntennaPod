@@ -5,6 +5,7 @@
 | ---------- | ------ | -------------------- | -------------- | ----------- |
 | 04.03.2022 | 0.1  | Primeira versão do documento incompleta | - | Matheus Sousa |
 | 04.03.2022 | 1.0  | Adição de cenários | - | Matheus Sousa |
+| 06.03.2022 | 1.1  | Ajustes menores | - | Matheus Sousa |
 
 ## Introdução
 
@@ -180,62 +181,6 @@ Para realização dos cenários utilizaremos esse template de tabela:
 |**Contexto**|**Local:**<br>><br> **Pré-Condição:**<br>><br> **Pós-Condição:**<br>> |
 |**Atores**|Usuário|
 |**Recursos**|Internet, aplicativo|
-|**Restrições**| Descrição das restrições|
-|**Exceções**| Descrição|
-|**Episódios**|Detalhes do evento|
-
-#### C13 - O usuário deve ser capaz de visualizar todos os episódios dos podcasts assinados
-
-|||
-|---|---|
-|**Versão**|1.0|
-|**Autor**| Matheus Sousa |
-|**Metas**| Conseguir visualizar conteúdo de criadores assinados |
-|**Contexto**|**Local:**<br>><br> **Pré-Condição:**<br>><br> **Pós-Condição:**<br>> |
-|**Atores**|Usuário|
-|**Recursos**|Internet, aplicativo|
-|**Restrições**| Descrição das restrições|
-|**Exceções**| Descrição|
-|**Episódios**|Detalhes do evento|
-
-#### C14 - O usuário deve ser capaz de alterar o tema (visual) do aplicativo
-
-|||
-|---|---|
-|**Versão**|1.0|
-|**Autor**| Matheus Sousa |
-|**Metas**| Conseguir mudar o aspecto visual da aplicação |
-|**Contexto**|**Local:**<br>><br> **Pré-Condição:**<br>><br> **Pós-Condição:**<br>> |
-|**Atores**|Usuário|
-|**Recursos**|Internet, aplicativo|
-|**Restrições**| Descrição das restrições|
-|**Exceções**| Descrição|
-|**Episódios**|Detalhes do evento|
-
-#### C15 - O usuário deve ser capaz de navegar no app através da barra lateral
-
-|||
-|---|---|
-|**Versão**|1.0|
-|**Autor**| Matheus Sousa |
-|**Metas**| Conseguir navegar no aplicativo através de uma barra lateral |
-|**Contexto**|**Local:**<br>><br> **Pré-Condição:**<br>><br> **Pós-Condição:**<br>> |
-|**Atores**|Usuário|
-|**Recursos**|Aplicativo|
-|**Restrições**| Descrição das restrições|
-|**Exceções**| Descrição|
-|**Episódios**|Detalhes do evento|
-
-#### c16 - O usuário deve ser capaz de, ao reproduzir, avançar 10 s e voltar 10 s em um ep
-
-|||
-|---|---|
-|**Versão**|1.0|
-|**Autor**| Matheus Sousa |
-|**Metas**| Avançar ou voltar 10 segundos em um episódio |
-|**Contexto**|**Local:**<br>><br> **Pré-Condição:**<br>><br> **Pós-Condição:**<br>> |
-|**Atores**|Usuário|
-|**Recursos**|aplicativo|
 |**Restrições**| Descrição das restrições|
 |**Exceções**| Descrição|
 |**Episódios**|Detalhes do evento|
