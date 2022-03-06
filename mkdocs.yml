@@ -38,6 +38,8 @@ nav:
       - Caso 01 - Baixar episódio: modelagem/casosDeUso/uc01.md
       - Caso 02 - Assinar podacast: modelagem/casosDeUso/uc02.md
       - Caso 03 - Visualizar lista de podcasts assinados: modelagem/casosDeUso/uc03.md
+    - NFR Framework: modelagem/nfr-framework
+    - Léxicos: modelagem/lexicos.md
   - Atas de reuniões:
     - Fevereiro:
       - Dia 02: reunioes/02-02.md

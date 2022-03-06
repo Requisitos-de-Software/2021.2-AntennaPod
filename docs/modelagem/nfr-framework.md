@@ -52,7 +52,7 @@ Abaixo estão listados os requisitos não-funcionais levantados pelas das técni
 <figure markdown>
   ![Heatmap](../img/diagrama-nfr-propagacao.png){ width="500" }
   <figcaption> Imagem 4: Diagrama NFR Framework de usabilidade com propagação </figcaption>
-</figure>
+</figure> 
 
 ## Referências
 
