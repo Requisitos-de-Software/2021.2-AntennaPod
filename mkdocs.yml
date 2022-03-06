@@ -38,6 +38,7 @@ nav:
       - Caso 02 - Assinar podacast: modelagem/casosDeUso/uc02.md
       - Caso 03 - Visualizar lista de podcasts assinados: modelagem/casosDeUso/uc03.md
       - Caso 04 - Receber notificações de episódios: modelagem/casosDeUso/uc04.md
+    - Léxicos: modelagem/lexicos.md
   - Atas de reuniões:
     - Fevereiro:
       - Dia 02: reunioes/02-02.md
