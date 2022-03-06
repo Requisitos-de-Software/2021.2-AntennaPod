@@ -112,7 +112,7 @@ conspiracionistas.
 ### José de Alencar
 
 <figure markdown>
-  ![José de Alencar](../../img/jose-de-alencar.jpg){ width="200" }
+  ![José de Alencar](../../img/persona-jose-de-alencar.jpg){ width="200" }
   <figcaption> Imagem 6: persona José de Alencar </figcaption>
   Fonte: this-person-does-not-exist
 </figure>
