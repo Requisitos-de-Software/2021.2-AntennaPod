@@ -23,7 +23,7 @@ em um processo incremental.
 </figure>
 
 - Idade: 25
-- Sexo: feminino
+- Sexo: Feminino
 - Ocupação: Estudante de relações internacionais
 - Escolaridade: Ensino superior incompleto
 
@@ -118,7 +118,7 @@ conspiracionistas.
 </figure>
 
 - Idade: 35
-- Sexo: masculino
+- Sexo: Masculino
 - Ocupação: Motorista de aplicativo
 - Escolaridade: Ensino médio completo
 
@@ -147,7 +147,7 @@ gosta de organizar todos os episódios que vai ouvir em filas.
 </figure>
 
 - Idade: 68
-- Sexo: feminino
+- Sexo: Feminino
 - Ocupação: Aposentada
 - Escolaridade: Ensino superior completo
 
@@ -171,7 +171,7 @@ fazendo algo manual que não exige muita atenção, gosta de colocar um disco pa
 </figure>
 
 - Idade: 9
-- Sexo: feminino
+- Sexo: Feminino
 - Ocupação: Estudante
 - Escolaridade: Ensino fundamental incompleto
 
