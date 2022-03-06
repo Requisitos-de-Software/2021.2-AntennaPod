@@ -8,7 +8,7 @@
 
 ## Introdução
 
-&emsp;&emsp; Especificação Suplementar é um documento que irá descrever os requisitos não funcionais. Este documento tem como objetivo ser um complemento do Modelo de Caso de Uso, pois juntos capturam os requisitos funcionais e não funcionais, para assim termos todos os requisitos de software descritos. A Especificação Suplementar captura os requisitos do sistema que não são prontamente capturados nos casos de uso do modelo de caso de uso. Entre os requisitos estão incluídos:
+Especificação Suplementar é um documento que irá descrever os requisitos não funcionais. Este documento tem como objetivo ser um complemento do Modelo de Caso de Uso, pois juntos capturam os requisitos funcionais e não funcionais, para assim termos todos os requisitos de software descritos. A Especificação Suplementar captura os requisitos do sistema que não são prontamente capturados nos casos de uso do modelo de caso de uso. Entre os requisitos estão incluídos:
 
 - Requisitos legais e de regulamentação e padrões de aplicativo;
 - Atributos de qualidade do sistema a ser criado, incluindo requisitos de usabilidade, confiabilidade, desempenho e suportabilidade;
@@ -20,7 +20,7 @@
 
 ## Metodologia
 
-&emsp;&emsp;Uma ótima maneira de especificar os requisitos não funcionais é usando o padrão denomindado pelo acrônimo FURPS+, o qual se refere à:
+Uma ótima maneira de especificar os requisitos não funcionais é usando o padrão denomindado pelo acrônimo FURPS+, o qual se refere à:
 
 - *Functionality (funcionalidade):* enfoca os requisitos funcionais.
 
@@ -37,7 +37,7 @@
 
 ## Resultados
 
-&emsp;&emsp;Após a elicitação dos requisitos do sistema capturamos os seguintes requisitos Não-Funcionais:
+Após a elicitação dos requisitos do sistema capturamos os seguintes requisitos Não-Funcionais:
 
 | ID    | Descrição                                               | Técnica    | R$   |
 | ----- | ------------------------------------------------------- | ---------- | ---- |
@@ -45,7 +45,7 @@
 | RNF02 | O aplicativo deve ser intuitivo                         | Brainstorm | 2,00 |
 | RNF03 | O aplicativo deverá rodar em qualquer plataforma mobile | Brainstorm | 1,50 |
 
-&emsp;&emsp;Após analisarmos usando o padrão FURPS, teremos esses requisitos separados da seguinte maneira:
+Após analisarmos usando o padrão FURPS, teremos esses requisitos separados da seguinte maneira:
 
 - <strong>RNF01 - O aplicativo não requer cadastro</strong>, esse se enquadra em *Performance*, pois permite ao usuário conseguir utilizar de todos as funcionalidades do software sem precisar se cadastrar no mesmo.
 
