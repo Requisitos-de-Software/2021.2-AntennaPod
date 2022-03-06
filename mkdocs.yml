@@ -33,15 +33,10 @@ nav:
       - Observação: elicitacao/observacao.md
     - Priorização: elicitacao/100reais.md
   - Modelagem:
-    - Casos de uso: 
-      - O que é: modelagem/casosDeUso/casosDeUso.md
-      - Caso 01 - Baixar episódio: modelagem/casosDeUso/uc01.md
-      - Caso 02 - Assinar podacast: modelagem/casosDeUso/uc02.md
-      - Caso 03 - Visualizar lista de podcasts assinados: modelagem/casosDeUso/uc03.md
-    - Especificação Suplementar: modelagem/especificacaoSuplementar.md
     - Casos de uso: modelagem/casosDeUso/casosDeUso.md
-    - NFR Framework: modelagem/nfr-framework
+    - Especificação Suplementar: modelagem/especificacaoSuplementar.md
     - Léxicos: modelagem/lexicos.md
+    - NFR Framework: modelagem/nfr-framework
   - Atas de reuniões:
     - Fevereiro:
       - Dia 02: reunioes/02-02.md
