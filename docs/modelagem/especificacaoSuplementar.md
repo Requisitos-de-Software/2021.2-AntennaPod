@@ -1,10 +1,10 @@
 # Especificação Suplementar
 
 ## Histórico de versões
-| Data       | Versão | Descrição                                    | Autor                                            | Revisor |
-| ---------- | ------ | -------------------------------------------- | ------------------------------------------------ | ------- |
-| 03.03.2022 | 1.0    | Criação do documento                         | [Matheus Calixto](https://github.com/matheuscvp) |         |
-| 06.03.2022 | 1.1    | Corrigindo versionamento e erros gramaticais | [Matheus Calixto](https://github.com/matheuscvp) |         |
+| Data       | Versão | Descrição                                    | Autor                                            | Revisor                                      |
+| ---------- | ------ | -------------------------------------------- | ------------------------------------------------ | -------------------------------------------- |
+| 03.03.2022 | 1.0    | Criação do documento                         | [Matheus Calixto](https://github.com/matheuscvp) | [Amanda Nobre](https://github.com/AmandaNbr) |
+| 06.03.2022 | 1.1    | Corrigindo versionamento e erros gramaticais | [Matheus Calixto](https://github.com/matheuscvp) | [Amanda Nobre](https://github.com/AmandaNbr) |
 
 ## Introdução
 
@@ -13,6 +13,10 @@
 - Requisitos legais e de regulamentação e padrões de aplicativo;
 - Atributos de qualidade do sistema a ser criado, incluindo requisitos de usabilidade, confiabilidade, desempenho e suportabilidade;
 - Outros requisitos, como aqueles para os sistemas e ambientes operacionais, compatibilidade com outro software e restrições de design.
+
+## Participantes
+
+- [Matheus Calixto](https://github.com/matheuscvp)
 
 ## Metodologia
 
