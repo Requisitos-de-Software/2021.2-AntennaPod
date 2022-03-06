@@ -157,34 +157,6 @@ Para realização dos cenários utilizaremos esse template de tabela:
 |**Exceções**| aplicativo dando crash, internet cai|
 |**Episódios**|usuário seleciona o podcast, usuário vê os episódios dele|
 
-#### C11 - O usuário deve ser capaz de pesquisar um episódio pelo criador do podcast
-
-|||
-|---|---|
-|**Versão**|1.0|
-|**Autor**| Matheus Sousa |
-|**Metas**| Conseguir buscar conteúdo por criador |
-|**Contexto**|**Local:**<br>><br> **Pré-Condição:**<br>><br> **Pós-Condição:**<br>> |
-|**Atores**|Usuário|
-|**Recursos**|Internet, aplicativo|
-|**Restrições**| Descrição das restrições|
-|**Exceções**| Descrição|
-|**Episódios**|Detalhes do evento|
-
-#### C12 - O usuário deve ser capaz de pesquisar um podcast pelo título
-
-|||
-|---|---|
-|**Versão**|1.0|
-|**Autor**| Matheus Sousa |
-|**Metas**| Conseguir buscar conteúdo pelo nome |
-|**Contexto**|**Local:**<br>><br> **Pré-Condição:**<br>><br> **Pós-Condição:**<br>> |
-|**Atores**|Usuário|
-|**Recursos**|Internet, aplicativo|
-|**Restrições**| Descrição das restrições|
-|**Exceções**| Descrição|
-|**Episódios**|Detalhes do evento|
-
 ## Referências
 
 2019.2  - Audible. Disponível em <https://requisitos-de-software.github.io/2019.2-Audible/cenarios/>.
