@@ -34,6 +34,7 @@ nav:
     - Priorização: elicitacao/100reais.md
   - Modelagem:
     - Casos de uso: modelagem/casosDeUso/casosDeUso.md
+    - Cenários: modelagem/cenarios.md
     - Especificação Suplementar: modelagem/especificacaoSuplementar.md
     - Léxicos: modelagem/lexicos.md
     - NFR Framework: modelagem/nfr-framework
