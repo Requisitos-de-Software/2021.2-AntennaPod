@@ -33,6 +33,7 @@ nav:
       - Observação: elicitacao/observacao.md
     - Priorização: elicitacao/100reais.md
   - Modelagem:
+    - Backlog: modelagem/backlog.md
     - Casos de uso: modelagem/casosDeUso/casosDeUso.md
     - Cenários: modelagem/cenarios.md
     - Especificação Suplementar: modelagem/especificacaoSuplementar.md
