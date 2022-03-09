@@ -16,7 +16,8 @@ Backlog é uma lista com itens descrevendo as necessidades do usuário que o pro
 Histórias de usuários (User Story) são descrições curtas, informais e em linguagem simples do que um usuário pode fazer no contexto do produto de software para obter algo de valor. Dessa forma os usuários se tornam o centro da conversa quando se trata de adicionar ou alterar em um produto de software. Ela é a menor unidade de trabalho com base na necessidade do cliente final que vai utilizar e/ou interagir com o Produto.
 
 Normalmente as histórias de usuários seguem o padrão de papel-função-benefício:
-- Eu, como [tipo de usuario], desejo [uma ação] para [um benefício/valor]
+
+Eu, como _[tipo de usuario]_, desejo _[uma ação]_ para _[um benefício/valor]_.
 
 ### Funcionalidade
 
@@ -29,14 +30,17 @@ O Épico (Epic) é uma grande parte do trabalho a ser realizado no Produto. É t
 
 ## Metodologia
 
-Não é obrigatório utilizar o formato de história de usuários no backlog, mas optamos em utilizá-lo.
-Explicação de como a equipe usou a técnica/criou o artefato: Em qual plataforma foi a reunião, quanto tempo durou, data da reunião, passos que o grupo seguiu e outras informações que o grupo julgar pertinentes.
+Para a confecção do backlog utilizamos o método de instrospecção, análise do aplicativo e revisão
+dos requisitosfuncionais e não funcionais. A partir disto geramos os temas e épicos, as histórias
+de usuário, e então definimos o backlog do produto.
 
 ## Participantes
 
 - [Thaís Rebouças](https://github.com/Thais-ra)
 
 ## Resultados
+
+EP é para Épico e FT é para Feature.
 
 ### EP01: Reprodução de episódios 
 ### FT01: Modo de reprodução
@@ -48,7 +52,7 @@ Explicação de como a equipe usou a técnica/criou o artefato: Em qual platafor
 | US04    | Eu, como usuário, desejo mudar velocidade de reprodução de um episódio para acompanhar o meu ritmo                                    |
 | US05    | Eu, como usuário, desejo ouvir um episódio sem precisar me inscrever no podcast para saber se o conteúdo me agrada antes de assiná-lo |
 
-### FT02: Historico de reprodução
+### FT02: Histórico de reprodução
 
 | User ID | Histórias de Usuário                                                                                 |
 | ------- | ---------------------------------------------------------------------------------------------------- |
@@ -57,7 +61,7 @@ Explicação de como a equipe usou a técnica/criou o artefato: Em qual platafor
 ### FT03: Lista de reprodução
 | User ID | Histórias de Usuário                                                                                                             |
 | ------- | -------------------------------------------------------------------------------------------------------------------------------- |
-| US07    | Eu, como usuário, desejo retirar a flag de "novo" de um episodio para sinalizar que aquele episódio não é mais novo para mim     |
+| US07    | Eu, como usuário, desejo retirar a flag de "novo" de um episódio para sinalizar que aquele episódio não é mais novo para mim     |
 | US08    | Eu, como usuário, desejo adicionar um episódio a fila de reprodução para ordenar o conteúdo que vou assistir                     |
 | US09    | Eu, como usuário, desejo alterar a ordem da fila de reprodução para dar a prioridade que quero aos conteúdos que quero consumir  |
 | US10    | Eu, como usuário, desejo remover um episódio da fila de reprodução para dar espaço para outros episódio que tenho mais interesse |
