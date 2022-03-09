@@ -1,7 +1,5 @@
 # NFR Framework
 
-
-
 ## Histórico de versão
 | Data       | Versão | Descrição                                 | Autor                                         | Revisor                                     |
 | ---------- | ------ | ----------------------------------------- | --------------------------------------------- | ------------------------------------------- |
@@ -17,6 +15,10 @@ O framework utiliza as softgoals para representar os requisitos não-funcionais,
 
 ## Metodologia 
 Através desse documento queremos definir as funcionalidades dos requisitos através das possiveis analises, que serão feitas depois da implementação dos diagramas do NFR Framework. Também foi utilizada a ferramenta EdrawMax para serem criados os diagramas nfr. 
+
+## Participantes
+
+- [Abraão Alves](https://github.com/Abraao1231)
 
 ## Requisitos não funcionais
 

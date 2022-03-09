@@ -1,12 +1,12 @@
 # Cenários
 
 ## Histórico de versões
-| Data       | Versão | Descrição            | Autor | Revisor   |
-| ---------- | ------ | -------------------- | -------------- | ----------- |
-| 04.03.2022 | 0.1  | Primeira versão do documento incompleta | Matheus Sousa | Amanda Nobre |
-| 04.03.2022 | 1.0  | Adição de cenários | Matheus Sousa | Amanda Nobre |
-| 06.03.2022 | 1.1  | Ajustes menores | Matheus Sousa | Amanda Nobre |
-| 06.03.2022 | 1.2  | Correções após revisão | Matheus Sousa | Amanda Nobre |
+| Data       | Versão | Descrição                               | Autor                                          | Revisor                                      |
+| ---------- | ------ | --------------------------------------- | ---------------------------------------------- | -------------------------------------------- |
+| 04.03.2022 | 0.1    | Primeira versão do documento incompleta | [Matheus Sousa](https://github.com/gatotabaco) | [Amanda Nobre](https://github.com/AmandaNbr) |
+| 04.03.2022 | 1.0    | Adição de cenários                      | [Matheus Sousa](https://github.com/gatotabaco) | [Amanda Nobre](https://github.com/AmandaNbr) |
+| 06.03.2022 | 1.1    | Ajustes menores                         | [Matheus Sousa](https://github.com/gatotabaco) | [Amanda Nobre](https://github.com/AmandaNbr) |
+| 06.03.2022 | 1.2    | Correções após revisão                  | [Matheus Sousa](https://github.com/gatotabaco) | [Amanda Nobre](https://github.com/AmandaNbr) |
 
 ## Introdução
 
@@ -16,21 +16,21 @@ A técnica consiste na apresentação dos requisitos levantados em diferentes co
 
 Para realização dos cenários utilizaremos esse template de tabela:
 
-|Numero Cenário|Nome do cenário|
-|---|---|
-|**Versão**|1.0|
-|**Autor**| Autor do cenário|
-|**Metas**|Objetivo do ceário|
-|**Contexto**|**Local:**<br>><br> **Pré-Condição:**<br>><br> **Pós-Condição:**<br>> |
-|**Atores**|Atores Envolvidos|
-|**Recursos**|Recursos Envolvidos|
-|**Restrições**| Descrição das restrições|
-|**Exceções**| Descrição|
-|**Episódios**|Detalhes do evento|
+| Numero Cenário | Nome do cenário                                                       |
+| -------------- | --------------------------------------------------------------------- |
+| **Versão**     | 1.0                                                                   |
+| **Autor**      | Autor do cenário                                                      |
+| **Metas**      | Objetivo do ceário                                                    |
+| **Contexto**   | **Local:**<br>><br> **Pré-Condição:**<br>><br> **Pós-Condição:**<br>> |
+| **Atores**     | Atores Envolvidos                                                     |
+| **Recursos**   | Recursos Envolvidos                                                   |
+| **Restrições** | Descrição das restrições                                              |
+| **Exceções**   | Descrição                                                             |
+| **Episódios**  | Detalhes do evento                                                    |
 
 ## Participantes
 
-- Matheus Sousa
+- [Matheus Sousa](https://github.com/gatotabaco)
 
 ## Cenários
 
