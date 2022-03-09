@@ -26,18 +26,19 @@
 
 ### 3ª entrega: de 20/02 até 06/03
 
-| Tarefa                    | Participante(s) | Revisor(es) | Data de Entrega | Estimativa de Entrega |
-| ------------------------- | --------------- | ----------- | --------------- | --------------------- |
-| Cenários                  | A decidir       | A decidir   | Não se aplica   | 04/03                 |
-| Léxico                    | A decidir       | A decidir   | Não se aplica   | 04/03                 |
-| Especificação Suplementar | A decidir       | A decidir   | Não se aplica   | 04/03                 |
-| Use Case                  | A decidir       | A decidir   | Não se aplica   | 04/03                 |
+| Tarefa                                                                                                                      | Participante(s)                                  | Revisor(es)                                   | Data de Entrega | Estimativa de Entrega |
+| --------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ | --------------------------------------------- | --------------- | --------------------- |
+| [Cenários](https://requisitos-de-software.github.io/2021.2-AntennaPod/modelagem/cenarios/)                                  | [Matheus Sousa](https://github.com/gatotabaco)   | [Amanda Nobre](https://github.com/AmandaNbr)  | 06/03           | 06/03                 |
+| [Léxicos](https://requisitos-de-software.github.io/2021.2-AntennaPod/modelagem/lexicos/)                                    | [Amanda Nobre](https://github.com/AmandaNbr)     | [Yudi Yamane](https://github.com/yudi-azvd)   | 25/02           | 06/03                 |
+| [Especificação Suplementar](https://requisitos-de-software.github.io/2021.2-AntennaPod/modelagem/especificacaoSuplementar/) | [Matheus Calixto](https://github.com/matheuscvp) | [Amanda Nobre](https://github.com/AmandaNbr)  | 06/03           | 06/03                 |
+| [Use Case](https://requisitos-de-software.github.io/2021.2-AntennaPod/modelagem/casosDeUso/casosDeUso/)                     | [Yudi Yamane](https://github.com/yudi-azvd)      | [Thaís Rebouças](https://github.com/Thais-ra) | 06/03           | 06/03                 |
 
 ### 4ª entrega: de 06/03 até 09/03
 
-| Tarefa                                              | Participante(s) | Revisor(es) | Data de Entrega | Prazo de Entrega |
-| --------------------------------------------------- | --------------- | ----------- | --------------- | ---------------- |
-| Ágil (Histórias de Usuário, Backlogs) NFR Framework | A decidir       | A decidir   | Não se aplica   | 07/03            |
+| Tarefa                                                                                                                | Participante(s)                               | Revisor(es)                                 | Data de Entrega | Prazo de Entrega |
+| --------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- | ------------------------------------------- | --------------- | ---------------- |
+| [Ágil(Histórias de Usuário, Backlogs)](https://requisitos-de-software.github.io/2021.2-AntennaPod/modelagem/backlog/) | [Abraão Alves](https://github.com/Abraao1231) | [Yudi Yamane](https://github.com/yudi-azvd) | 05/03           | 09/03            |
+| [NFR Framework](https://requisitos-de-software.github.io/2021.2-AntennaPod/modelagem/nfr-framework/)                  | [Thaís Rebouças](https://github.com/Thais-ra) | [Yudi Yamane](https://github.com/yudi-azvd) | 09/03           | 09/03            |
 
 ### 5ª entrega: de 09/03 até 23/03
 | Tarefa      | Participante(s) | Revisor(es) | Data de Entrega | Prazo de Entrega |
