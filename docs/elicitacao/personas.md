@@ -1,9 +1,9 @@
 # Personas
 
 ## Histórico de versões
-| Data       | Versão | Descrição            | Revisores    | Autor(es)                            |
-| ---------- | ------ | -------------------- | ------------ | ------------------------------------ |
-| 23.02.2022 | 0.1    | Criação do documento | Amanda Nobre | Yudi Yamane, Abraão, Matheus Fonseca |
+| Data       | Versão | Descrição            | Revisores                                    | Autor(es)                                                                                                                                   |
+| ---------- | ------ | -------------------- | -------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| 23.02.2022 | 1.0    | Criação do documento | [Amanda Nobre](https://github.com/AmandaNbr) | [Yudi Yamane](https://github.com/yudi-azvd), [Abraão Alves](https://github.com/Abraao1231) e [Matheus Sousa](https://github.com/gatotabaco) |
 
 ## Introdução
 
