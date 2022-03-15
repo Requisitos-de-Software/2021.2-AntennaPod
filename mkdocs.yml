@@ -39,6 +39,9 @@ nav:
     - Especificação Suplementar: modelagem/especificacaoSuplementar.md
     - Léxicos: modelagem/lexicos.md
     - NFR Framework: modelagem/nfr-framework
+  - Análise:
+    - Verificação:
+      - NFR Framework: analise/verificacao/verificacao-nfr-framework
   - Atas de reuniões:
     - Fevereiro:
       - Dia 02: reunioes/02-02.md
