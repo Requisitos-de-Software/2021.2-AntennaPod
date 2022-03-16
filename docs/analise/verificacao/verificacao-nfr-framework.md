@@ -7,9 +7,9 @@
 
 ## Metodologia
 
-A técnica de verificação usada no [NFR Framework](https://requisitos-de-software.github.io/2021.2-AntennaPod/modelagem/nfr-framework/) é a inspeção, aplicada a partir de um checklist para validar a qualidade do documento, assim como possíveis falhas e erros. 
+A técnica de verificação usada no [NFR Framework](https://requisitos-de-software.github.io/2021.2-AntennaPod/modelagem/nfr-framework/) é a inspeção, aplicada a partir do seguinte checklist, que tem como objetivo validar a qualidade do documento e possíveis falhas/erros. 
 
-| Número | Questões                                                                       | Justificativa                                                                                                                                 |
+| Índice | Questões                                                                       | Justificativa                                                                                                                                 |
 | ------ | ------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1      | Conceito de NFR é apresentado?                                                 | Importante para o leitor entender o conceito da metodologia usada.                                                                            |
 | 2      | Há legenda dos símbolos e tipos de contribuições?                              | Necessário para compreender as ligações entre os símbolos e seus significados.                                                                |
@@ -27,16 +27,16 @@ A técnica de verificação usada no [NFR Framework](https://requisitos-de-softw
 
 - [Amanda Nobre](https://github.com/AmandaNbr)
 
-### Checklist
+## Checklist
 
-#### Diagrama de Usabilidade
+### Diagrama de Usabilidade
 
 | Símbolo | Descrição |
 | ------- | --------- |
 | ✔      | Sim       |
 | ❌      | Não       |
 
-| Número | Questões                                                                       | Resultado |
+| Índice | Questões                                                                       | Resultado |
 | ------ | ------------------------------------------------------------------------------ | --------- |
 | 1      | Conceito de NFR é apresentado?                                                 | ✔        |
 | 2      | Há legenda dos símbolos e tipos de contribuições?                              | ✔        |
