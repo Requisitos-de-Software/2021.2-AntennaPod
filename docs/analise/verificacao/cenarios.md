@@ -9,6 +9,12 @@
 
 - [Yudi Yamane](https://github.com/yudi-azvd)
 
+## Metodologia
+
+A técnica de verificação usada nos artefatos de [Cenários](/2021.2-AntennaPod/modelagem/cenarios/) 
+é a inspeção, aplicada a partir do seguinte checklist, que tem como objetivo validar
+a qualidade do documento e possíveis falhas/erros. 
+
 | ID  | Descrição                                                         |
 | --- | ----------------------------------------------------------------- |
 | 1   | O título é auto-explicativo?                                      |
