@@ -34,7 +34,7 @@ nav:
     - Priorização: elicitacao/100reais.md
   - Modelagem:
     - Backlog: modelagem/backlog.md
-    - Casos de uso: modelagem/casosDeUso/casosDeUso.md
+    - Casos de uso: modelagem/casosDeUso.md
     - Cenários: modelagem/cenarios.md
     - Especificação Suplementar: modelagem/especificacaoSuplementar.md
     - Léxicos: modelagem/lexicos.md
