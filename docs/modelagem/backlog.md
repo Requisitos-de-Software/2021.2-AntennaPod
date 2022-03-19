@@ -48,36 +48,36 @@ EP é para Épico e FT é para Feature.
 ### FT01: Modo de reprodução
 | USID | Histórias de Usuário                                                                                                                  | ID Requisitos |
 | ---- | ------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
+| US05 | Eu, como usuário, desejo ouvir um episódio sem precisar me inscrever no podcast para saber se o conteúdo me agrada antes de assiná-lo | RF01          |
+| US03 | Eu, como usuário, desejo avançar e voltar um episódio para controlar a reprodução do que estou assistindo                             | RF61          |
 | US01 | Eu, como usuário, desejo reproduzir e pausar episódios de podcast para controlar a reprodução do que estou assistindo                 | RF37          |
 | US02 | Eu, como usuário, desejo avançar 10s e/ou voltar 10s em um episódio para controlar a reprodução do que estou assistindo               | RF62          |
-| US03 | Eu, como usuário, desejo avançar e voltar um episódio para controlar a reprodução do que estou assistindo                             | RF61          |
 | US04 | Eu, como usuário, desejo mudar velocidade de reprodução de um episódio para acompanhar o meu ritmo                                    | RF47          |
-| US05 | Eu, como usuário, desejo ouvir um episódio sem precisar me inscrever no podcast para saber se o conteúdo me agrada antes de assiná-lo | RF01          |
 
-### FT02: Histórico de reprodução
+### FT02: Lista de reprodução
+| USID | Histórias de Usuário                                                                                                             | ID Requisitos |
+| ---- | -------------------------------------------------------------------------------------------------------------------------------- | ------------- |
+| US08 | Eu, como usuário, desejo adicionar um episódio a fila de reprodução para ordenar o conteúdo que vou assistir                     | RF38          |
+| US09 | Eu, como usuário, desejo alterar a ordem da fila de reprodução para dar a prioridade que quero aos conteúdos que quero consumir  | RF21          |
+| US07 | Eu, como usuário, desejo retirar a flag de "novo" de um episódio para sinalizar que aquele episódio não é mais novo para mim     | RF34          |
+| US10 | Eu, como usuário, desejo remover um episódio da fila de reprodução para dar espaço para outros episódio que tenho mais interesse | RF39          |
+| US11 | Eu, como usuário, desejo criar playlist de episódios para agrupar episódios de forma que faz sentido para mim                    | RF51          |
+
+### FT03: Histórico de reprodução
 
 | USID | Histórias de Usuário                                                                                 | ID Requisitos |
 | ---- | ---------------------------------------------------------------------------------------------------- | ------------- |
 | US06 | Eu, como usuário, desejo visualizar o histórico de reprodução para lembrar dos episódios que já ouvi | RF22          |
-
-### FT03: Lista de reprodução
-| USID | Histórias de Usuário                                                                                                             | ID Requisitos |
-| ---- | -------------------------------------------------------------------------------------------------------------------------------- | ------------- |
-| US07 | Eu, como usuário, desejo retirar a flag de "novo" de um episódio para sinalizar que aquele episódio não é mais novo para mim     | RF34          |
-| US08 | Eu, como usuário, desejo adicionar um episódio a fila de reprodução para ordenar o conteúdo que vou assistir                     | RF38          |
-| US09 | Eu, como usuário, desejo alterar a ordem da fila de reprodução para dar a prioridade que quero aos conteúdos que quero consumir  | RF21          |
-| US10 | Eu, como usuário, desejo remover um episódio da fila de reprodução para dar espaço para outros episódio que tenho mais interesse | RF39          |
-| US11 | Eu, como usuário, desejo criar playlist de episódios para agrupar episódios de forma que faz sentido para mim                    | RF51          |
 
 
 ### EP02: Acesso offline
 ### FT04: Downloads
 | USID  | Histórias de Usuário                                                                                                                                       | ID Requisitos |
 | ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
+| US015 | Eu, como usuário, desejo baixar um episódio sem precisar assinar o podcast para ter acesso offline àquele episódio mesmo que o podcast não me agrade tanto | RF02          |
 | US012 | Eu, como usuário, desejo baixar episódios para ter acesso aos mesmos de modo offline                                                                       | RF12          |
 | US013 | Eu, como usuário, desejo remover um episódio de podcast dos baixados para organizar os conteúdos que quero ter offline                                     | RF43          |
 | US014 | Eu, como usuário, desejo visualizar logs dos downloads para saber se tudo ocorreu como o esperado                                                          | RF45          |
-| US015 | Eu, como usuário, desejo baixar um episódio sem precisar assinar o podcast para ter acesso offline àquele episódio mesmo que o podcast não me agrade tanto | RF02          |
 
 ### FT05: Visualização de downloads
 | USID  | Histórias de Usuário                                                                | ID Requisitos |
@@ -96,7 +96,6 @@ EP é para Épico e FT é para Feature.
 | USID | Histórias de Usuário                                                                                                           | ID Requisitos |
 | ---- | ------------------------------------------------------------------------------------------------------------------------------ | ------------- |
 | US19 | Eu, como usuário, desejo visualizar minhas assinaturas para encontrar todos os podcasts que gosto em um lugar só               | RF10          |
-| US20 | Eu, como usuário, desejo visualizar os episódios de cada podcasts para decidir se vou assinar                                  | RF13          |
 | US21 | Eu, como usuário, desejo visualizar todos os episódios dos podcasts assinados para ter acesso fácil aos conteúdos que gosto    | RF29          |
 | US22 | Eu, como usuário, desejo visualizar todos os novos episódios dos podcasts assinados para encontrar as novidades em um só lugar | RF33          |
 
@@ -126,38 +125,39 @@ EP é para Épico e FT é para Feature.
 ### FT11: Informações
 | USID | Histórias de Usuário                                                                                               | ID Requisitos |
 | ---- | ------------------------------------------------------------------------------------------------------------------ | ------------- |
+| US20 | Eu, como usuário, desejo visualizar os episódios de cada podcasts para decidir se vou assinar                      | RF13          |
 | US32 | Eu, como usuário, desejo visualizar informações sobre o podcast para conhecer melhor o conteúdo antes de assiná-lo | RF16          |
 
 
 ### EP05: Navegação personalizada
-### FT12: Recomendação
-| USID | Histórias de Usuário                                                                                                                                       | ID Requisitos |
-| ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
-| US33 | Eu, como usuário, desejo visualizar sugestões dos podcasts mais escutados para explorar novos assuntos                                                     | RF53          |
-| US34 | Eu, como usuário, desejo visualizar podcasts recomendados de acordo com o meu gosto para encontrar facilmente podcasts diferentes que atenda ao meu perfil | RF52          |
-
-### FT13: Renomear
-| USID | Histórias de Usuário                                                                              | ID Requisitos |
-| ---- | ------------------------------------------------------------------------------------------------- | ------------- |
-| US35 | Eu, como usuário, desejo renomear o podcast assinado para personalizar como eu quero cada podcast | RF18          |
-
-### FT14: Aparencia
+### FT12: Aparencia
 | USID | Histórias de Usuário                                                                          | ID Requisitos |
 | ---- | --------------------------------------------------------------------------------------------- | ------------- |
 | US36 | Eu, como usuário, desejo alterar o tema (visual) do aplicativo para personalizar o aplicativo | RF57          |
 
-### FT15: Favoritos
-| USID | Histórias de Usuário                                                                            | ID Requisitos |
-| ---- | ----------------------------------------------------------------------------------------------- | ------------- |
-| US37 | Eu, como usuário, desejo visualizar episodios favoritados para visualizar os melhores episódios | RF50          |
-| US38 | Eu, como usuário, desejo favoritar episódios para ouvir de novo em algum momento                | RF48          |
-| US39 | Eu, como usuário, desejo desfavoritar episódios para dar espaço a outros episódios melhores     | RF49          |
+### FT13: Recomendação
+| USID | Histórias de Usuário                                                                                                                                       | ID Requisitos |
+| ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
+| US34 | Eu, como usuário, desejo visualizar podcasts recomendados de acordo com o meu gosto para encontrar facilmente podcasts diferentes que atenda ao meu perfil | RF52          |
+| US33 | Eu, como usuário, desejo visualizar sugestões dos podcasts mais escutados para explorar novos assuntos                                                     | RF53          |
 
-### FT16: Dados estatisticos
+### FT14: Dados estatisticos
 | USID | Histórias de Usuário                                                                                                                                         | ID Requisitos |
 | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------- |
 | US40 | Eu, como usuário, desejo visualizar estatísticas de horas de reprodução para ter mais controle do meu tempo no aplicativo                                    | RF58          |
 | US41 | Eu, como usuário, desejo visualizar estatísticas do tamanho dos downloads para saber quanto da minha memória está sendo ocupada pelos episódios que eu baixo | RF59          |
+
+### FT15: Favoritos
+| USID | Histórias de Usuário                                                                            | ID Requisitos |
+| ---- | ----------------------------------------------------------------------------------------------- | ------------- |
+| US38 | Eu, como usuário, desejo favoritar episódios para ouvir de novo em algum momento                | RF48          |
+| US37 | Eu, como usuário, desejo visualizar episodios favoritados para visualizar os melhores episódios | RF50          |
+| US39 | Eu, como usuário, desejo desfavoritar episódios para dar espaço a outros episódios melhores     | RF49          |
+
+### FT16: Renomear
+| USID | Histórias de Usuário                                                                              | ID Requisitos |
+| ---- | ------------------------------------------------------------------------------------------------- | ------------- |
+| US35 | Eu, como usuário, desejo renomear o podcast assinado para personalizar como eu quero cada podcast | RF18          |
 
 
 ### EP06: Usabilidade
@@ -171,29 +171,26 @@ EP é para Épico e FT é para Feature.
 | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
 | US43 | Eu, como usuário, desejo navegar no app através da barra lateral para encontrar oque quero com mais facilidade                                                | RF60          |
 | US44 | Eu, como usuário, desejo acessar de forma direta e fácil a página principal para encontrar as principais funcionalidades mais facilmente                      | RF03          |
-| US45 | Eu, como aplicativo, desejo ser intuitivo para os usuários conseguirem navegar facilmente                                                                     | RNF02         |
 | US46 | Eu, como usuário, desejo ser redirecionado para o website do podcast assinado por um link para acessar facilmente o website do podcast que estou visualizando | RF36          |
+| US45 | Eu, como aplicativo, desejo ser intuitivo para os usuários conseguirem navegar facilmente                                                                     | RNF02         |
 
 ### FT19: Notificação
 | USID | Histórias de Usuário                                                                                     | ID Requisitos |
 | ---- | -------------------------------------------------------------------------------------------------------- | ------------- |
 | US47 | Eu, como aplicação, desejo notificar novos episódios dos podcasts para o usuário estar sempre atualizado | RF28          |
 
+### FT20: Backup e Sincronização
+| USID | Histórias de Usuário                                                                                                            | ID Requisitos |
+| ---- | ------------------------------------------------------------------------------------------------------------------------------- | ------------- |
+| US52 | Eu, como usuário, desejo importar uma lista de podcast para recuperar meus dados                                                | RF14          |
+| US50 | Eu, como usuário, desejo realizar um backup de dados para ter acesso a minha conta em um celular diferente, ou após formata-lo  | RF63          |
+| US51 | Eu, como usuário, desejo sincronizar o aplicativo com a conta do gpodder.net para salvar as atividades realizadas no aplicativo | RF56          |
+| US49 | Eu, como aplicativo, desejo não requerer cadastro para o usuário acessar a plataforma                                           | RNF01         |
 
-### FT20: Plataforma
+### FT21: Plataforma
 | USID | Histórias de Usuário                                                                          | ID Requisitos |
 | ---- | --------------------------------------------------------------------------------------------- | ------------- |
 | US48 | Eu, como aplicativo, desejo rodar em qualquer plataforma mobile para ser acessível para todos | RNF03         |
-
-
-### FT21: Backup e Sincronização
-| USID | Histórias de Usuário                                                                                                            | ID Requisitos |
-| ---- | ------------------------------------------------------------------------------------------------------------------------------- | ------------- |
-| US49 | Eu, como aplicativo, desejo não requerer cadastro para o usuário acessar a plataforma                                           | RNF01         |
-| US50 | Eu, como usuário, desejo realizar um backup de dados para ter acesso a minha conta em um celular diferente, ou após formata-lo  | RF63          |
-| US51 | Eu, como usuário, desejo sincronizar o aplicativo com a conta do gpodder.net para salvar as atividades realizadas no aplicativo | RF56          |
-| US52 | Eu, como usuário, desejo importar uma lista de podcast para recuperar meus dados                                                | RF14          |
-
 
 ## Referências
 
