@@ -5,7 +5,7 @@
 | ---------- | ------ | ---------------------------------------- | ------------------------------------------- | --------------------------------------------- |
 | 24.02.2022 | 1.0    | Criação do documento                     | [Yudi Yamane](https://github.com/yudi-azvd) | [Thaís Rebouças](https://github.com/Thais-ra) |
 | 06.03.2022 | 2.0    | Movidos casos de uso para a mesma página | [Yudi Yamane](https://github.com/yudi-azvd) | [Amanda Nobre](https://github.com/AmandaNbr)  |
-| 18.03.2022 | 3.0    | Movidos casos de uso para a mesma página | [Yudi Yamane](https://github.com/yudi-azvd) | [Amanda Nobre](https://github.com/AmandaNbr)  |
+| 18.03.2022 | 3.0    | Movidos casos de uso para a mesma página | [Yudi Yamane](https://github.com/yudi-azvd) | [Thais Rebouças](https://github.com/Thais-ra)  |
 
 ## Introdução
 
