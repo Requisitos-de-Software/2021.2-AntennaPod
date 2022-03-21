@@ -34,17 +34,23 @@ nav:
     - Priorização: elicitacao/100reais.md
   - Modelagem:
     - Backlog: modelagem/backlog.md
-    - Casos de uso: modelagem/casosDeUso/casosDeUso.md
+    - Casos de uso: modelagem/casosDeUso.md
     - Cenários: modelagem/cenarios.md
     - Especificação Suplementar: modelagem/especificacaoSuplementar.md
     - Léxicos: modelagem/lexicos.md
     - NFR Framework: modelagem/nfr-framework
+  - Análise:
+    - Verificação:
+      - Verificação:  analise/verificacao/verificacao-introducao.md
+      - NFR Framework: analise/verificacao/verificacao-nfr-framework.md
   - Atas de reuniões:
     - Fevereiro:
       - Dia 02: reunioes/02-02.md
       - Dia 09: reunioes/09-02.md
       - Dia 17: reunioes/17-02.md
       - Dia 23: reunioes/23-02.md
+    - Março:
+      - Dia 10: reunioes/10-03.md
   - Apresentações:
     - Apresentação-1: apresentacoes/apresentacao1.md
     - Apresentação-2: apresentacoes/apresentacao2.md
