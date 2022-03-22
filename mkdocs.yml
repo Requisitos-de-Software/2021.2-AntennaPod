@@ -41,7 +41,8 @@ nav:
     - NFR Framework: modelagem/nfr-framework
   - Análise:
     - Verificação:
-      - Verificação:  analise/verificacao/verificacao-introducao.md
+      - Introdução:  analise/verificacao/verificacao-introducao.md
+      - Cenários: analise/verificacao/cenarios.md
       - NFR Framework: analise/verificacao/verificacao-nfr-framework.md
   - Atas de reuniões:
     - Fevereiro:
