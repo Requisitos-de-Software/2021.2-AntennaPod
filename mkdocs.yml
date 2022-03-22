@@ -42,6 +42,7 @@ nav:
   - Análise:
     - Verificação:
       - Verificação:  analise/verificacao/verificacao-introducao.md
+      - Casos de uso: analise/verificacao/casosDeUso.md
       - NFR Framework: analise/verificacao/verificacao-nfr-framework.md
   - Atas de reuniões:
     - Fevereiro:
