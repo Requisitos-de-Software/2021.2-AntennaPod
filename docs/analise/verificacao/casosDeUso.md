@@ -35,18 +35,18 @@ A técnica de verificação usada nos artefatos de [Casos de Usos](https://requi
 
 ## Checklist
 
-| Símbolo            | Descriçãoo |
-| ------------------ | ---------- |
-| :heavy_check_mark: | Sim        |
-| :x:                | Não        |
+| Símbolo | Descrição |
+| ------- | --------- |
+| ✔️    | Sim       |
+| ❌      | Não       |
 
 
-| UC   | 01                 | 02                 | 03                 | 04                 | 05                 | 06                 | 07                 | 08                 | 09                 | 10                 | 11                 | 12                 | 13                 | 14                 |
-| ---- | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ |
-| UC01 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :x:                | :heavy_check_mark: | :heavy_check_mark: | :x:                | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| UC02 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :x:                | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :x:                | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| UC03 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :x:                | :x:                | :heavy_check_mark: | :x:                | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| UC04 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :x:                | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :x:                | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| UC   | 01   | 02   | 03   | 04   | 05   | 06   | 07   | 08   | 09   | 10   | 11   | 12   | 13   | 14   |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| UC01 | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ❌   | ✔️ | ✔️ | ❌   | ✔️ | ✔️ | ✔️ |
+| UC02 | ✔️ | ✔️ | ✔️ | ❌   | ✔️ | ✔️ | ✔️ | ❌   | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
+| UC03 | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ❌   | ❌   | ✔️ | ❌   | ✔️ | ✔️ | ✔️ |
+| UC04 | ✔️ | ✔️ | ✔️ | ✔️ | ❌   | ✔️ | ✔️ | ✔️ | ❌   | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 
 
 ## Melhorias
