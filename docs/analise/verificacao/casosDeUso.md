@@ -80,6 +80,7 @@ A técnica de verificação usada nos artefatos de [Casos de Usos](https://requi
 
 
 A partir da análise de todos os casos de uso, pode ser observado que: 
+
 - De 14 itens, apenas 5 não possuíram 100% de aproveitamento;
 - Os erros se concentraram no item 08 que se trata da falta de um fluxo alternativo;
 - O item 09 também se destaca pela falta de fluxos de exceção;
