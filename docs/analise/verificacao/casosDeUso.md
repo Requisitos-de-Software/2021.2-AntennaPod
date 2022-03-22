@@ -33,14 +33,20 @@ A técnica de verificação usada nos artefatos de [Casos de Usos](https://requi
 | 14  | Todos os relacionamentos entre os casos de uso são necessários?                        |
 
 
-## Inspeção
+## Checklist
 
-| UC   | 01  | 02  | 03  | 04  | 05  | 06  | 07  | 08  | 09  | 10  | 11  | 12  | 13  | 14  |
-| ---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| UC01 |  ✔  |  ✔  |  ✔  |  ✔  |  ✔  |  ✔  |  ✔  |  ✖  |  ✔  |  ✔  |  ✖  |  ✔  |  ✔  |  ✔  |
-| UC02 |  ✔  |  ✔  |  ✔  |  ✖  |  ✔  |  ✔  |  ✔  |  ✖  |  ✔  |  ✔  |  ✔  |  ✔  |  ✔  |  ✔  |
-| UC03 |  ✔  |  ✔  |  ✔  |  ✔  |  ✔  |  ✔  |  ✔  |  ✖  |  ✖  |  ✔  |  ✖  |  ✔  |  ✔  |  ✔  |
-| UC04 |  ✔  |  ✔  |  ✔  |  ✔  |  ✖  |  ✔  |  ✔  |  ✔  |  ✖  |  ✔  |  ✔  |  ✔  |  ✔  |  ✔  |
+| Símbolo            | Descriçãoo |
+| ------------------ | ---------- |
+| :heavy_check_mark: | Sim        |
+| :x:                | Não        |
+
+
+| UC   | 01                 | 02                 | 03                 | 04                 | 05                 | 06                 | 07                 | 08                 | 09                 | 10                 | 11                 | 12                 | 13                 | 14                 |
+| ---- | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ |
+| UC01 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :x:                | :heavy_check_mark: | :heavy_check_mark: | :x:                | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| UC02 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :x:                | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :x:                | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| UC03 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :x:                | :x:                | :heavy_check_mark: | :x:                | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| UC04 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :x:                | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :x:                | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 
 
 ## Melhorias
@@ -53,7 +59,7 @@ A técnica de verificação usada nos artefatos de [Casos de Usos](https://requi
 | UC04 | Não fica muito claro o papel de "enviar notificações" no diagrama                                                                                                                 |
 
 
-## Resultado
+## Conclusão
 
 | ID Checklist | Porcentagem |
 | ------------ | ----------- |
