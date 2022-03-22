@@ -1,9 +1,9 @@
 # Verificação - cenário
 
 ## Histórico de versões
-| Data       | Versão | Descrição            | Autor                                       | Revisor |
-| ---------- | ------ | -------------------- | ------------------------------------------- | ------- |
-| 16.03.2022 | 1.0    | Criação do documento | [Yudi Yamane](https://github.com/yudi-azvd) |         |
+| Data       | Versão | Descrição            | Autor                                       | Revisor                                       |
+| ---------- | ------ | -------------------- | ------------------------------------------- | --------------------------------------------- |
+| 16.03.2022 | 1.0    | Criação do documento | [Yudi Yamane](https://github.com/yudi-azvd) | [Abraão Alves](https://github.com/Abraao1231) |
 
 ## Participantes
 
