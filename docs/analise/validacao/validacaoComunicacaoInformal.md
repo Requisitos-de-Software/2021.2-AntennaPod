@@ -7,7 +7,7 @@
 
 ## Introdução
 
-A Validação por Comunicação Informal baseia-se em entrar em contato com alguém que esteja ativo no projeto, por exemplo um desenvolvedor, e assim por meio de um dialogo validar se determinado(s) requisito(s) estão de acordo com o escopo do projeto.
+A Validação por Comunicação Informal baseia-se em entrar em contato com alguém que esteja ativo no projeto, por exemplo um desenvolvedor, e assim por meio de um diálogo validar se determinado(s) requisito(s) estão de acordo com o escopo do projeto.
 
 ## Metodologia
 
