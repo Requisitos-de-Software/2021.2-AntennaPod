@@ -67,7 +67,7 @@ A técnica de verificação usada no documento de [backlog](https://requisitos-d
 | ----------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
 | US12        | ✔        | ✔        | ✔        | ✔        | ✔        | ✔        | ✓        | ✔        |
 | US13        | ✔        | ✔        | ✔        | ✔        | ✔        | ✔        | ✓        | ✔        |
-| US14        | ✔        | ✔        | ✔        | ✔        | ❌        | ❌        | ✓        | ✔        |
+| US14        | ✔        | ✔        | ✔        | ✔        | ✔        | ✔        | ✓        | ✔        |
 | US15        | ✔        | ✔        | ✔        | ✔        | ✔        | ✔        | ✓        | ✔        |
 
 ### FT05: Visualização de downloads
@@ -97,15 +97,15 @@ A técnica de verificação usada no documento de [backlog](https://requisitos-d
 
 | User storie | Questão 1 | Questão 2 | Questão 3 | Questão 4 | Questão 5 | Questão 6 | Questão 7 | Questão 8 |
 | ----------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
-| US22        | ✔        | ✔        | ✔        | ❌        | ❌        | ❌        | ✓        | ✔        |
-| US23        | ✔        | ✔        | ✔        | ❌        | ❌        | ❌        | ✓        | ✔        |
-| US24        | ✔        | ✔        | ✔        | ❌        | ❌        | ❌        | ✓        | ✔        |
+| US22        | ✔        | ✔        | ✔        | ✔        | ✔        | ✔        | ✓        | ✔        |
+| US23        | ✔        | ✔        | ✔        | ✔        | ✔        | ✔        | ✓        | ✔        |
+| US24        | ✔        | ✔        | ✔        | ✔        | ✔        | ✔        | ✓        | ✔        |
 
 ### FT09: Por podcasts
 | User storie | Questão 1 | Questão 2 | Questão 3 | Questão 4 | Questão 5 | Questão 6 | Questão 7 | Questão 8 |
 | ----------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
 | US25        | ✔        | ✔        | ✔        | ✔        | ✔        | ✔        | ✓        | ✔        |
-| US26        | ✔        | ✔        | ✔        | ✔        | ❌        | ✔        | ✓        | ✔        |
+| US26        | ✔        | ✔        | ✔        | ✔        | ✔        | ✔        | ✓        | ✔        |
 | US27        | ✔        | ✔        | ✔        | ✔        | ✔        | ✔        | ✓        | ✔        |
 | US28        | ✔        | ✔        | ✔        | ✔        | ✔        | ✔        | ✓        | ✔        |
 
@@ -122,7 +122,7 @@ A técnica de verificação usada no documento de [backlog](https://requisitos-d
 
 | User storie | Questão 1 | Questão 2 | Questão 3 | Questão 4 | Questão 5 | Questão 6 | Questão 7 | Questão 8 |
 | ----------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
-| US31        | ✔        | ✔        | ✔        | ✔        | ✔        | ❌        | ✓        | ✔        |
+| US31        | ✔        | ✔        | ✔        | ❌        | ❌        | ✔        | ✓        | ✔        |
 | US32        | ✔        | ✔        | ✔        | ✔        | ✔        | ✔        | ✓        | ✔        |
 
 
@@ -212,9 +212,11 @@ A técnica de verificação usada no documento de [backlog](https://requisitos-d
 
 
 ## Melhorias 
-| US  | melhoria |
-| --- | -------- |
-| US    |          |
+| US         | melhoria                                                                                                             |
+| ---------- | -------------------------------------------------------------------------------------------------------------------- |
+| US20, US21 | Adicionar nova feature ao épico de episódios e substitua retire essas user stories de sua respectiva feature e épico |
+| US31       | Trocar user storie e feature na que se encontra e coloque no épico de episódios                                      |           
+
 ## Conclusão
 
 | ID Checklist | Porcentagem |
@@ -228,12 +230,10 @@ A técnica de verificação usada no documento de [backlog](https://requisitos-d
 | 7            | 100%        |
 | 8            | 100%        |
 
-A partir da da anlise dos casos de uso do backlog que de 8 itens apenas 4 possuem 100 porcento de aproveitamento, e grande parte dos erros estão na questão 5 que se trata da da coerência com a feature.
+A partir da da analise dos casos de uso do backlog que todos os itens tiveram mais de 50% de aproveitamento sendo que de 8 itens apenas 4 possuem 100 porcento de aproveitamento, e grande parte dos erros estão na questão 5 que se trata da da coerência com a feature em que a user storie foi associada . Apesar da necessidade de alterações o documento foi bem escrito seguindo os padrões exigidos e foi considerado como satisfatório
 
 
 
 ## Referências
 
-SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 15. 1º/2019. 36 slides. 
-
-REQUISITOS DE SOFTWARE, BikeItau 2021.2. NFR Framework e Verificação do NFR Framework.  Disponível em: https://requisitos-de-software.github.io/2020.2-BikeItau/
+SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 15. 1º/2019. 53 slides. 
