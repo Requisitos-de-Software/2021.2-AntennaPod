@@ -36,6 +36,11 @@ A técnica de verificação usada nos artefatos de [Léxicos](/2021.2-AntennaPod
 | 4   | As tabelas descrevem corretamente o impacto do símbolo corretamente?         | ✔        |
 | 5   | O versionamento do documento está correto?                                   | ✔        |
 | 6   | O documento livre de erros gramaticais?                                      | ✔        |
+|     | Porcentagem de sucesso                                                       | 100%      |
+
+## Conclusão
+
+Dessa forma, nota-se que o diagrama está bom e atende a todos os critérios de avaliação, realizando corretamente a tarefa empregada ao mesmo.
 
 ## Referências
 

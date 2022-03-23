@@ -41,9 +41,14 @@ nav:
     - NFR Framework: modelagem/nfr-framework
   - Análise:
     - Verificação:
-      - Verificação:  analise/verificacao/verificacao-introducao.md
+      - Introdução:  analise/verificacao/verificacao-introducao.md
+      - Casos de uso: analise/verificacao/casosDeUso.md
+      - Cenários: analise/verificacao/cenarios.md
+      - Especificação Suplementar: analise/verificacao/especificacao-suplementar.md
+      - Léxico: analise/verificacao/verificacao-Lexicos.md
       - NFR Framework: analise/verificacao/verificacao-nfr-framework.md
-      - Verificacao-lexico: analise/verificacao/verificacao-Lexicos.md
+    - Validação:
+      - Comunicação Informal: analise/validacao/validacaoComunicacaoInformal.md
   - Atas de reuniões:
     - Fevereiro:
       - Dia 02: reunioes/02-02.md

@@ -23,7 +23,7 @@ em quem participou da criação do artefato terá que verificar outro, com a fin
 | Artefato                                                                                                                    | Integrante responsável                           |
 | --------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
 | [Backlog](https://requisitos-de-software.github.io/2021.2-AntennaPod/modelagem/backlog/)                                    | [Abraão Alves](https://github.com/Abraao1231)    |
-| [Casos de Uso](https://requisitos-de-software.github.io/2021.2-AntennaPod/modelagem/casosDeUso/casosDeUso/)                 | [Thais Rebouças](https://github.com/Thais-ra)    |
+| [Casos de Uso](https://requisitos-de-software.github.io/2021.2-AntennaPod/modelagem/casosDeUso/)                 | [Thais Rebouças](https://github.com/Thais-ra)    |
 | [Cenários](https://requisitos-de-software.github.io/2021.2-AntennaPod/modelagem/cenarios/)                                  | [Yudi Yamane](https://github.com/yudi-azvd)      |
 | [Especificação Suplementar](https://requisitos-de-software.github.io/2021.2-AntennaPod/modelagem/especificacaoSuplementar/) | [Matheus Sousa](https://github.com/gatotabaco)   |
 | [Léxicos](https://requisitos-de-software.github.io/2021.2-AntennaPod/modelagem/lexicos/)                                    | [Matheus Calixto](https://github.com/matheuscvp) |
