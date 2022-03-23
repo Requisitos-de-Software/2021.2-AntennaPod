@@ -60,6 +60,7 @@ A técnica de verificação usada no documento de [backlog](https://requisitos-d
 | User storie | Questão 1 | Questão 2 | Questão 3 | Questão 4 | Questão 5 | Questão 6 | Questão 7 | Questão 8 |
 | ----------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
 | US06       |✔        | ✔        | ✔        | ✔        | ✔        | ✔        | ✓        | ✔        |
+
 ### FT04: Downloads
 
 | User storie | Questão 1 | Questão 2 | Questão 3 | Questão 4 | Questão 5 | Questão 6 | Questão 7 | Questão 8 |
@@ -79,7 +80,7 @@ A técnica de verificação usada no documento de [backlog](https://requisitos-d
 
 | User storie | Questão 1 | Questão 2 | Questão 3 | Questão 4 | Questão 5 | Questão 6 | Questão 7 | Questão 8 |
 | ----------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
-| US17        | ❌        | ✔        | ✔        | ✔        | ✔        | ✔        | ✓        | ✔        |
+| US17        | ✔        | ✔        | ✔        | ✔        | ✔        | ✔        | ✓        | ✔        |
 | US18        | ✔        | ✔        | ✔        | ✔        | ✔        | ✔        | ✓        | ✔        |
 
 
@@ -99,6 +100,7 @@ A técnica de verificação usada no documento de [backlog](https://requisitos-d
 | US22        | ✔        | ✔        | ✔        | ❌        | ❌        | ❌        | ✓        | ✔        |
 | US23        | ✔        | ✔        | ✔        | ❌        | ❌        | ❌        | ✓        | ✔        |
 | US24        | ✔        | ✔        | ✔        | ❌        | ❌        | ❌        | ✓        | ✔        |
+
 ### FT09: Por podcasts
 | User storie | Questão 1 | Questão 2 | Questão 3 | Questão 4 | Questão 5 | Questão 6 | Questão 7 | Questão 8 |
 | ----------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
@@ -207,10 +209,28 @@ A técnica de verificação usada no documento de [backlog](https://requisitos-d
 | User storie | Questão 1 | Questão 2 | Questão 3 | Questão 4 | Questão 5 | Questão 6 | Questão 7 | Questão 8 |
 | ----------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
 | US48        | ✔        | ✔        | ✔        | ✔        | ✔        | ✔        | ✓        | ✔        |
+
+
+## Melhorias 
+| US  | melhoria |
+| --- | -------- |
+| US    |          |
 ## Conclusão
 
-Dessa forma, nota-se que o diagrama está bom e atende à maioria dos critérios de avaliação, porém pode haver uma melhora quanto a correspondência dos 
-requisitos previamente levantados com o modelo NFR Framework, e também explicitar os softgoals de operacionalização como propostas de soluções.
+| ID Checklist | Porcentagem |
+| ------------ | ----------- |
+| 1            | 100%        |
+| 2            | 98%         |
+| 3            | 100%        |
+| 4            | 90%         |
+| 5            | 86%         |
+| 6            | 84%         |
+| 7            | 100%        |
+| 8            | 100%        |
+
+A partir da da anlise dos casos de uso do backlog que de 8 itens apenas 4 possuem 100 porcento de aproveitamento, e grande parte dos erros estão na questão 5 que se trata da da coerência com a feature.
+
+
 
 ## Referências
 
