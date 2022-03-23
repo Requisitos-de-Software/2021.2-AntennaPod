@@ -19,9 +19,10 @@ A técnica de verificação usada no documento de [backlog](https://requisitos-d
 | 6      | A user storie é coerente ?                        | ✓        |
 | 7      | Possui ator coerente?                             | ✓        |
 | 8      | A user story possui alguma rastreabilidade?       | ✓        |
+
 ## Participantes
 
-- [Amanda Nobre](https://github.com/AmandaNbr)
+- [Abraão Alves](https://github.com/Abraao1231)
 
 ## Checklist
 
@@ -32,21 +33,180 @@ A técnica de verificação usada no documento de [backlog](https://requisitos-d
 | ✔      | Sim       |
 | ❌      | Não       |
 
-| Índice | Questões                                                                       | Resultado |
-| ------ | ------------------------------------------------------------------------------ | --------- |
-| 1      | Conceito de NFR é apresentado?                                                 | ✔        |
-| 2      | Há legenda dos símbolos e tipos de contribuições?                              | ✔        |
-| 3      | Os softgoals estão bem definidos?                                              | ✔        |
-| 4      | Existem softgoals suficientes para representar corretamente o contexto?        | ✔        |
-| 5      | Os softgoals foram decompostos em operações?                                   | ✔        |
-| 6      | Os softgoals de operacionalização são soluções?                                | ❌        |
-| 7      | Os impactos foram propagados corretamente?                                     | ✔        |
-| 8      | Os elementos do diagrama estão bem representados?                              | ✔        |
-| 9      | A lógica do diagrama está clara?                                               | ✔        |
-| 10     | Os elementos do diagrama condizem com os requisitos não funcionais elicitados? | ❌        |
-| 11     | A documentação possui versionamento?                                           | ✔        |
-|        | Porcentagem de sucesso                                                         | 82%       |
+### FT01: Modo de reprodução
 
+| User storie | Questão 1 | Questão 2 | Questão 3 | Questão 4 | Questão 5 | Questão 6 | Questão 7 | Questão 8 |
+| ----------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
+| US01        | ✔        | ❌        | ✔        | ✔        | ✔        | ✔        | ✔        | ✔        |
+| US02        | ✔        | ✔        | ✔        | ✔        | ✔        | ✔        | ✓        | ✔        |
+| US03        | ✔        | ✔        | ✔        | ✔        | ✔        | ✔        | ✓        | ✔        |
+| US04        | ✔        | ✔        | ✔        | ✔        | ✔        | ✔        | ✓        | ✔        |
+| US05        | ✔        | ✔        | ✔        | ✔        | ✔        | ✔        | ✓        | ✔        |
+
+
+### FT02: Lista de reprodução
+
+| User storie | Questão 1 | Questão 2 | Questão 3 | Questão 4 | Questão 5 | Questão 6 | Questão 7 | Questão 8 |
+| ----------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
+| US07        | ✔        | ✔        | ✔        | ✔        | ✔        | ✔        | ✓        | ✔        |
+| US08        | ✔        | ✔        | ✔        | ✔        | ✔        | ❌        | ✓        | ✔        |
+| US09        | ✔        | ✔        | ✔        | ✔        | ✔        | ✔        | ✓        | ✔        |
+| US10        | ✔        | ✔        | ✔        | ✔        | ✔        | ✔        | ✓        | ✔        |
+| US11        | ✔        | ✔        | ✔        | ✔        | ✔        | ✔        | ✓        | ✔        |
+
+
+### FT03: Histórico de reprodução
+
+| User storie | Questão 1 | Questão 2 | Questão 3 | Questão 4 | Questão 5 | Questão 6 | Questão 7 | Questão 8 |
+| ----------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
+| US06       |✔        | ✔        | ✔        | ✔        | ✔        | ✔        | ✓        | ✔        |
+### FT04: Downloads
+
+| User storie | Questão 1 | Questão 2 | Questão 3 | Questão 4 | Questão 5 | Questão 6 | Questão 7 | Questão 8 |
+| ----------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
+| US12        | ✔        | ✔        | ✔        | ✔        | ✔        | ✔        | ✓        | ✔        |
+| US13        | ✔        | ✔        | ✔        | ✔        | ✔        | ✔        | ✓        | ✔        |
+| US14        | ✔        | ✔        | ✔        | ✔        | ❌        | ❌        | ✓        | ✔        |
+| US15        | ✔        | ✔        | ✔        | ✔        | ✔        | ✔        | ✓        | ✔        |
+
+### FT05: Visualização de downloads
+
+| User storie | Questão 1 | Questão 2 | Questão 3 | Questão 4 | Questão 5 | Questão 6 | Questão 7 | Questão 8 |
+| ----------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
+| US16        | ✔        | ✔        | ✔        | ✔        | ✔        | ✔        | ✓        | ✔        |
+
+### FT06: Gerenciamento de assinaturas
+
+| User storie | Questão 1 | Questão 2 | Questão 3 | Questão 4 | Questão 5 | Questão 6 | Questão 7 | Questão 8 |
+| ----------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
+| US17        | ❌        | ✔        | ✔        | ✔        | ✔        | ✔        | ✓        | ✔        |
+| US18        | ✔        | ✔        | ✔        | ✔        | ✔        | ✔        | ✓        | ✔        |
+
+
+### FT07: Visualização de assinaturas
+
+
+| User storie | Questão 1 | Questão 2 | Questão 3 | Questão 4 | Questão 5 | Questão 6 | Questão 7 | Questão 8 |
+| ----------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
+| US19        | ✔        | ✔        | ✔        | ✔        | ✔        | ✔        | ✓        | ✔        |
+| US20        | ✔        | ✔        | ✔        | ❌        | ❌        | ❌        | ✓        | ✔        |
+| US21        | ✔        | ✔        | ✔        | ❌        | ❌        | ❌        | ✓        | ✔        |
+
+### FT08: Ordenação
+
+| User storie | Questão 1 | Questão 2 | Questão 3 | Questão 4 | Questão 5 | Questão 6 | Questão 7 | Questão 8 |
+| ----------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
+| US22        | ✔        | ✔        | ✔        | ❌        | ❌        | ❌        | ✓        | ✔        |
+| US23        | ✔        | ✔        | ✔        | ❌        | ❌        | ❌        | ✓        | ✔        |
+| US24        | ✔        | ✔        | ✔        | ❌        | ❌        | ❌        | ✓        | ✔        |
+### FT09: Por podcasts
+| User storie | Questão 1 | Questão 2 | Questão 3 | Questão 4 | Questão 5 | Questão 6 | Questão 7 | Questão 8 |
+| ----------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
+| US25        | ✔        | ✔        | ✔        | ✔        | ✔        | ✔        | ✓        | ✔        |
+| US26        | ✔        | ✔        | ✔        | ✔        | ❌        | ✔        | ✓        | ✔        |
+| US27        | ✔        | ✔        | ✔        | ✔        | ✔        | ✔        | ✓        | ✔        |
+| US28        | ✔        | ✔        | ✔        | ✔        | ✔        | ✔        | ✓        | ✔        |
+
+
+### FT10: Por episódios
+
+| User storie | Questão 1 | Questão 2 | Questão 3 | Questão 4 | Questão 5 | Questão 6 | Questão 7 | Questão 8 |
+| ----------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
+| US29        |✔        | ✔        | ✔        | ✔        | ✔        | ✔        | ✓        | ✔        |
+| US30        |✔        | ✔        | ✔        | ✔        | ✔        | ✔        | ✓        | ✔        |
+
+
+### FT11: Informações
+
+| User storie | Questão 1 | Questão 2 | Questão 3 | Questão 4 | Questão 5 | Questão 6 | Questão 7 | Questão 8 |
+| ----------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
+| US31        | ✔        | ✔        | ✔        | ✔        | ✔        | ❌        | ✓        | ✔        |
+| US32        | ✔        | ✔        | ✔        | ✔        | ✔        | ✔        | ✓        | ✔        |
+
+
+### FT12: Aparencia
+
+
+| User storie | Questão 1 | Questão 2 | Questão 3 | Questão 4 | Questão 5 | Questão 6 | Questão 7 | Questão 8 |
+| ----------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
+| US33        | ✔        | ✔        | ✔        | ✔        | ✔        | ✔        | ✓        | ✔        |
+
+### FT13: Recomendação
+
+
+| User storie | Questão 1 | Questão 2 | Questão 3 | Questão 4 | Questão 5 | Questão 6 | Questão 7 | Questão 8 |
+| ----------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
+| US34        | ✔        | ✔        | ✔        | ✔        | ✔        | ✔        | ✓        | ✔        |
+| US35        | ✔        | ✔        | ✔        | ✔        | ✔        | ✔        | ✓        | ✔        |
+
+
+### FT14: Dados estatisticos
+
+
+| User storie | Questão 1 | Questão 2 | Questão 3 | Questão 4 | Questão 5 | Questão 6 | Questão 7 | Questão 8 |
+| ----------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
+| US36        | ✔        | ✔        | ✔        | ✔        | ✔        | ✔        | ✓        | ✔        |
+| US37        | ✔        | ✔        | ✔        | ✔        | ✔        | ✔        | ✓        | ✔        |
+
+### FT15: Favoritos
+
+| User storie | Questão 1 | Questão 2 | Questão 3 | Questão 4 | Questão 5 | Questão 6 | Questão 7 | Questão 8 |
+| ----------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
+| US37        | ✔        | ✔        | ✔        | ✔        | ✔        | ✔        | ✓        | ✔        |
+| US38        | ✔        | ✔        | ✔        | ✔        | ✔        | ✔        | ✓        | ✔        |
+| US39        | ✔        | ✔        | ✔        | ✔        | ✔        | ✔        | ✓        | ✔        |
+
+### FT16: Renomear
+
+
+| User storie | Questão 1 | Questão 2 | Questão 3 | Questão 4 | Questão 5 | Questão 6 | Questão 7 | Questão 8 |
+| ----------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
+| US35        | ✔        | ✔        | ✔        | ✔        | ✔        | ✔        | ✓        | ✔        |
+
+
+### FT17: Compartilhar
+
+| User storie | Questão 1 | Questão 2 | Questão 3 | Questão 4 | Questão 5 | Questão 6 | Questão 7 | Questão 8 |
+| ----------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
+| US42        | ✔        | ✔        | ✔        | ✔        | ✔        | ✔        | ✓        | ✔        |
+
+
+### FT18: Navegação
+
+
+| User storie | Questão 1 | Questão 2 | Questão 3 | Questão 4 | Questão 5 | Questão 6 | Questão 7 | Questão 8 |
+| ----------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
+| US43        | ✔        | ✔        | ✔        | ✔        | ✔        | ✔        | ✓        | ✔        |
+| US44        | ✔        | ✔        | ✔        | ✔        | ✔        | ✔        | ✓        | ✔        |
+| US45        | ✔        | ✔        | ✔        | ✔        | ✔        | ✔        | ✓        | ✔        |
+| US46        | ✔        | ✔        | ✔        | ✔        | ✔        | ✔        | ✓        | ✔        |
+
+
+
+### FT19: Notificação
+
+| User storie | Questão 1 | Questão 2 | Questão 3 | Questão 4 | Questão 5 | Questão 6 | Questão 7 | Questão 8 |
+| ----------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
+| US47        | ✔        | ✔        | ✔        | ✔        | ✔        | ✔        | ✓        | ✔        |
+
+
+
+### FT20: Backup e Sincronização
+
+| User storie | Questão 1 | Questão 2 | Questão 3 | Questão 4 | Questão 5 | Questão 6 | Questão 7 | Questão 8 |
+| ----------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
+| US49        | ✔        | ✔        | ✔        | ✔        | ✔        | ✔        | ✓        | ✔        |
+| US50        | ✔        | ✔        | ✔        | ✔        | ✔        | ✔        | ✓        | ✔        |
+| US51        | ✔        | ✔        | ✔        | ✔        | ✔        | ✔        | ✓        | ✔        |
+| US52        | ✔        | ✔        | ✔        | ✔        | ✔        | ✔        | ✓        | ✔        |
+
+
+### FT21: Plataforma
+
+
+| User storie | Questão 1 | Questão 2 | Questão 3 | Questão 4 | Questão 5 | Questão 6 | Questão 7 | Questão 8 |
+| ----------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
+| US48        | ✔        | ✔        | ✔        | ✔        | ✔        | ✔        | ✓        | ✔        |
 ## Conclusão
 
 Dessa forma, nota-se que o diagrama está bom e atende à maioria dos critérios de avaliação, porém pode haver uma melhora quanto a correspondência dos 
