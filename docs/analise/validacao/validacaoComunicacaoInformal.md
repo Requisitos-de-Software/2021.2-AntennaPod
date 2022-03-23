@@ -3,7 +3,7 @@
 ## Histórico de versões
 | Data       | Versão | Descrição            | Autor                                            | Revisor |
 | ---------- | ------ | -------------------- | ------------------------------------------------ | ------- |
-| 22.03.2022 | 1.0    | Criação do documento | [Matheus Calixto](https://github.com/matheuscvp) |         |
+| 22.03.2022 | 1.0    | Criação do documento | [Matheus Calixto](https://github.com/matheuscvp) | [Yudi Yamane](https://github.com/yudi-azvd)        |
 
 ## Introdução
 
