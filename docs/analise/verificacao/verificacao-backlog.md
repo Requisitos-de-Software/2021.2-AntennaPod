@@ -215,7 +215,7 @@ A técnica de verificação usada no documento de [backlog](https://requisitos-d
 | US         | melhoria                                                                                                             |
 | ---------- | -------------------------------------------------------------------------------------------------------------------- |
 | US20, US21 | Adicionar nova feature ao épico de episódios e substitua retire essas user stories de sua respectiva feature e épico |
-| US31       | Trocar user storie e feature na que se encontra e coloque no épico de episódios                                      |           
+| US31       | Trocar a feature na qual se encontra e coloque no épico de episódios                                      |           
 
 ## Conclusão
 
@@ -230,7 +230,7 @@ A técnica de verificação usada no documento de [backlog](https://requisitos-d
 | 7            | 100%        |
 | 8            | 100%        |
 
-A partir da da analise dos casos de uso do backlog que todos os itens tiveram mais de 50% de aproveitamento sendo que de 8 itens apenas 4 possuem 100 porcento de aproveitamento, e grande parte dos erros estão na questão 5 que se trata da da coerência com a feature em que a user storie foi associada . Apesar da necessidade de alterações o documento foi bem escrito seguindo os padrões exigidos e foi considerado como satisfatório
+A partir da análise feita do backlog, foi visto que, que todos os itens tiveram mais de 50% de aproveitamento sendo que de 8 itens apenas 4 possuem 100 porcento de aproveitamento, e grande parte dos erros estão na questão 5 que se trata  da coerência com a feature em que a user storie foi associada. Apesar da necessidade de alterações, o documento foi bem escrito seguindo os padrões exigidos sendo considerado como satisfatório.
 
 
 
