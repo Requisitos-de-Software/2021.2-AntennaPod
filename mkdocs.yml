@@ -42,6 +42,7 @@ nav:
   - Análise:
     - Verificação:
       - Introdução:  analise/verificacao/verificacao-introducao.md
+      - Backlog: analise/verificacao/verificacao-backlog
       - Casos de uso: analise/verificacao/casosDeUso.md
       - Cenários: analise/verificacao/cenarios.md
       - Especificação Suplementar: analise/verificacao/especificacao-suplementar.md
