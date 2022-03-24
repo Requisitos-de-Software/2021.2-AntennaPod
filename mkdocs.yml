@@ -45,6 +45,7 @@ nav:
       - Casos de uso: analise/verificacao/casosDeUso.md
       - Cenários: analise/verificacao/cenarios.md
       - Especificação Suplementar: analise/verificacao/especificacao-suplementar.md
+      - Léxico: analise/verificacao/verificacao-Lexicos.md
       - NFR Framework: analise/verificacao/verificacao-nfr-framework.md
     - Validação:
       - Comunicação Informal: analise/validacao/validacaoComunicacaoInformal.md
