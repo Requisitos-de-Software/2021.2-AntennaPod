@@ -9,7 +9,7 @@ Apresentação Referente a Modelagem dos Requisitos do aplicativo AntennaPod.
 
 ## Video da apresentação
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lcH4PiY1mrc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="960" height="540" src="https://www.youtube.com/embed/lcH4PiY1mrc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Slide da apresentação
 
@@ -20,4 +20,4 @@ Apresentação Referente a Modelagem dos Requisitos do aplicativo AntennaPod.
     src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAE6IKqC98k&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
 </div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAE6IKqC98k&#x2F;view?utm_content=DAE6IKqC98k&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Apresentação 4</a> de Abraão Alves
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAE6IKqC98k&#x2F;view?utm_content=DAE6IKqC98k&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Apresentação 4</a>

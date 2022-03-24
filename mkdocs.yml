@@ -42,6 +42,7 @@ nav:
   - Análise:
     - Verificação:
       - Introdução:  analise/verificacao/verificacao-introducao.md
+      - Backlog: analise/verificacao/verificacao-backlog
       - Casos de uso: analise/verificacao/casosDeUso.md
       - Cenários: analise/verificacao/cenarios.md
       - Especificação Suplementar: analise/verificacao/especificacao-suplementar.md
@@ -63,6 +64,7 @@ nav:
     - Apresentação-2: apresentacoes/apresentacao2.md
     - Apresentação-3: apresentacoes/apresentacao3.md
     - Apresentação-4: apresentacoes/apresentacao4.md
+    - Apresentação-5: apresentacoes/apresentacao5.md
   
 extra_css:
   - 'css/style.css'
