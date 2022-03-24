@@ -7,7 +7,7 @@
 | 03.02.2022 | 1.0    | Criação do documento e do cronograma    | [Amanda Nobre](https://github.com/AmandaNbr) e [Abraão Alves](https://github.com/Abraao1231) | [Matheus Sousa](https://github.com/gatotabaco) |
 | 18.02.2022 | 1.1    | Criação de uma nova versão do documento | [Thais Rebouças](https://github.com/Thais-ra)                                                | [Amanda Nobre](https://github.com/AmandaNbr)   |
 | 13.03.2022 | 1.2    | Adição de novas tarefas                 | [Amanda Nobre](https://github.com/AmandaNbr)                                                 | [Yudi Yamane](https://github.com/yudi-azvd)    |
-| 18.03.2022 | 1.3    | Adição de novas tarefas                 | [Amanda Nobre](https://github.com/AmandaNbr)                                                 | -                                              |
+| 23.03.2022 | 1.3    | Adição de novas tarefas                 | [Amanda Nobre](https://github.com/AmandaNbr)                                                 | -                                              |
 
 ### 1ª entrega: de 24/01 até 06/02
 
@@ -44,16 +44,15 @@
 | [NFR Framework](https://requisitos-de-software.github.io/2021.2-AntennaPod/modelagem/nfr-framework/)                   | [Abraão Alves](https://github.com/Abraao1231) | [Yudi Yamane](https://github.com/yudi-azvd) | 09/03           | 09/03            |
 
 ### 5ª entrega: de 09/03 até 23/03
-| Tarefa                                              | Participante(s)                                  | Revisor(es)                                   | Data de Entrega | Prazo de Entrega |
-| --------------------------------------------------- | ------------------------------------------------ | --------------------------------------------- | --------------- | ---------------- |
-| Verificação - Ágil (Histórias de Usuário, Backlogs) | [Abraão Alves](https://github.com/Abraao1231)    | A decidir                                     | Não se aplica   | 21/03            |
-| Verificação - Cenários                              | [Yudi Yamane](https://github.com/yudi-azvd)      | A decidir                                     | Não se aplica   | 21/03            |
-| Verificação - Especificação Suplementar             | [Matheus Sousa](https://github.com/gatotabaco)   | A decidir                                     | Não se aplica   | 21/03            |
-| Verificação - Léxicos                               | [Matheus Calixto](https://github.com/matheuscvp) | A decidir                                     | Não se aplica   | 21/03            |
-| Verificação - NFR Framework                         | [Amanda Nobre](https://github.com/AmandaNbr)     | [Abraão Alves](https://github.com/Abraao1231) | 15/03           | 21/03            |
-| Verificação - Use Case                              | [Thaís Rebouças](https://github.com/Thais-ra)    | A decidir                                     | Não se aplica   | 21/03            |
-| Validação - Protótipo                               | [Matheus Calixto](https://github.com/matheuscvp) | A decidir                                     | Não se aplica   | 21/03            |
-| Validação - Comprovação informal                    | [Matheus Calixto](https://github.com/matheuscvp) | A decidir                                     | Não se aplica   | 21/03            |
+| Tarefa                                  | Participante(s)                                  | Revisor(es)                                      | Data de Entrega | Prazo de Entrega |
+| --------------------------------------- | ------------------------------------------------ | ------------------------------------------------ | --------------- | ---------------- |
+| Verificação - Cenários                  | [Yudi Yamane](https://github.com/yudi-azvd)      | [Thaís Rebouças](https://github.com/Thais-ra)    | 16/03           | 23/03            |
+| Verificação - Especificação Suplementar | [Matheus Sousa](https://github.com/gatotabaco)   | [Matheus Calixto](https://github.com/matheuscvp) | 21/03           | 23/03            |
+| Verificação - Léxicos                   | [Matheus Calixto](https://github.com/matheuscvp) | [Amanda Nobre](https://github.com/AmandaNbr)     | 22/03           | 23/03            |
+| Verificação - NFR Framework             | [Amanda Nobre](https://github.com/AmandaNbr)     | [Abraão Alves](https://github.com/Abraao1231)    | 15/03           | 23/03            |
+| Verificação - Use Case                  | [Thaís Rebouças](https://github.com/Thais-ra)    | [Yudi Yamane](https://github.com/yudi-azvd)      | 22/03           | 23/03            |
+| Validação - Prototipação                | [Matheus Calixto](https://github.com/matheuscvp) | [Amanda Nobre](https://github.com/AmandaNbr)     | 23/03           | 23/03            |
+| Validação - Comunicação informal        | [Matheus Calixto](https://github.com/matheuscvp) | [Yudi Yamane](https://github.com/yudi-azvd)      | 22/03           | 23/03            |
 
 ### 6ª entrega: de 23/03 até 03/04
 
