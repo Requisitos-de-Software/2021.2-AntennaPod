@@ -7,7 +7,7 @@
 | 03.02.2022 | 1.0    | Criação do documento e do cronograma    | [Amanda Nobre](https://github.com/AmandaNbr) e [Abraão Alves](https://github.com/Abraao1231) | [Matheus Sousa](https://github.com/gatotabaco) |
 | 18.02.2022 | 1.1    | Criação de uma nova versão do documento | [Thais Rebouças](https://github.com/Thais-ra)                                                | [Amanda Nobre](https://github.com/AmandaNbr)   |
 | 13.03.2022 | 1.2    | Adição de novas tarefas                 | [Amanda Nobre](https://github.com/AmandaNbr)                                                 | [Yudi Yamane](https://github.com/yudi-azvd)    |
-| 23.03.2022 | 1.3    | Adição de novas tarefas                 | [Amanda Nobre](https://github.com/AmandaNbr)                                                 | -                                              |
+| 23.03.2022 | 1.3    | Adição de novas tarefas                 | [Amanda Nobre](https://github.com/AmandaNbr)                                                 | [Abraão Alves](https://github.com/Abraao1231)  |
 
 ### 1ª entrega: de 24/01 até 06/02
 
