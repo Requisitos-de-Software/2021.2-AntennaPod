@@ -1,9 +1,10 @@
 # Validação - Comunicação Informal
 
 ## Histórico de versões
-| Data       | Versão | Descrição            | Autor                                            | Revisor |
-| ---------- | ------ | -------------------- | ------------------------------------------------ | ------- |
-| 22.03.2022 | 1.0    | Criação do documento | [Matheus Calixto](https://github.com/matheuscvp) | [Yudi Yamane](https://github.com/yudi-azvd)        |
+| Data       | Versão | Descrição                              | Autor                                            | Revisor                                     |
+| ---------- | ------ | -------------------------------------- | ------------------------------------------------ | ------------------------------------------- |
+| 22.03.2022 | 1.0    | Criação do documento                   | [Matheus Calixto](https://github.com/matheuscvp) | [Yudi Yamane](https://github.com/yudi-azvd) |
+| 23.03.2022 | 2.0    | Adição da resposta dos desenvolvedores | [Matheus Calixto](https://github.com/matheuscvp) | [Yudi Yamane](https://github.com/yudi-azvd) |
 
 ## Introdução
 
@@ -24,13 +25,19 @@ Para realizar a Validação por Comunicação Informal o membro do grupo [Matheu
 ## Resultados
 
 ![Postagem no Fórum](../../img/Forum-AntennaPod.png)
-
 <p align = "center"> 
 Figura 1 - Postagem no Fórum <br>
 Autor: Matheus
 </p>
 
-Até o presente momento não obtivemos resposta por parte dos desenvolvedores do AntennaPod.
+Após determinado periodo de tempo um dos envolvidos com o AntennaPod respondeu a postagem no fórum com a seguinte mensagem:
+
+![Resposta do Fórum](../../img/resposta-AntennaPod.png)
+<p align = "center"> 
+Figura 2 - Resposta do Fórum
+</p>
+
+De acordo com a resposta, permitir que um usuário ouvisse a um episódio de um podcast sem se increver no mesmo ainda não está implementado no aplicativo, como descrito na página da documentação do AntennaPod, disponivel no [link](https://antennapod.org/documentation/subscriptions/listening-without-subscribing), e descutido na [issue 4710](https://github.com/AntennaPod/AntennaPod/issues/4710) no repositório do AntennaPod, e por isso atualmente o aplicativo apenas dispõe de um preview do episódio, para um não inscrito.
 
 ## Referências
 
