@@ -3,7 +3,7 @@
 ## Histórico de versões
 | Data       | Versão | Descrição            | Autor                                        | Revisor                                       |
 | ---------- | ------ | -------------------- | -------------------------------------------- | --------------------------------------------- |
-| 15.03.2022 | 1.0    | Criação do documento | [Amanda Nobre](https://github.com/AmandaNbr) |  |
+| 15.03.2022 | 1.0    | Criação do documento | [Amanda Nobre](https://github.com/AmandaNbr) | [Abraão Alves](https://github.com/Abraao1231) |
 
 ## Metodologia
 
