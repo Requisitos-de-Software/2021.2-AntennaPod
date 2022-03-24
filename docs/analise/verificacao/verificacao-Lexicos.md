@@ -33,9 +33,9 @@ A técnica de verificação usada nos artefatos de [Léxicos](/2021.2-AntennaPod
 | 1   | Os simbolos que são utilizados no contexto do projeto estão todos descritos? | ✔        |
 | 2   | Os simbolos estão corretamente separados entre verbo, objeto e estado?       | ✔        |
 | 3   | As tabelas utilizadas descrevem os simbolos corretamente?                    | ✔        |
-| 4   | As tabelas descrevem corretamente o impacto do símbolo corretamente?         | ✔        |
+| 4   | As tabelas descrevem o impacto do símbolo corretamente?                      | ✔        |
 | 5   | O versionamento do documento está correto?                                   | ✔        |
-| 6   | O documento livre de erros gramaticais?                                      | ✔        |
+| 6   | O documento está livre de erros gramaticais?                                      | ✔        |
 |     | Porcentagem de sucesso                                                       | 100%      |
 
 ## Conclusão
