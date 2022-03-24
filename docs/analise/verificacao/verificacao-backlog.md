@@ -3,7 +3,7 @@
 ## Histórico de versões
 | Data       | Versão | Descrição            | Autor                                         | Revisor |
 | ---------- | ------ | -------------------- | --------------------------------------------- | ------- |
-| 16.03.2022 | 1.0    | Criação do documento | [Abraão Alves](https://github.com/Abraao1231) |         |
+| 16.03.2022 | 1.0    | Criação do documento | [Abraão Alves](https://github.com/Abraao1231) | [Thais Rebouças](https://github.com/Thais-ra)        |
 
 ## Metodologia
 
@@ -12,7 +12,7 @@ A técnica de verificação usada no documento de [backlog](https://requisitos-d
 | Número | Questão                                           | Respostas |
 | ------ | ------------------------------------------------- | --------- |
 | 1      | Possui todas as informações necessárias?          | ✓        |
-| 2      | Há apenas informações referentes a esse artefato? | ✓        |
+| 2      | Há apenas informações referentes a esse user storie ? | ✓        |
 | 3      | Linguagem e ortografia estão corretas?            | ✓        |
 | 4      | O épico associado é coerente?                     | ✓        |
 | 5      | A feature associada é coerente?                   | ✓        |
