@@ -90,8 +90,8 @@ A técnica de verificação usada no documento de [backlog](https://requisitos-d
 | User storie | Questão 1 | Questão 2 | Questão 3 | Questão 4 | Questão 5 | Questão 6 | Questão 7 | Questão 8 |
 | ----------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
 | US19        | ✔        | ✔        | ✔        | ✔        | ✔        | ✔        | ✓        | ✔        |
-| US20        | ✔        | ✔        | ✔        | ❌        | ❌        | ❌        | ✓        | ✔        |
-| US21        | ✔        | ✔        | ✔        | ❌        | ❌        | ❌        | ✓        | ✔        |
+| US20        | ✔        | ✔        | ✔        | ✔        | ✔        | ✔        | ✓        | ✔        |
+| US21        | ✔        | ✔        | ✔        | ✔        | ✔        | ✔        | ✓        | ✔        |
 
 ### FT08: Ordenação
 
@@ -122,7 +122,7 @@ A técnica de verificação usada no documento de [backlog](https://requisitos-d
 
 | User storie | Questão 1 | Questão 2 | Questão 3 | Questão 4 | Questão 5 | Questão 6 | Questão 7 | Questão 8 |
 | ----------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
-| US31        | ✔        | ✔        | ✔        | ❌        | ❌        | ✔        | ✓        | ✔        |
+| US31        | ✔        | ✔        | ✔        | ✔        | ✔        | ✔        | ✓        | ✔        |
 | US32        | ✔        | ✔        | ✔        | ✔        | ✔        | ✔        | ✓        | ✔        |
 
 
@@ -212,10 +212,10 @@ A técnica de verificação usada no documento de [backlog](https://requisitos-d
 
 
 ## Melhorias 
-| US         | melhoria                                                                                                             |
-| ---------- | -------------------------------------------------------------------------------------------------------------------- |
-| US20, US21 | Adicionar nova feature ao épico de episódios e substitua retire essas user stories de sua respectiva feature e épico |
-| US31       | Trocar a feature na qual se encontra e coloque no épico de episódios                                      |           
+| US   | melhoria                                                               |
+| ---- | ---------------------------------------------------------------------- |
+| US01 | Melhorar o conteudo da US para satisfazer melhor o objetivo da feature |
+| US08 | Trocar o termo "fila" para "lista"                                     |
 
 ## Conclusão
 
@@ -224,13 +224,13 @@ A técnica de verificação usada no documento de [backlog](https://requisitos-d
 | 1            | 100%        |
 | 2            | 98%         |
 | 3            | 100%        |
-| 4            | 90%         |
-| 5            | 86%         |
-| 6            | 84%         |
+| 4            | 100%         |
+| 5            | 100%         |
+| 6            | 98%         |
 | 7            | 100%        |
 | 8            | 100%        |
 
-A partir da análise feita do backlog, foi visto que, que todos os itens tiveram mais de 50% de aproveitamento sendo que de 8 itens apenas 4 possuem 100 porcento de aproveitamento, e grande parte dos erros estão na questão 5 que se trata  da coerência com a feature em que a user storie foi associada. Apesar da necessidade de alterações, o documento foi bem escrito seguindo os padrões exigidos sendo considerado como satisfatório.
+A partir da análise feita do backlog, foi visto que, que todos os itens tiveram mais de 50% de aproveitamento sendo que de 8 apenas 2  itens não possuem 100 porcento de aproveitamento, o documento foi bem escrito seguindo os padrões exigidos sendo considerado como satisfatório.
 
 
 
