@@ -27,25 +27,31 @@ O objetivo da organização é contribuir para o ecossistema de podcasts com
   <div class="item">
     <a href="https://github.com/Abraao1231"><img class="image-perfil" src="img/abraao.jpeg"
         width="150" height="150" style="border-radius:50%;"></a>
+    <p>Abraão Alves</p>
   </div>
   <div class="item">
     <a href="https://github.com/AmandaNbr"><img class="image-perfil" src="img/amanda.png" width="150"
         height="150" style="border-radius:50%;"></a>
+    <p>Amanda Nobre</p>
   </div>
   <div class="item">
     <a href="https://github.com/matheuscvp"><img class="image-perfil" src="img/matheus-pin.jpeg" width="150"
         height="150" style="border-radius:50%;"></a>
+    <p>Matheus Calixto</p>
   </div>
   <div class="item">
     <a href="https://github.com/gatotabaco"><img class="image-perfil" src="img/matheus-fon.jpeg" width="150"
         height="150" style="border-radius:50%;"></a>
+    <p>Matheus Fonseca</p>
   </div>
   <div class="item">
     <a href="https://github.com/Thais-ra"><img class="image-perfil" src="img/thais.jpeg" width="150"
         height="150" style="border-radius:50%;"></a>
+    <p>Thais Rebouças</p>
   </div>
   <div class="item">
     <a href="https://github.com/yudi-azvd"><img class="image-perfil" src="img/yudi.png" width="150"
         height="150" style="border-radius:50%;"></a>
+    <p>Yudi Yamane</p>
   </div>
 </div>
