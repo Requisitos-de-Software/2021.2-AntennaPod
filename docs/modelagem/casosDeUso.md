@@ -5,6 +5,7 @@
 | ---------- | ------ | ---------------------------------------- | ------------------------------------------- | --------------------------------------------- |
 | 24.02.2022 | 1.0    | Criação do documento                     | [Yudi Yamane](https://github.com/yudi-azvd) | [Thaís Rebouças](https://github.com/Thais-ra) |
 | 06.03.2022 | 2.0    | Movidos casos de uso para a mesma página | [Yudi Yamane](https://github.com/yudi-azvd) | [Amanda Nobre](https://github.com/AmandaNbr)  |
+| 18.03.2022 | 3.0    | Movidos casos de uso para a mesma página | [Yudi Yamane](https://github.com/yudi-azvd) | [Thais Rebouças](https://github.com/Thais-ra)  |
 
 ## Introdução
 
@@ -29,19 +30,21 @@ login.
 
 - **Inclusão**: relacionamento entre casos de uso (UC) de maneira que se o UC A inclui
 o UC B, então toda vez que UC A for executado, UC B também será executado. Exemplo:
-fazer login <<inclui\>\> verificar senha.
+Fazer login <<inclui\>\> Verificar senha. Em um diagrama, uma flecha pontilhada 
+sai do UC Fazer login e chega no UC Verficar senha.
 
-- **Extensão**: relacionamento entre casos de uso de maneira que o caso de uso acontece,
-mas o caso de uso estendido nem sempre acontece, ou seja, acontece somente mediante
-a alguns critérios particulares. Exemplo: Fazer login <<estende\>\> Mostrar tela 
-de erro de login.
+- **Extensão**: relacionamento entre casos de uso de maneira que o UC A acontece,
+mas o UC B que estende A nem sempre acontece, ou seja, acontece somente mediante
+a alguns critérios particulares. Exemplo: Mostrar tela de erro de login <<estende\>\>
+Fazer login. Em um diagrama, uma flecha pontilhada sai do UC Mostrar tela de erro
+de login e chega em Fazer login.
 
 ### Atores
 
 Em casos de uso temos dois tipos de atores:
 
 - **Atores principais**: atores que iniciam (trigger) o caso de uso. É quem realmente 
-obtém valor do sucesso do caso de uso
+obtém valor do sucesso do caso de uso.
 
 - **Atores secundários**: atores que respondem ao trigger do caso de uso. Participam
 do caso de uso por trás das cortinas.
