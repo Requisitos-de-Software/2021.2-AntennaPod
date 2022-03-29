@@ -51,6 +51,8 @@ nav:
     - Validação:
       - Comunicação Informal: analise/validacao/validacaoComunicacaoInformal.md
       - Prototipação: analise/validacao/validacaoPrototipacao.md
+  - Pós-rastreabilidade:
+    - Backward-from: posRastreabilidade/backward-from.md
   - Atas de reuniões:
     - Fevereiro:
       - Dia 02: reunioes/02-02.md
