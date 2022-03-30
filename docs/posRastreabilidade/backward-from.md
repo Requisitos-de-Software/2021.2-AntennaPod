@@ -1,17 +1,20 @@
 # Backward-from
 
 ## Histórico de versões
-| Data       | Versão | Descrição            | Autor                                                                                                                                        | Revisor                                       |
-| ---------- | ------ | -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
-| 29.04.2022 | 1.0    | Criação do documento | [Yudi Yamane](https://github.com/yudi-azvd), [Abraão Alves](https://github.com/Abraao1231), [Matheus Calixto](https://github.com/matheuscvp) | [Thaís Rebouças](https://github.com/Thais-ra) |
+| Data       | Versão | Descrição            | Autor                                                                                                                                        | Revisor |
+| ---------- | ------ | -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
+| 29.04.2022 | 1.0    | Criação do documento | [Yudi Yamane](https://github.com/yudi-azvd), [Abraão Alves](https://github.com/Abraao1231), [Matheus Calixto](https://github.com/matheuscvp) |         |
 
 ## Introdução
 
-...
+Na pós rastreabilidade na modalidade backward-from, os requisitos são
+rastreados até a sua origem.
 
 ## Metodologia
 
-...
+Os participantes revisaram os documentos de backlog do site de documentação.
+As relações entre requisitos, épicos, features, e user stories são 
+apresentados na tabela na seção de resultados.
 
 ## Participantes
 
@@ -23,24 +26,6 @@
 
 ...
 
-*Para imagens é necessário seguir a formatação:
-
-(IMAGEM) <br>
-Figura n - Título da imagem <br>
-Autor ou Fonte
-
-Exemplo:
-
-![Heatmap](img/heatmap.jpeg)
-<p align = "center"> 
-Figura 1 - Heatmap da Equipe <br>
-Autora: Amanda 
-</p>
-
-### Subtópico
-
-Texto do subtópico.
-
 ## Referências
 
-As referências devem estar em formato ABNT.
+WIEGERS, Karl; BEATTY, Joy. Software Requirements. 3. ed. [S. l.: s. n.], 2013.
