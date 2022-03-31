@@ -22,7 +22,7 @@ nav:
     - Metodologia: planejamento/metodologia.md
     - Heatmap: planejamento/heatmap.md
     - Cronograma: planejamento/cronograma.md
-  - Pré-Rastreamento: 
+  - Pré-Rastreabilidade: 
     - Rich Picture: pre-rastreamento/richPicture.md
   - Elicitação:
     - Personas: elicitacao/personas.md
@@ -51,6 +51,8 @@ nav:
     - Validação:
       - Comunicação Informal: analise/validacao/validacaoComunicacaoInformal.md
       - Prototipação: analise/validacao/validacaoPrototipacao.md
+  - Pré-Rastreabilidade: 
+    - Forward From: posRastreabilidade/backward-from.md
   - Atas de reuniões:
     - Fevereiro:
       - Dia 02: reunioes/02-02.md
