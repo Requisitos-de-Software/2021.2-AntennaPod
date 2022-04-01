@@ -11,7 +11,8 @@
 
 ## Metodologia
 
-(Amanda)
+Os participantes se reuniram e a partir de uma tabela contendo todos os requisitos funcionais e não funcionais foi feita uma recapitulação
+das relações entre os requisitos e os artefatos de modelagem, com o objetivo de rastreamento. Os resultados são notáveis nas tabelas a seguir.
 
 ## Participantes
 
@@ -85,4 +86,6 @@
 
 ## Referências
 
-As referências devem estar em formato ABNT.
+SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 24. 2019.
+
+REQUISITOS DE SOFTWARE, DisneyPlus 2021.1. Forward-From. Disponível em: <https://requisitos-de-software.github.io/2021.1-DisneyPlus/pos_rastreabilidade/forward_from/>
