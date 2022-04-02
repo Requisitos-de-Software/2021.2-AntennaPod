@@ -1,13 +1,16 @@
 # Forward From
 
 ## Histórico de versões
-| Data       | Versão | Descrição            | Autor                                                                                                                                       | Revisor |
-| ---------- | ------ | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
+| Data       | Versão | Descrição            | Autor                                                                                                                                        | Revisor |
+| ---------- | ------ | -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
 | 31.03.2022 | 1.0    | Criação do documento | [Amanda Nobre](https://github.com/AmandaNbr), [Matheus Sousa](https://github.com/gatotabaco) e [Thaís Rebouças](https://github.com/Thais-ra) | -       |
+| 02.04.2022 | 1.1    | Adição da introdução | [Thaís Rebouças](https://github.com/Thais-ra) | - |
+
 
 ## Introdução
 
-(Thais)
+A rastreabilidade auxilia na compreensão dos relacionamentos existentes entre requisitos de software ou entre artefatos de requisitos, arquitetura e implementação. Esses relacionamentos permitem aos projetistas mostrar que o projeto atende aos requisitos.
+Nesse artefato foi documentado a rastreabilidade forward-from, que liga requisitos a artefatos de desenho e implementação.
 
 ## Metodologia
 
@@ -86,6 +89,8 @@ das relações entre os requisitos e os artefatos de modelagem, com o objetivo d
 
 ## Referências
 
+LSAYÃO, Miriam; DO PRADO LEITE, Julio Cesar Sampaio. Rastreabilidade de requisitos. RITA, v. 13, n. 1, p. 06-07, 2006. Disponível em: http://www-di.inf.puc-rio.br/~julio/rastreabilidade5.pdf. Acesso em: 04 de abril de 2022.
+
 SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 24. 2019.
 
-REQUISITOS DE SOFTWARE, DisneyPlus 2021.1. Forward-From. Disponível em: <https://requisitos-de-software.github.io/2021.1-DisneyPlus/pos_rastreabilidade/forward_from/>
+REQUISITOS DE SOFTWARE, DisneyPlus 2021.1. Forward-From. Disponível em: https://requisitos-de-software.github.io/2021.1-DisneyPlus/pos_rastreabilidade/forward_from. Acesso em: 31 de março de 2022.
