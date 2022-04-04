@@ -1,10 +1,10 @@
 # Forward From
 
 ## Histórico de versões
-| Data       | Versão | Descrição            | Autor                                                                                                                                        | Revisor |
-| ---------- | ------ | -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
-| 31.03.2022 | 1.0    | Criação do documento | [Amanda Nobre](https://github.com/AmandaNbr), [Matheus Sousa](https://github.com/gatotabaco) e [Thaís Rebouças](https://github.com/Thais-ra) | -       |
-| 02.04.2022 | 1.1    | Adição da introdução | [Thaís Rebouças](https://github.com/Thais-ra) | - |
+| Data       | Versão | Descrição            | Autor                                                                                                                                        | Revisor                                       |
+| ---------- | ------ | -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
+| 31.03.2022 | 1.0    | Criação do documento | [Amanda Nobre](https://github.com/AmandaNbr), [Matheus Sousa](https://github.com/gatotabaco) e [Thaís Rebouças](https://github.com/Thais-ra) | [Abraão Alves](https://github.com/Abraao1231) |
+| 02.04.2022 | 1.1    | Adição da introdução | [Thaís Rebouças](https://github.com/Thais-ra)                                                                                                | [Abraão Alves](https://github.com/Abraao1231) |
 
 
 ## Introdução
