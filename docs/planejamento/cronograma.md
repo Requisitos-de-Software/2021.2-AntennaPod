@@ -8,6 +8,7 @@
 | 18.02.2022 | 1.1    | Criação de uma nova versão do documento | [Thais Rebouças](https://github.com/Thais-ra)                                                | [Amanda Nobre](https://github.com/AmandaNbr)   |
 | 13.03.2022 | 1.2    | Adição de novas tarefas                 | [Amanda Nobre](https://github.com/AmandaNbr)                                                 | [Yudi Yamane](https://github.com/yudi-azvd)    |
 | 23.03.2022 | 1.3    | Adição de novas tarefas                 | [Amanda Nobre](https://github.com/AmandaNbr)                                                 | [Abraão Alves](https://github.com/Abraao1231)  |
+| 02.04.2022 | 1.4    | Adição de novas tarefas                 | [Amanda Nobre](https://github.com/AmandaNbr)                                                 | [Abraão Alves](https://github.com/Abraao1231)  |
 
 ### 1ª entrega: de 24/01 até 06/02
 
@@ -59,9 +60,10 @@
 
 ### 6ª entrega: de 23/03 até 03/04
 
-| Tarefa                           | Participante(s) | Revisor(es) | Data de Entrega | Prazo de Entrega |
-| -------------------------------- | --------------- | ----------- | --------------- | ---------------- |
-| Pós-Rastreabilidade: Gerência II | A decidir       | A decidir   | Não se aplica   | 01/04            |
+| Tarefa                                                                                                                             | Participante(s)                                                                                                                               | Revisor(es)                                   | Data de Entrega | Prazo de Entrega |
+| ---------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- | --------------- | ---------------- |
+| [Pós-Rastreabilidade: Backward From](https://requisitos-de-software.github.io/2021.2-AntennaPod/posRastreabilidade/backward-from/) | [Abraão Alves](https://github.com/Abraao1231), [Matheus Calixto](https://github.com/matheuscvp) e [Yudi Yamane](https://github.com/yudi-azvd) | [Amanda Nobre](https://github.com/AmandaNbr)  | 29/03           | 03/04            |
+| [Pós-Rastreabilidade: Forward From](https://requisitos-de-software.github.io/2021.2-AntennaPod/posRastreabilidade/forward-from/)   | [Amanda Nobre](https://github.com/AmandaNbr), [Matheus Sousa](https://github.com/gatotabaco) e [Thaís Rebouças](https://github.com/Thais-ra)  | [Abraão Alves](https://github.com/Abraao1231) | 02/04           | 03/04            |
 
 ### 7ª entrega: de 03/04 até 25/04
 
