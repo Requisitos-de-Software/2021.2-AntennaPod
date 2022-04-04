@@ -1,9 +1,9 @@
 # Backward-from
 
 ## Histórico de versões
-| Data       | Versão | Descrição            | Autor                                                                                                                                        | Revisor |
-| ---------- | ------ | -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
-| 29.04.2022 | 1.0    | Criação do documento | [Yudi Yamane](https://github.com/yudi-azvd), [Abraão Alves](https://github.com/Abraao1231), [Matheus Calixto](https://github.com/matheuscvp) |         |
+| Data       | Versão | Descrição            | Autor                                                                                                                                        | Revisor                                      |
+| ---------- | ------ | -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
+| 29.04.2022 | 1.0    | Criação do documento | [Yudi Yamane](https://github.com/yudi-azvd), [Abraão Alves](https://github.com/Abraao1231), [Matheus Calixto](https://github.com/matheuscvp) | [Amanda Nobre](https://github.com/AmandaNbr) |
 
 ## Introdução
 
@@ -94,8 +94,6 @@ Páginas das personas:
 | RNF02 | O aplicativo deve ser intuitivo                                                              | BSF34                 |               -              |
 | RNF03 | O aplicativo deverá rodar em qualquer plataforma mobile                                      | BSF35                 |         Luana Moreira        |
 
-
-Os requisitos que tem o valor de R$ 0,00, foram capturados na elicitação mas não entraram na modelagem do projeto por serem semelhantes a outros. 
 
 ## Referências
 
