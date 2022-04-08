@@ -17,7 +17,7 @@ de checklists contento o que se espera do documento para poder mapear possíveis
 ## Metodologia
 
 A partir de uma reunião com todos os integrantes, na plataforma Discord, cada integrante ficou responsável por uma verificação, fazendo um rodizio que consiste 
-em quem participou da criação do artefato terá que verificar outro, com a finalidade de espalhar o conhecimento dentro da equipe. 
+em quem participou da criação do artefato terá que verificar outro, com a finalidade de espalhar o conhecimento dentro da equipe. Abaixo está a tabela dos integrantes responsaveis pelos seus respectivos artefatos.
 
 <center>
 
