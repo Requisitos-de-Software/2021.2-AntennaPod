@@ -32,30 +32,33 @@ a qualidade do documento e possíveis falhas/erros.
 
 ## Checklist
 
-### Diagrama de Usabilidade
-
-| Símbolo | Descrição |
-| ------- | --------- |
-| ✔      | Sim       |
-| ❌      | Não       |
-
-| ID  | Descrição                                                         | Resultado |
-| --- | ----------------------------------------------------------------- | --------- |
-| 1   | O conceito de Cenário é apresentado?                              | ✔        |
-| 2   | O título é auto-explicativo?                                      | ✔        |
-| 3   | O contexto apresenta pré-condição?                                | ✔        |
-| 4   | O contexto apresenta local?                                       | ✔        |
-| 5   | O contexto apresenta tempo?                                       | ❌        |
-| 6   | Os atores estão presentes?                                        | ✔        |
-| 7   | Existem recursos?                                                 | ✔        |
-| 8   | Os episódios estão presentes?                                     | ✔        |
-| 9   | Os episódios estão claros?                                        | ✔        |
-| 10  | Existem restrições?                                               | ✔        |
-| 11  | Restrições não repetem informações da pré-condição e/ou recursos? | ✔        |
-| 12  | Existem exceções?                                                 | ✔        |
+|     | Critério                                                          | C01   | C02   | C03   | C04   | C05   | C06   | C07   | C08   | C09   | C10   |
+| --- | ----------------------------------------------------------------- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
+| 1   | O conceito de cenário é apresentado?                              | Sim   | Sim   | Sim   | Sim   | Sim   | Sim   | Sim   | Sim   | Sim   | Sim   |
+| 2   | O título é auto-explicativo?                                      | Sim   | Sim   | Sim   | Sim   | Sim   | Sim   | Sim   | Sim   | Sim   | Sim   |
+| 3   | O contexto apresenta pré-condição?                                | Sim   | Sim   | Sim   | Sim   | Sim   | Sim   | Sim   | Sim   | Sim   | Sim   |
+| 4   | O contexto apresenta local?                                       | Sim   | Sim   | Sim   | Sim   | Sim   | Sim   | Sim   | Sim   | Sim   | Sim   |
+| 5   | O contexto apresenta tempo?                                       | Não   | Não   | Não   | Não   | Não   | Não   | Não   | Não   | Não   | Não   |
+| 6   | Os atores estão presentes?                                        | Sim   | Sim   | Sim   | Sim   | Sim   | Sim   | Sim   | Sim   | Sim   | Sim   |
+| 7   | Existem recursos?                                                 | Sim   | Sim   | Sim   | Sim   | Sim   | Sim   | Sim   | Sim   | Sim   | Sim   |
+| 8   | Os episódios estão presentes?                                     | Sim   | Sim   | Sim   | Sim   | Sim   | Sim   | Sim   | Sim   | Sim   | Sim   |
+| 9   | Os episódios estão claros?                                        | Sim   | Sim   | Sim   | Sim   | Sim   | Sim   | Sim   | Sim   | Sim   | Sim   |
+| 10  | Existem restrições?                                               | Sim   | Sim   | Sim   | Sim   | Sim   | Sim   | Sim   | Sim   | Sim   | Sim   |
+| 11  | Restrições não repetem informações da pré-condição e/ou recursos? | Sim   | Sim   | Sim   | Sim   | Sim   | Sim   | Sim   | Sim   | Sim   | Sim   |
+| 12  | Existem exceções?                                                 | Sim   | Sim   | Sim   | Sim   | Sim   | Sim   | Sim   | Sim   | Sim   | Sim   |
+| 13  | Apresenta objetivo?                                               | Não   | Não   | Não   | Não   | Não   | Não   | Não   | Não   | Não   | Não   |
+|     | Aproveitamento                                                    | 84,62 | 84,62 | 84,62 | 84,62 | 84,62 | 84,62 | 84,62 | 84,62 | 84,62 | 84,62 |
+|     | Aproveitamento médio                                              | 84,62 |       |       |       |       |       |       |       |       |       |
 
 ## Conclusão
 
+![Heatmap](../../img/verificacao/verificacao-cenarios.png)
+<p align = "center"> 
+Figura 1 - Aproveitamento de cenários <br>
+Autor: Yudi
+</p>
+
 Apesar do conceito de cenários ter sido apresentado, ele poderia ser melhor 
 descrito com a breve definição de cada componente de um cenário. Além disso, os
-cenários não apresentam a questão do tempo em seus contextos.
+cenários não apresentam a questão do tempo em seus contextos nem o objetivo.
+Isso resulta em um aproveitamento médio de aproximadamente 86%.
