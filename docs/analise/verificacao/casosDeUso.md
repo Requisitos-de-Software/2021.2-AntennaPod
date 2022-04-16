@@ -6,6 +6,8 @@
 | 15.03.2022 | 1.0    | Criação do documento | [Thaís Rebouças](https://github.com/Thais-ra) | [Yudi Yamane](https://github.com/yudi-azvd) |
 | 21.03.2022 | 1.1    | Criação da checklis  | [Thaís Rebouças](https://github.com/Thais-ra) | [Yudi Yamane](https://github.com/yudi-azvd) |
 | 22.03.2022 | 1.2    | Análise dos UC       | [Thaís Rebouças](https://github.com/Thais-ra) | [Yudi Yamane](https://github.com/yudi-azvd) |
+| 16.04.2022 | 2.0    | Adição de novas opções no checklist                     | [Thaís Rebouças](https://github.com/Thais-ra) | [Yudi Yamane](https://github.com/yudi-azvd) |
+
 
 ## Participantes
 
@@ -17,75 +19,53 @@ A técnica de verificação usada nos artefatos de [Casos de Usos](https://requi
 
 | ID  | Descrição                                                                              |
 | --- | -------------------------------------------------------------------------------------- |
-| 01  | O caso de uso segue a formatação padrão no modelo proposto?                            |
-| 02  | O caso de uso possui a data nas suas versões?                                          |
-| 03  | O caso de uso possui alguma rastreabilidade?                                           |
-| 04  | A descrição de caso de uso está consistente com a representação no diagrama?           |
-| 05  | O modelo de casos de uso apresenta o comportamento do sistema de modo claro?           |
-| 06  | As setas indicam o fluxo corretamente?                                                 |
-| 07  | O caso de uso possui fluxo normal?                                                     |
-| 08  | O caso de uso possui fluxo(s) alternativos?                                            |
-| 09  | O caso de uso possui fluxo(s) de exceção?                                              |
-| 10  | As frases utilizam o infinitivo?                                                       |
-| 11  | A ortografia está correta?                                                             |
-| 12  | As frases procuram ser objetivas, evitando redundâncias ou informações desnecessárias? |
-| 13  | As frases representam um diálogo entre ator e sistema, evideciando a ação do ator?     |
-| 14  | Todos os relacionamentos entre os casos de uso são necessários?                        |
+| 01  | O caso de uso possui a data nas suas versões?                                          |
+| 02  | O caso de uso possui alguma rastreabilidade?                                           |
+| 03  | A descrição de caso de uso está consistente com a representação no diagrama?           |
+| 04  | As setas indicam o fluxo corretamente?                                                 |
+| 05  | O caso de uso possui fluxo normal?                                                     |
+| 06  | O caso de uso possui fluxo(s) alternativos?                                            |
+| 07  | O caso de uso possui fluxo(s) de exceção?                                              |
+| 08  | As frases utilizam o infinitivo?                                                       |
+| 09  | As frases procuram ser objetivas, evitando redundâncias ou informações desnecessárias? |
+| 10  | As frases representam um diálogo entre ator e sistema, evideciando a ação do ator?     |
+| 11  | Todos os relacionamentos entre os casos de uso são necessários?                        |
+| 12  | Existe caixa limite do sistema definindo o escopo?                                     |
+| 13  | O diagrama apresenta nome do sistema e está localizado no topo e dentro do sistema?    |
+| 14  | O caso de uso está localizado dentro do sistema?                                       |
+| 15  | O caso de uso possui legenda?                                                          |
+| 16  | Possui ator primário?                                                                  |
+| 17  | O ator primário se localiza a esquerda da caixa do sistema?                            |
+| 18  | Possui ator secundário?                                                                |
+| 19  | O ator secundário se localiza a direita da caixa do sistema?                           |
+| 20  | Os atores são genéricos?                                                               |
+| 20  | Os atores estão fora da caixa do sistema?                                              |
+| 21  | Possui relacionamento de associação?                                                   |
+| 22  | Possui relacionamento de inclusão?                                                     |
+| 23  | Possui relacionamento de extensão?                                                     |
+| 24  | As setas estão sendo usadas corretamente?                                              |
+| 25  | Os relacionamentos estão sendo usados corretamente?                                    |
+| 26  | O documento explica o que são casos de usos?                                           |
+| 27  | O documento explica os relacionamentos e como usar?                                    |
+| 28  | A definição de atores primários e secundários estão definidos no documento?            |
 
 
 ## Checklist
 
-| Símbolo | Descrição |
-| ------- | --------- |
-| ✔️    | Sim       |
-| ❌      | Não       |
 
-
-| UC   | 01   | 02   | 03   | 04   | 05   | 06   | 07   | 08   | 09   | 10   | 11   | 12   | 13   | 14   |
-| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| UC01 | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ❌   | ✔️ | ✔️ | ❌   | ✔️ | ✔️ | ✔️ |
-| UC02 | ✔️ | ✔️ | ✔️ | ❌   | ✔️ | ✔️ | ✔️ | ❌   | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
-| UC03 | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ❌   | ❌   | ✔️ | ❌   | ✔️ | ✔️ | ✔️ |
-| UC04 | ✔️ | ✔️ | ✔️ | ✔️ | ❌   | ✔️ | ✔️ | ✔️ | ❌   | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
-
-
-## Melhorias
-
-| UC   | Melhoria                                                                                                                                                                          |
-| ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| UC01 | A frase "Aplicativo pergunta se Usuário que o download comece" não possui sentido, podendo ser substituída por "Aplicativo pergunta ao Usuário se ele quer que o download comece" |
-| UC02 | "Mostrar erro de podcast não encontrado" não é especificado na tabela                                                                                                             |
-| UC03 | Em "fluxo normal" na tabela "podcasts" foi escrito como "podcastas"                                                                                                               |
-| UC04 | Não fica muito claro o papel de "enviar notificações" no diagrama                                                                                                                 |
+| UC        | 01            | 02            | 03            | 04            | 05            | 06            | 07            | 08            | 09            | 10            | 11            | 12            | 13            | 14            | 15            | 16            | 17            | 18            | 19            | 20            | 21            | 22            | 23            | 24            | 25            | 26            | 27            | 28            | Aproveitamento |
+| --------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | -------------- |
+| UC01      | Sim           | Sim           | Sim           | Sim           | Sim           | Não           | Sim           | Sim           | Sim           | Sim           | Sim           | Sim           | Não           | Sim           | Sim           | Sim           | Sim           | Não           | Não           | Sim           | Sim           | Sim           | Sim           | Sim           | Sim           | Não se apĺica | Não se aplica | Não se aplica | 84,0           |
+| UC02      | Sim           | Sim           | Não           | Sim           | Sim           | Não           | Sim           | Sim           | Sim           | Sim           | Sim           | Sim           | Não           | Sim           | Sim           | Sim           | Sim           | Não           | Não           | Sim           | Sim           | Sim           | Sim           | Sim           | Sim           | Não se apĺica | Não se aplica | Não se aplica | 80,0           |
+| UC03      | Sim           | Sim           | Sim           | Sim           | Sim           | Não           | Não           | Sim           | Sim           | Sim           | Sim           | Sim           | Não           | Sim           | Sim           | Sim           | Sim           | Não           | Não           | Sim           | Sim           | Não           | Sim           | Sim           | Sim           | Não se apĺica | Não se aplica | Não se aplica | 76,0           |
+| UC04      | Sim           | Sim           | Sim           | Sim           | Sim           | Sim           | Não           | Sim           | Sim           | Sim           | Sim           | Sim           | Não           | Sim           | Sim           | Sim           | Sim           | Não           | Não           | Sim           | Sim           | Sim           | Não           | Sim           | Sim           | Não se apĺica | Não se aplica | Não se aplica | 80,0           |
+| Documento | Não se aplica | Não se aplica | Não se aplica | Não se aplica | Não se aplica | Não se aplica | Não se aplica | Não se aplica | Não se aplica | Não se aplica | Não se aplica | Não se aplica | Não se aplica | Não se aplica | Não se aplica | Não se aplica | Não se aplica | Não se aplica | Não se aplica | Não se aplica | Não se aplica | Não se aplica | Não se aplica | Não se aplica | Não se aplica | Sim           | Sim           | Sim           | 100,0          |
 
 
 ## Conclusão
 
-| ID Checklist | Porcentagem |
-| ------------ | ----------- |
-| 01           | 100%        |
-| 02           | 100%        |
-| 03           | 100%        |
-| 04           | 75%         |
-| 05           | 75%         |
-| 06           | 100%        |
-| 07           | 100%        |
-| 08           | 25%         |
-| 09           | 50%         |
-| 10           | 100%        |
-| 11           | 50%         |
-| 12           | 100%        |
-| 13           | 100%        |
-| 14           | 100%        |
+![Checklist](https://user-images.githubusercontent.com/35047444/163692952-7b350965-ef17-4701-bdca-eeb60a26e03b.png)
 
-
-A partir da análise de todos os casos de uso, pode ser observado que: 
-
-- De 14 itens, apenas 5 não possuíram 100% de aproveitamento;
-- Os erros se concentraram no item 08 que se trata da falta de um fluxo alternativo;
-- O item 09 também se destaca pela falta de fluxos de exceção;
-- Os diagramas 1 e 3 possuem pequenos erros ortográficos;
-- É necessário dar atenção aos diagramas 2 e 4, pois aqui os erros foram mais graves se tratando de consistência e clareza;
 
 Apesar da necessidade de refatoração, os erros cometidos foram leves, portanto o documentos de diagrama e especificação de casos de uso pode ser considerado **Satisfatório**.
 
