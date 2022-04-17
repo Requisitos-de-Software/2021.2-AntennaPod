@@ -34,17 +34,19 @@ A técnica de verificação usada no [NFR Framework](https://requisitos-de-softw
 | ✔      | Sim       |
 | ❌      | Não       |
 
-| Índice | Questão 1 | Questão 2 | Questão 3 | Questão 4 | Questão 5 | Questão 6 | Questão 7 | Questão 8 |
-| ------ | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
-| RNF01  |           |           |           |           |           |           |           |           |
-| RNF02  |           |           |           |           |           |           |           |           |
-| RNF03  |           |           |           |           |           |           |           |           |
-| RNF04  |           |           |           |           |           |           |           |           |
+| Índice               | Questão 1 | Questão 2 | Questão 3 | Questão 4 | Questão 5 | Questão 6 | Questão 7 | Questão 8 |
+| -------------------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
+| RNF01                | ❌        | ❌        | ✔        | ❌        | ✔        | ✔        | ✔        | ❌        |
+| RNF02                | ❌        | ❌        | ✔        | ❌        | ✔        | ✔        | ✔        | ❌        |
+| RNF03                | ❌        | ❌        | ✔        | ❌        | ✔        | ✔        | ✔        | ❌        |
+| RNF04                | ❌        | ❌        | ✔        | ❌        | ✔        | ✔        | ✔        | ❌        |
+| Aproveitamento       | 0%        | 0%        | 100%      | 0%        | 100%      | 100%      | 100%      | 0%        |
+| Aproveitamento médio | 50%       |           |           |           |           |           |           |           |
 
 ## Conclusão
 
-Dessa forma, nota-se que o diagrama está bom e atende à maioria dos critérios de avaliação, porém pode haver uma melhora quanto a correspondência dos 
-requisitos previamente levantados com o modelo NFR Framework, e também explicitar os softgoals de operacionalização como propostas de soluções.
+Dessa forma, nota-se que há apenas um diagrama para cobrir a quantidade de 3 requisitos não funcionais, porém o ideal seria que cada um tivesse um diagrama. 
+Além disso os requisitos estão distoando dos id's e descrições prévias. Assim, será necessário uma refatoração total do NFR, criando um diagrama para cada NFR, que originalmente são 3.
 
 ## Referências
 
