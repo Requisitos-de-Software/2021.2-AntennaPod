@@ -1,9 +1,12 @@
 # Verificação - cenário
 
 ## Histórico de versões
-| Data       | Versão | Descrição            | Autor                                       | Revisor                                          |
-| ---------- | ------ | -------------------- | ------------------------------------------- | ------------------------------------------------ |
-| 16.03.2022 | 1.0    | Criação do documento | [Yudi Yamane](https://github.com/yudi-azvd) | [Matheus Fonseca](https://github.com/gatotabaco) |
+| Data       | Versão | Descrição             | Autor                                       | Revisor                                          |
+| ---------- | ------ | --------------------- | ------------------------------------------- | ------------------------------------------------ |
+| 16.03.2022 | 1.0    | Criação do documento  | [Yudi Yamane](https://github.com/yudi-azvd) | [Matheus Fonseca](https://github.com/gatotabaco) |
+| 19.04.2022 | 2.0    | Melhoria do documento | [Yudi Yamane](https://github.com/yudi-azvd) | [Matheus Fonseca](https://github.com/gatotabaco) |
+
+[Cenários v1](./cenariosv1.md)
 
 ## Participantes
 
@@ -11,7 +14,7 @@
 
 ## Metodologia
 
-A técnica de verificação usada nos artefatos de [Cenários](/2021.2-AntennaPod/modelagem/cenarios/) 
+A técnica de verificação usada nos artefatos de [cenários](/2021.2-AntennaPod/modelagem/cenarios/) 
 é a inspeção, aplicada a partir do seguinte checklist, que tem como objetivo validar
 a qualidade do documento e possíveis falhas/erros. 
 
