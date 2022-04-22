@@ -12,11 +12,11 @@ A técnica de verificação usada no documento de [backlog](https://requisitos-d
 | Número | Questão                                           | Respostas |
 | ------ | ------------------------------------------------- | --------- |
 | 1      | Possui todas as informações necessárias?          | ✓        |
-| 2      | Há apenas informações referentes a esse user storie ? | ✓        |
+| 2      | Há apenas informações referentes a esse user story ? | ✓        |
 | 3      | Linguagem e ortografia estão corretas?            | ✓        |
 | 4      | O épico associado é coerente?                     | ✓        |
 | 5      | A feature associada é coerente?                   | ✓        |
-| 6      | A user storie é coerente ?                        | ✓        |
+| 6      | A user story é coerente ?                        | ✓        |
 | 7      | Possui ator coerente?                             | ✓        |
 | 8      | A user story possui alguma rastreabilidade?       | ✓        |
 
@@ -35,7 +35,7 @@ A técnica de verificação usada no documento de [backlog](https://requisitos-d
 
 ### FT01: Modo de reprodução
 
-| User storie | Questão 1 | Questão 2 | Questão 3 | Questão 4 | Questão 5 | Questão 6 | Questão 7 | Questão 8 |
+| User story | Questão 1 | Questão 2 | Questão 3 | Questão 4 | Questão 5 | Questão 6 | Questão 7 | Questão 8 |
 | ----------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
 | US01        | ✔        | ❌        | ✔        | ✔        | ✔        | ✔        | ✔        | ✔        |
 | US02        | ✔        | ✔        | ✔        | ✔        | ✔        | ✔        | ✓        | ✔        |
@@ -46,7 +46,7 @@ A técnica de verificação usada no documento de [backlog](https://requisitos-d
 
 ### FT02: Lista de reprodução
 
-| User storie | Questão 1 | Questão 2 | Questão 3 | Questão 4 | Questão 5 | Questão 6 | Questão 7 | Questão 8 |
+| User story | Questão 1 | Questão 2 | Questão 3 | Questão 4 | Questão 5 | Questão 6 | Questão 7 | Questão 8 |
 | ----------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
 | US07        | ✔        | ✔        | ✔        | ✔        | ✔        | ✔        | ✓        | ✔        |
 | US08        | ✔        | ✔        | ✔        | ✔        | ✔        | ❌        | ✓        | ✔        |
@@ -57,13 +57,13 @@ A técnica de verificação usada no documento de [backlog](https://requisitos-d
 
 ### FT03: Histórico de reprodução
 
-| User storie | Questão 1 | Questão 2 | Questão 3 | Questão 4 | Questão 5 | Questão 6 | Questão 7 | Questão 8 |
+| User story | Questão 1 | Questão 2 | Questão 3 | Questão 4 | Questão 5 | Questão 6 | Questão 7 | Questão 8 |
 | ----------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
 | US06       |✔        | ✔        | ✔        | ✔        | ✔        | ✔        | ✓        | ✔        |
 
 ### FT04: Downloads
 
-| User storie | Questão 1 | Questão 2 | Questão 3 | Questão 4 | Questão 5 | Questão 6 | Questão 7 | Questão 8 |
+| User story | Questão 1 | Questão 2 | Questão 3 | Questão 4 | Questão 5 | Questão 6 | Questão 7 | Questão 8 |
 | ----------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
 | US12        | ✔        | ✔        | ✔        | ✔        | ✔        | ✔        | ✓        | ✔        |
 | US13        | ✔        | ✔        | ✔        | ✔        | ✔        | ✔        | ✓        | ✔        |
@@ -72,13 +72,13 @@ A técnica de verificação usada no documento de [backlog](https://requisitos-d
 
 ### FT05: Visualização de downloads
 
-| User storie | Questão 1 | Questão 2 | Questão 3 | Questão 4 | Questão 5 | Questão 6 | Questão 7 | Questão 8 |
+| User story | Questão 1 | Questão 2 | Questão 3 | Questão 4 | Questão 5 | Questão 6 | Questão 7 | Questão 8 |
 | ----------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
 | US16        | ✔        | ✔        | ✔        | ✔        | ✔        | ✔        | ✓        | ✔        |
 
 ### FT06: Gerenciamento de assinaturas
 
-| User storie | Questão 1 | Questão 2 | Questão 3 | Questão 4 | Questão 5 | Questão 6 | Questão 7 | Questão 8 |
+| User story | Questão 1 | Questão 2 | Questão 3 | Questão 4 | Questão 5 | Questão 6 | Questão 7 | Questão 8 |
 | ----------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
 | US17        | ✔        | ✔        | ✔        | ✔        | ✔        | ✔        | ✓        | ✔        |
 | US18        | ✔        | ✔        | ✔        | ✔        | ✔        | ✔        | ✓        | ✔        |
@@ -87,7 +87,7 @@ A técnica de verificação usada no documento de [backlog](https://requisitos-d
 ### FT07: Visualização de assinaturas
 
 
-| User storie | Questão 1 | Questão 2 | Questão 3 | Questão 4 | Questão 5 | Questão 6 | Questão 7 | Questão 8 |
+| User story | Questão 1 | Questão 2 | Questão 3 | Questão 4 | Questão 5 | Questão 6 | Questão 7 | Questão 8 |
 | ----------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
 | US19        | ✔        | ✔        | ✔        | ✔        | ✔        | ✔        | ✓        | ✔        |
 | US20        | ✔        | ✔        | ✔        | ✔        | ✔        | ✔        | ✓        | ✔        |
@@ -95,14 +95,14 @@ A técnica de verificação usada no documento de [backlog](https://requisitos-d
 
 ### FT08: Ordenação
 
-| User storie | Questão 1 | Questão 2 | Questão 3 | Questão 4 | Questão 5 | Questão 6 | Questão 7 | Questão 8 |
+| User story | Questão 1 | Questão 2 | Questão 3 | Questão 4 | Questão 5 | Questão 6 | Questão 7 | Questão 8 |
 | ----------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
 | US22        | ✔        | ✔        | ✔        | ✔        | ✔        | ✔        | ✓        | ✔        |
 | US23        | ✔        | ✔        | ✔        | ✔        | ✔        | ✔        | ✓        | ✔        |
 | US24        | ✔        | ✔        | ✔        | ✔        | ✔        | ✔        | ✓        | ✔        |
 
 ### FT09: Por podcasts
-| User storie | Questão 1 | Questão 2 | Questão 3 | Questão 4 | Questão 5 | Questão 6 | Questão 7 | Questão 8 |
+| User story | Questão 1 | Questão 2 | Questão 3 | Questão 4 | Questão 5 | Questão 6 | Questão 7 | Questão 8 |
 | ----------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
 | US25        | ✔        | ✔        | ✔        | ✔        | ✔        | ✔        | ✓        | ✔        |
 | US26        | ✔        | ✔        | ✔        | ✔        | ✔        | ✔        | ✓        | ✔        |
@@ -112,7 +112,7 @@ A técnica de verificação usada no documento de [backlog](https://requisitos-d
 
 ### FT10: Por episódios
 
-| User storie | Questão 1 | Questão 2 | Questão 3 | Questão 4 | Questão 5 | Questão 6 | Questão 7 | Questão 8 |
+| User story | Questão 1 | Questão 2 | Questão 3 | Questão 4 | Questão 5 | Questão 6 | Questão 7 | Questão 8 |
 | ----------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
 | US29        |✔        | ✔        | ✔        | ✔        | ✔        | ✔        | ✓        | ✔        |
 | US30        |✔        | ✔        | ✔        | ✔        | ✔        | ✔        | ✓        | ✔        |
@@ -120,7 +120,7 @@ A técnica de verificação usada no documento de [backlog](https://requisitos-d
 
 ### FT11: Informações
 
-| User storie | Questão 1 | Questão 2 | Questão 3 | Questão 4 | Questão 5 | Questão 6 | Questão 7 | Questão 8 |
+| User story | Questão 1 | Questão 2 | Questão 3 | Questão 4 | Questão 5 | Questão 6 | Questão 7 | Questão 8 |
 | ----------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
 | US31        | ✔        | ✔        | ✔        | ✔        | ✔        | ✔        | ✓        | ✔        |
 | US32        | ✔        | ✔        | ✔        | ✔        | ✔        | ✔        | ✓        | ✔        |
@@ -129,14 +129,14 @@ A técnica de verificação usada no documento de [backlog](https://requisitos-d
 ### FT12: Aparencia
 
 
-| User storie | Questão 1 | Questão 2 | Questão 3 | Questão 4 | Questão 5 | Questão 6 | Questão 7 | Questão 8 |
+| User story | Questão 1 | Questão 2 | Questão 3 | Questão 4 | Questão 5 | Questão 6 | Questão 7 | Questão 8 |
 | ----------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
 | US33        | ✔        | ✔        | ✔        | ✔        | ✔        | ✔        | ✓        | ✔        |
 
 ### FT13: Recomendação
 
 
-| User storie | Questão 1 | Questão 2 | Questão 3 | Questão 4 | Questão 5 | Questão 6 | Questão 7 | Questão 8 |
+| User story | Questão 1 | Questão 2 | Questão 3 | Questão 4 | Questão 5 | Questão 6 | Questão 7 | Questão 8 |
 | ----------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
 | US34        | ✔        | ✔        | ✔        | ✔        | ✔        | ✔        | ✓        | ✔        |
 | US35        | ✔        | ✔        | ✔        | ✔        | ✔        | ✔        | ✓        | ✔        |
@@ -145,14 +145,14 @@ A técnica de verificação usada no documento de [backlog](https://requisitos-d
 ### FT14: Dados estatisticos
 
 
-| User storie | Questão 1 | Questão 2 | Questão 3 | Questão 4 | Questão 5 | Questão 6 | Questão 7 | Questão 8 |
+| User story | Questão 1 | Questão 2 | Questão 3 | Questão 4 | Questão 5 | Questão 6 | Questão 7 | Questão 8 |
 | ----------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
 | US36        | ✔        | ✔        | ✔        | ✔        | ✔        | ✔        | ✓        | ✔        |
 | US37        | ✔        | ✔        | ✔        | ✔        | ✔        | ✔        | ✓        | ✔        |
 
 ### FT15: Favoritos
 
-| User storie | Questão 1 | Questão 2 | Questão 3 | Questão 4 | Questão 5 | Questão 6 | Questão 7 | Questão 8 |
+| User story | Questão 1 | Questão 2 | Questão 3 | Questão 4 | Questão 5 | Questão 6 | Questão 7 | Questão 8 |
 | ----------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
 | US37        | ✔        | ✔        | ✔        | ✔        | ✔        | ✔        | ✓        | ✔        |
 | US38        | ✔        | ✔        | ✔        | ✔        | ✔        | ✔        | ✓        | ✔        |
@@ -161,14 +161,14 @@ A técnica de verificação usada no documento de [backlog](https://requisitos-d
 ### FT16: Renomear
 
 
-| User storie | Questão 1 | Questão 2 | Questão 3 | Questão 4 | Questão 5 | Questão 6 | Questão 7 | Questão 8 |
+| User story | Questão 1 | Questão 2 | Questão 3 | Questão 4 | Questão 5 | Questão 6 | Questão 7 | Questão 8 |
 | ----------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
 | US35        | ✔        | ✔        | ✔        | ✔        | ✔        | ✔        | ✓        | ✔        |
 
 
 ### FT17: Compartilhar
 
-| User storie | Questão 1 | Questão 2 | Questão 3 | Questão 4 | Questão 5 | Questão 6 | Questão 7 | Questão 8 |
+| User story | Questão 1 | Questão 2 | Questão 3 | Questão 4 | Questão 5 | Questão 6 | Questão 7 | Questão 8 |
 | ----------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
 | US42        | ✔        | ✔        | ✔        | ✔        | ✔        | ✔        | ✓        | ✔        |
 
@@ -176,7 +176,7 @@ A técnica de verificação usada no documento de [backlog](https://requisitos-d
 ### FT18: Navegação
 
 
-| User storie | Questão 1 | Questão 2 | Questão 3 | Questão 4 | Questão 5 | Questão 6 | Questão 7 | Questão 8 |
+| User story | Questão 1 | Questão 2 | Questão 3 | Questão 4 | Questão 5 | Questão 6 | Questão 7 | Questão 8 |
 | ----------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
 | US43        | ✔        | ✔        | ✔        | ✔        | ✔        | ✔        | ✓        | ✔        |
 | US44        | ✔        | ✔        | ✔        | ✔        | ✔        | ✔        | ✓        | ✔        |
@@ -187,7 +187,7 @@ A técnica de verificação usada no documento de [backlog](https://requisitos-d
 
 ### FT19: Notificação
 
-| User storie | Questão 1 | Questão 2 | Questão 3 | Questão 4 | Questão 5 | Questão 6 | Questão 7 | Questão 8 |
+| User story | Questão 1 | Questão 2 | Questão 3 | Questão 4 | Questão 5 | Questão 6 | Questão 7 | Questão 8 |
 | ----------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
 | US47        | ✔        | ✔        | ✔        | ✔        | ✔        | ✔        | ✓        | ✔        |
 
@@ -195,7 +195,7 @@ A técnica de verificação usada no documento de [backlog](https://requisitos-d
 
 ### FT20: Backup e Sincronização
 
-| User storie | Questão 1 | Questão 2 | Questão 3 | Questão 4 | Questão 5 | Questão 6 | Questão 7 | Questão 8 |
+| User story | Questão 1 | Questão 2 | Questão 3 | Questão 4 | Questão 5 | Questão 6 | Questão 7 | Questão 8 |
 | ----------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
 | US49        | ✔        | ✔        | ✔        | ✔        | ✔        | ✔        | ✓        | ✔        |
 | US50        | ✔        | ✔        | ✔        | ✔        | ✔        | ✔        | ✓        | ✔        |
@@ -206,7 +206,7 @@ A técnica de verificação usada no documento de [backlog](https://requisitos-d
 ### FT21: Plataforma
 
 
-| User storie | Questão 1 | Questão 2 | Questão 3 | Questão 4 | Questão 5 | Questão 6 | Questão 7 | Questão 8 |
+| User story | Questão 1 | Questão 2 | Questão 3 | Questão 4 | Questão 5 | Questão 6 | Questão 7 | Questão 8 |
 | ----------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
 | US48        | ✔        | ✔        | ✔        | ✔        | ✔        | ✔        | ✓        | ✔        |
 
