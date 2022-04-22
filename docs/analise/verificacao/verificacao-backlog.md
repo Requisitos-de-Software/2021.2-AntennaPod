@@ -219,16 +219,13 @@ A técnica de verificação usada no documento de [backlog](https://requisitos-d
 
 ## Conclusão
 
-| ID Checklist | Porcentagem |
-| ------------ | ----------- |
-| 1            | 100%        |
-| 2            | 98%         |
-| 3            | 100%        |
-| 4            | 100%         |
-| 5            | 100%         |
-| 6            | 98%         |
-| 7            | 100%        |
-| 8            | 100%        |
+
+<iframe width="650" height="403" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQFdC4Q24OmMiIzAUCkBhGsoFPw8JeL8n688nRX83wgFwsxiKwbrNgdqmqxHSN-Zn4VRqzqD6I0gPxE/pubchart?oid=89014449&amp;format=interactive"></iframe>
+
+<p align = "center"> 
+Figura 1 - Aproveitamento do backlog <br>
+Autor: Yudi
+</p>
 
 A partir da análise feita do backlog, foi visto que, que todos os itens tiveram mais de 50% de aproveitamento sendo que de 8 apenas 2  itens não possuem 100 porcento de aproveitamento, o documento foi bem escrito seguindo os padrões exigidos sendo considerado como satisfatório.
 
