@@ -224,7 +224,7 @@ A técnica de verificação usada no documento de [backlog](https://requisitos-d
 
 <p align = "center"> 
 Figura 1 - Aproveitamento do backlog <br>
-Autor: Yudi
+Autor: Abraão
 </p>
 
 A partir da análise feita do backlog, foi visto que, que todos os itens tiveram mais de 50% de aproveitamento sendo que de 8 apenas 2  itens não possuem 100 porcento de aproveitamento, o documento foi bem escrito seguindo os padrões exigidos sendo considerado como satisfatório.
