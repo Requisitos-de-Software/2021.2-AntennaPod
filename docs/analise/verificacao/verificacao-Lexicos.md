@@ -24,7 +24,6 @@ A técnica de verificação usada nos artefatos de [Léxicos](/2021.2-AntennaPod
 | 6   | Possui sinônimo correto?                          | O léxico deve possuir ao menos um sinonimo correto                                 |
 | 7   | Possui impacto correto?                           | O impacto do léxico deve estar corretamente descrito                               |
 | 8   | Possui noção correta?                             | A noção do léxico deve estar corretamente descrita                                 |
-| 9   | Linguagem e ortografia estão corretas?            | A linguagem e ortografia devem estar condizente com as normas da lingua portuguesa |
 
 ## Checklist
 | Símbolo | Descrição |
@@ -42,7 +41,6 @@ A técnica de verificação usada nos artefatos de [Léxicos](/2021.2-AntennaPod
 |  6  |             Possui sinônimo correto?              | ✔  |
 |  7  |              Possui impacto correto?              | ✔  |
 |  8  |               Possui noção correta?               | ✔  |
-|  9  |      Linguagem e ortografia estão corretas?       | ✔  |
 
 |     |          Léxico 02 - Fila de reprodução           |     |
 | :-: | :-----------------------------------------------: | :-: |
@@ -54,7 +52,6 @@ A técnica de verificação usada nos artefatos de [Léxicos](/2021.2-AntennaPod
 |  6  |             Possui sinônimo correto?              | ❌  |
 |  7  |              Possui impacto correto?              | ✔  |
 |  8  |               Possui noção correta?               | ✔  |
-|  9  |      Linguagem e ortografia estão corretas?       | ✔  |
 
 |     |                 Léxico 03 - Novo                  |     |
 | :-: | :-----------------------------------------------: | :-: |
@@ -66,7 +63,6 @@ A técnica de verificação usada nos artefatos de [Léxicos](/2021.2-AntennaPod
 |  6  |             Possui sinônimo correto?              | ✔  |
 |  7  |              Possui impacto correto?              | ✔  |
 |  8  |               Possui noção correta?               | ✔  |
-|  9  |      Linguagem e ortografia estão corretas?       | ✔  |
 
 |     |       Léxico 04 - Velocidade de reprodução        |     |
 | :-: | :-----------------------------------------------: | :-: |
@@ -78,7 +74,6 @@ A técnica de verificação usada nos artefatos de [Léxicos](/2021.2-AntennaPod
 |  6  |             Possui sinônimo correto?              | ❌  |
 |  7  |              Possui impacto correto?              | ✔  |
 |  8  |               Possui noção correta?               | ✔  |
-|  9  |      Linguagem e ortografia estão corretas?       | ✔  |
 
 |     |                 Léxico 05 - Canal                 |     |
 | :-: | :-----------------------------------------------: | :-: |
@@ -90,7 +85,6 @@ A técnica de verificação usada nos artefatos de [Léxicos](/2021.2-AntennaPod
 |  6  |             Possui sinônimo correto?              | ✔  |
 |  7  |              Possui impacto correto?              | ✔  |
 |  8  |               Possui noção correta?               | ✔  |
-|  9  |      Linguagem e ortografia estão corretas?       | ✔  |
 
 |     |               Léxico 06 - Episódio                |     |
 | :-: | :-----------------------------------------------: | :-: |
@@ -102,7 +96,6 @@ A técnica de verificação usada nos artefatos de [Léxicos](/2021.2-AntennaPod
 |  6  |             Possui sinônimo correto?              | ✔  |
 |  7  |              Possui impacto correto?              | ✔  |
 |  8  |               Possui noção correta?               | ✔  |
-|  9  |      Linguagem e ortografia estão corretas?       |     |
 
 |     |               Léxico 07 - Histórico               |     |
 | :-: | :-----------------------------------------------: | :-: |
@@ -114,7 +107,6 @@ A técnica de verificação usada nos artefatos de [Léxicos](/2021.2-AntennaPod
 |  6  |             Possui sinônimo correto?              | ❌  |
 |  7  |              Possui impacto correto?              | ✔  |
 |  8  |               Possui noção correta?               | ❌  |
-|  9  |      Linguagem e ortografia estão corretas?       | ❌  |
 
 |     |                Léxico 08 - PodCast                |     |
 | :-: | :-----------------------------------------------: | :-: |
@@ -126,7 +118,6 @@ A técnica de verificação usada nos artefatos de [Léxicos](/2021.2-AntennaPod
 |  6  |             Possui sinônimo correto?              | ❌  |
 |  7  |              Possui impacto correto?              | ✔  |
 |  8  |               Possui noção correta?               | ❌  |
-|  9  |      Linguagem e ortografia estão corretas?       | ❌  |
 
 |     |                Léxico 09 - Usuário                |     |
 | :-: | :-----------------------------------------------: | :-: |
@@ -138,7 +129,6 @@ A técnica de verificação usada nos artefatos de [Léxicos](/2021.2-AntennaPod
 |  6  |             Possui sinônimo correto?              | ✔  |
 |  7  |              Possui impacto correto?              | ✔  |
 |  8  |               Possui noção correta?               | ✔  |
-|  9  |      Linguagem e ortografia estão corretas?       | ✔  |
 
 |     |                Léxico 10 - Assinar                |     |
 | :-: | :-----------------------------------------------: | :-: |
@@ -150,7 +140,6 @@ A técnica de verificação usada nos artefatos de [Léxicos](/2021.2-AntennaPod
 |  6  |             Possui sinônimo correto?              | ✔  |
 |  7  |              Possui impacto correto?              | ✔  |
 |  8  |               Possui noção correta?               | ✔  |
-|  9  |      Linguagem e ortografia estão corretas?       | ✔  |
 
 |     |               Léxico 11 - Atualizar               |     |
 | :-: | :-----------------------------------------------: | :-: |
@@ -162,7 +151,6 @@ A técnica de verificação usada nos artefatos de [Léxicos](/2021.2-AntennaPod
 |  6  |             Possui sinônimo correto?              | ✔  |
 |  7  |              Possui impacto correto?              | ✔  |
 |  8  |               Possui noção correta?               | ✔  |
-|  9  |      Linguagem e ortografia estão corretas?       | ✔  |
 
 |     |                Léxico 12 - Baixar                 |     |
 | :-: | :-----------------------------------------------: | :-: |
@@ -174,7 +162,6 @@ A técnica de verificação usada nos artefatos de [Léxicos](/2021.2-AntennaPod
 |  6  |             Possui sinônimo correto?              | ✔  |
 |  7  |              Possui impacto correto?              | ✔  |
 |  8  |               Possui noção correta?               | ✔  |
-|  9  |      Linguagem e ortografia estão corretas?       | ✔  |
 
 |     |               Léxico 13 - Descobrir               |     |
 | :-: | :-----------------------------------------------: | :-: |
@@ -186,7 +173,6 @@ A técnica de verificação usada nos artefatos de [Léxicos](/2021.2-AntennaPod
 |  6  |             Possui sinônimo correto?              | ✔  |
 |  7  |              Possui impacto correto?              | ✔  |
 |  8  |               Possui noção correta?               | ✔  |
-|  9  |      Linguagem e ortografia estão corretas?       | ✔  |
 
 |     |               Léxico 14 - Favoritar               |     |
 | :-: | :-----------------------------------------------: | :-: |
@@ -198,7 +184,6 @@ A técnica de verificação usada nos artefatos de [Léxicos](/2021.2-AntennaPod
 |  6  |             Possui sinônimo correto?              | ✔  |
 |  7  |              Possui impacto correto?              | ✔  |
 |  8  |               Possui noção correta?               | ✔  |
-|  9  |      Linguagem e ortografia estão corretas?       | ❌  |
 
 |     |                Léxico 15 - Filtrar                |     |
 | :-: | :-----------------------------------------------: | :-: |
@@ -210,7 +195,6 @@ A técnica de verificação usada nos artefatos de [Léxicos](/2021.2-AntennaPod
 |  6  |             Possui sinônimo correto?              | ✔  |
 |  7  |              Possui impacto correto?              | ✔  |
 |  8  |               Possui noção correta?               | ✔  |
-|  9  |      Linguagem e ortografia estão corretas?       | ❌  |
 
 |     |               Léxico 16 - Pesquisar               |     |
 | :-: | :-----------------------------------------------: | :-: |
@@ -222,7 +206,6 @@ A técnica de verificação usada nos artefatos de [Léxicos](/2021.2-AntennaPod
 |  6  |             Possui sinônimo correto?              | ✔  |
 |  7  |              Possui impacto correto?              | ✔  |
 |  8  |               Possui noção correta?               | ✔  |
-|  9  |      Linguagem e ortografia estão corretas?       | ✔  |
 
 |     |              Léxico 17 - Reproduzir               |     |
 | :-: | :-----------------------------------------------: | :-: |
@@ -234,7 +217,6 @@ A técnica de verificação usada nos artefatos de [Léxicos](/2021.2-AntennaPod
 |  6  |             Possui sinônimo correto?              | ✔  |
 |  7  |              Possui impacto correto?              | ✔  |
 |  8  |               Possui noção correta?               | ✔  |
-|  9  |      Linguagem e ortografia estão corretas?       | ❌  |
 
 ![CheckList](../../img/Checklist-léxicos.png)
 <p align = "center"> 
