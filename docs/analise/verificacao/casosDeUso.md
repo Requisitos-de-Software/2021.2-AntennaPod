@@ -9,6 +9,9 @@
 | 16.04.2022 | 2.0    | Adição de novas opções no checklist                     | [Thaís Rebouças](https://github.com/Thais-ra) | [Yudi Yamane](https://github.com/yudi-azvd) |
 
 
+[Casos de Uso V1](https://requisitos-de-software.github.io/2021.2-AntennaPod/modelagem/casosDeUso/)
+
+
 ## Participantes
 
 - [Thaís Rebouças](https://github.com/Thais-ra)
@@ -55,19 +58,18 @@ A técnica de verificação usada nos artefatos de [Casos de Usos](https://requi
 
 | UC        | 01            | 02            | 03            | 04            | 05            | 06            | 07            | 08            | 09            | 10            | 11            | 12            | 13            | 14            | 15            | 16            | 17            | 18            | 19            | 20            | 21            | 22            | 23            | 24            | 25            | 26            | 27            | 28            | Aproveitamento |
 | --------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | -------------- |
-| UC01      | Sim           | Sim           | Sim           | Sim           | Sim           | Não           | Sim           | Sim           | Sim           | Sim           | Sim           | Sim           | Não           | Sim           | Sim           | Sim           | Sim           | Não           | Não           | Sim           | Sim           | Sim           | Sim           | Sim           | Sim           | Não se apĺica | Não se aplica | Não se aplica | 84,0           |
-| UC02      | Sim           | Sim           | Não           | Sim           | Sim           | Não           | Sim           | Sim           | Sim           | Sim           | Sim           | Sim           | Não           | Sim           | Sim           | Sim           | Sim           | Não           | Não           | Sim           | Sim           | Sim           | Sim           | Sim           | Sim           | Não se apĺica | Não se aplica | Não se aplica | 80,0           |
-| UC03      | Sim           | Sim           | Sim           | Sim           | Sim           | Não           | Não           | Sim           | Sim           | Sim           | Sim           | Sim           | Não           | Sim           | Sim           | Sim           | Sim           | Não           | Não           | Sim           | Sim           | Não           | Sim           | Sim           | Sim           | Não se apĺica | Não se aplica | Não se aplica | 76,0           |
-| UC04      | Sim           | Sim           | Sim           | Sim           | Sim           | Sim           | Não           | Sim           | Sim           | Sim           | Sim           | Sim           | Não           | Sim           | Sim           | Sim           | Sim           | Não           | Não           | Sim           | Sim           | Sim           | Não           | Sim           | Sim           | Não se apĺica | Não se aplica | Não se aplica | 80,0           |
-| Documento | Não se aplica | Não se aplica | Não se aplica | Não se aplica | Não se aplica | Não se aplica | Não se aplica | Não se aplica | Não se aplica | Não se aplica | Não se aplica | Não se aplica | Não se aplica | Não se aplica | Não se aplica | Não se aplica | Não se aplica | Não se aplica | Não se aplica | Não se aplica | Não se aplica | Não se aplica | Não se aplica | Não se aplica | Não se aplica | Sim           | Sim           | Sim           | 100,0          |
+| UC01      | ✔           | ✔           | ✔           | ✔           | ✔           | ❌           | ✔           | ✔           | ✔           | ✔           | ✔           | ✔           | ❌           | ✔           | ✔           | ✔           | ✔           | ❌           | ❌           | ✔           | ✔           | ✔           | ✔           | ✔           | ✔           | ❌ se apĺica | ❌ se aplica | ❌ se aplica | 84,0           |
+| UC02      | ✔           | ✔           | ❌           | ✔           | ✔           | ❌           | ✔           | ✔           | ✔           | ✔           | ✔           | ✔           | ❌           | ✔           | ✔           | ✔           | ✔           | ❌           | ❌           | ✔           | ✔           | ✔           | ✔           | ✔           | ✔           | ❌ se apĺica | ❌ se aplica | ❌ se aplica | 80,0           |
+| UC03      | ✔           | ✔           | ✔           | ✔           | ✔           | ❌           | ❌           | ✔           | ✔           | ✔           | ✔           | ✔           | ❌           | ✔           | ✔           | ✔           | ✔           | ❌           | ❌           | ✔           | ✔           | ❌           | ✔           | ✔           | ✔           | ❌ se apĺica | ❌ se aplica | ❌ se aplica | 76,0           |
+| UC04      | ✔           | ✔           | ✔           | ✔           | ✔           | ✔           | ❌           | ✔           | ✔           | ✔           | ✔           | ✔           | ❌           | ✔           | ✔           | ✔           | ✔           | ❌           | ❌           | ✔           | ✔           | ✔           | ❌           | ✔           | ✔           | ❌ se apĺica | ❌ se aplica | ❌ se aplica | 80,0           |
+| Documento | ❌ se aplica | ❌ se aplica | ❌ se aplica | ❌ se aplica | ❌ se aplica | ❌ se aplica | ❌ se aplica | ❌ se aplica | ❌ se aplica | ❌ se aplica | ❌ se aplica | ❌ se aplica | ❌ se aplica | ❌ se aplica | ❌ se aplica | ❌ se aplica | ❌ se aplica | ❌ se aplica | ❌ se aplica | ❌ se aplica | ❌ se aplica | ❌ se aplica | ❌ se aplica | ❌ se aplica | ❌ se aplica | ✔           | ✔           | ✔           | 100,0          |
 
 
 ## Conclusão
 
 ![Checklist](https://user-images.githubusercontent.com/35047444/163692952-7b350965-ef17-4701-bdca-eeb60a26e03b.png)
 
-
-Apesar da necessidade de refatoração, os erros cometidos foram leves, portanto o documentos de diagrama e especificação de casos de uso pode ser considerado **Satisfatório**.
+Existe a necessidade de refatoração, uma vez que alguns requisitos não foram cumpridos.
 
 
 ## Referências
