@@ -4,6 +4,7 @@
 | Data       | Versão | Descrição            | Autor                                        | Revisor                                       |
 | ---------- | ------ | -------------------- | -------------------------------------------- | --------------------------------------------- |
 | 15.03.2022 | 1.0    | Criação do documento | [Amanda Nobre](https://github.com/AmandaNbr) | [Abraão Alves](https://github.com/Abraao1231) |
+| 14.04.2022 | 1.1    | Melhorias pontuais   | [Amanda Nobre](https://github.com/AmandaNbr) |               -                                |
 
 ## Metodologia
 
@@ -11,17 +12,14 @@ A técnica de verificação usada no [NFR Framework](https://requisitos-de-softw
 
 | Índice | Questões                                                                       | Justificativa                                                                                                                                 |
 | ------ | ------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1      | Conceito de NFR é apresentado?                                                 | Importante para o leitor entender o conceito da metodologia usada.                                                                            |
-| 2      | Há legenda dos símbolos e tipos de contribuições?                              | Necessário para compreender as ligações entre os símbolos e seus significados.                                                                |
-| 3      | Os softgoals estão bem definidos?                                              | Os softgoals devem ser claros e autoexplicativos, o que facilita nas tomadas de decisões posteriores, para uma forma hierárquica no diagrama. |
-| 4      | Existem softgoals suficientes para representar corretamente o contexto?        | Os softgoals apresentados conseguem suprir a abrangência do projeto.                                                                          |
-| 5      | Os softgoals foram decompostos em operações?                                   | O softgoal decompõe-se, de forma concisa, para softgoal de operacionalização.                                                                 |
-| 6      | Os softgoals de operacionalização são soluções?                                | Os softgoals de operações representam soluções de implementação.                                                                              |
-| 7      | Os impactos foram propagados corretamente?                                     | A propagação de impactos deve ser representada claramente para o entendimento das partes.                                                     |
-| 8      | Os elementos do diagrama estão bem representados?                              | O diagrama deve estar claro em todo seu conjunto, com elementos concisos e autoexplicativos.                                                  |
-| 9      | A lógica do diagrama está clara?                                               | A lógica do diagrama deve se desenvolver de forma direta e com clareza.                                                                       |
-| 10     | Os elementos do diagrama condizem com os requisitos não funcionais elicitados? | O diagrama deve estar de acordo com o projeto relacionando-se com os requisitos.                                                              |
-| 11     | A documentação possui versionamento?                                           | Deve possuir controle de versionamento para identificar os autores e o progresso das atividades.                                              |
+| 1      | Os softgoals estão bem definidos?                                              | Os softgoals devem ser claros e autoexplicativos, o que facilita nas tomadas de decisões posteriores, para uma forma hierárquica no diagrama. |
+| 2      | Existem softgoals suficientes para representar corretamente o contexto?        | Os softgoals apresentados conseguem suprir a abrangência do projeto.                                                                          |
+| 3      | Os softgoals foram decompostos em operações?                                   | O softgoal decompõe-se, de forma concisa, para softgoal de operacionalização.                                                                 |
+| 4      | Os softgoals de operacionalização são soluções?                                | Os softgoals de operações representam soluções de implementação.                                                                              |
+| 5      | Os impactos foram propagados corretamente?                                     | A propagação de impactos deve ser representada claramente para o entendimento das partes.                                                     |
+| 6      | Os elementos do diagrama estão bem representados?                              | O diagrama deve estar claro em todo seu conjunto, com elementos concisos e autoexplicativos.                                                  |
+| 7      | A lógica do diagrama está clara?                                               | A lógica do diagrama deve se desenvolver de forma direta e com clareza.                                                                       |
+| 8      | Os elementos do diagrama condizem com os requisitos não funcionais elicitados? | O diagrama deve estar de acordo com o projeto relacionando-se com os requisitos.                                                              |
 
 ## Participantes
 
@@ -36,25 +34,29 @@ A técnica de verificação usada no [NFR Framework](https://requisitos-de-softw
 | ✔      | Sim       |
 | ❌      | Não       |
 
-| Índice | Questões                                                                       | Resultado |
-| ------ | ------------------------------------------------------------------------------ | --------- |
-| 1      | Conceito de NFR é apresentado?                                                 | ✔        |
-| 2      | Há legenda dos símbolos e tipos de contribuições?                              | ✔        |
-| 3      | Os softgoals estão bem definidos?                                              | ✔        |
-| 4      | Existem softgoals suficientes para representar corretamente o contexto?        | ✔        |
-| 5      | Os softgoals foram decompostos em operações?                                   | ✔        |
-| 6      | Os softgoals de operacionalização são soluções?                                | ❌        |
-| 7      | Os impactos foram propagados corretamente?                                     | ✔        |
-| 8      | Os elementos do diagrama estão bem representados?                              | ✔        |
-| 9      | A lógica do diagrama está clara?                                               | ✔        |
-| 10     | Os elementos do diagrama condizem com os requisitos não funcionais elicitados? | ❌        |
-| 11     | A documentação possui versionamento?                                           | ✔        |
-|        | Porcentagem de sucesso                                                         | 82%       |
+| Índice               | RNF01 | RNF02 | RNF03 | RNF04 |
+| -------------------- | ----- | ----- | ----- | ----- |
+| Questão 1            | ❌    | ❌    | ❌    | ❌    |
+| Questão 2            | ❌    | ❌    | ❌    | ❌    |
+| Questão 3            | ✔    | ✔    | ✔    | ✔    |
+| Questão 4            | ❌    | ❌    | ❌    | ❌    |
+| Questão 5            | ✔    | ✔    | ✔    | ✔    |
+| Questão 6            | ✔    | ✔    | ✔    | ✔    |
+| Questão 7            | ✔    | ✔    | ✔    | ✔    |
+| Questão 8            | ❌    | ❌    | ❌    | ❌    |
+| Aproveitamento       | 50%   | 50%   | 50%   | 50%   |
+| Aproveitamento médio | 50%   |       |       |       |
 
 ## Conclusão
 
-Dessa forma, nota-se que o diagrama está bom e atende à maioria dos critérios de avaliação, porém pode haver uma melhora quanto a correspondência dos 
-requisitos previamente levantados com o modelo NFR Framework, e também explicitar os softgoals de operacionalização como propostas de soluções.
+![Verificacao_NFR](../../img/verificacao/verificacao-nfr.png)
+<p align = "center"> 
+Figura 1 - Aproveitamento do NFR Framework <br>
+Autora: Amanda Nobre
+</p>
+
+Dessa forma, nota-se que há apenas um diagrama para cobrir a quantidade de 3 requisitos não funcionais, porém o ideal seria que cada um tivesse um diagrama. 
+Além disso os requisitos estão distoando dos id's e descrições prévias. Assim, será necessário uma refatoração total do NFR, criando um diagrama para cada NFR, que originalmente são 3.
 
 ## Referências
 
