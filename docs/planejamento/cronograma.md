@@ -9,6 +9,7 @@
 | 13.03.2022 | 1.2    | Adição de novas tarefas                 | [Amanda Nobre](https://github.com/AmandaNbr)                                                 | [Yudi Yamane](https://github.com/yudi-azvd)    |
 | 23.03.2022 | 1.3    | Adição de novas tarefas                 | [Amanda Nobre](https://github.com/AmandaNbr)                                                 | [Abraão Alves](https://github.com/Abraao1231)  |
 | 02.04.2022 | 1.4    | Adição de novas tarefas                 | [Amanda Nobre](https://github.com/AmandaNbr)                                                 | [Abraão Alves](https://github.com/Abraao1231)  |
+| 25.04.2022 | 1.5    | Adição de novas tarefas                 | [Amanda Nobre](https://github.com/AmandaNbr)                                                 | [Abraão Alves](https://github.com/Abraao1231)  |
 
 ### 1ª entrega: de 24/01 até 06/02
 
@@ -67,6 +68,6 @@
 
 ### 7ª entrega: de 03/04 até 25/04
 
-| Tarefa                   | Participante(s) | Revisor(es) | Data de Entrega | Prazo de Entrega |
-| ------------------------ | --------------- | ----------- | --------------- | ---------------- |
-| Entrega do projeto final | Todos           | A decidir   | Não se aplica   | 23/04            |
+| Tarefa                 | Participante(s) | Revisor(es) | Data de Entrega | Prazo de Entrega |
+| ---------------------- | --------------- | ----------- | --------------- | ---------------- |
+| Correções em artefatos | Todos           | Todos       | 24/04           | 25/04            |
