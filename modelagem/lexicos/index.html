@@ -1,0 +1,2464 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+        <link rel="canonical" href="https://requisitos-de-software.github.io/2021.2-AntennaPod/modelagem/lexicos/">
+      
+      <link rel="icon" href="../../img/favicon.ico">
+      <meta name="generator" content="mkdocs-1.3.0, mkdocs-material-8.2.11">
+    
+    
+      
+        <title>Léxicos - AntennaPod</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.8c5ef100.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.9647289d.min.css">
+        
+          
+          
+          <meta name="theme-color" content="#02a6f2">
+        
+      
+    
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../css/style.css">
+    
+    <script>__md_scope=new URL("../..",location),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  </head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="" data-md-color-primary="light-blue" data-md-color-accent="">
+  
+    
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#lexicos" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="AntennaPod" class="md-header__button md-logo" aria-label="AntennaPod" data-md-component="logo">
+      
+  <img src="../../img/favicon.ico" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            AntennaPod
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Léxicos
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" aria-label="Clear" tabindex="-1">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/Requisitos-de-Software/2021.2-AntennaPod" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.1.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    AntennaPod
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="AntennaPod" class="md-nav__button md-logo" aria-label="AntennaPod" data-md-component="logo">
+      
+  <img src="../../img/favicon.ico" alt="logo">
+
+    </a>
+    AntennaPod
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/Requisitos-de-Software/2021.2-AntennaPod" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.1.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    AntennaPod
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        Início
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_2" type="checkbox" id="__nav_2" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_2">
+          Planejamento
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Planejamento" data-md-level="1">
+        <label class="md-nav__title" for="__nav_2">
+          <span class="md-nav__icon md-icon"></span>
+          Planejamento
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/metodologia/" class="md-nav__link">
+        Metodologia
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/heatmap/" class="md-nav__link">
+        Heatmap
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/cronograma/" class="md-nav__link">
+        Cronograma
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_3" type="checkbox" id="__nav_3" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_3">
+          Pré-Rastreabilidade
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Pré-Rastreabilidade" data-md-level="1">
+        <label class="md-nav__title" for="__nav_3">
+          <span class="md-nav__icon md-icon"></span>
+          Pré-Rastreabilidade
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../pre-rastreamento/richPicture/" class="md-nav__link">
+        Rich Picture
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_4" type="checkbox" id="__nav_4" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_4">
+          Elicitação
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Elicitação" data-md-level="1">
+        <label class="md-nav__title" for="__nav_4">
+          <span class="md-nav__icon md-icon"></span>
+          Elicitação
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/personas/" class="md-nav__link">
+        Personas
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_4_2" type="checkbox" id="__nav_4_2" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_4_2">
+          Técnicas
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Técnicas" data-md-level="2">
+        <label class="md-nav__title" for="__nav_4_2">
+          <span class="md-nav__icon md-icon"></span>
+          Técnicas
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/analiseProtocolo/" class="md-nav__link">
+        Análise de Protocolo
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/brainstorm/" class="md-nav__link">
+        Brainstorm
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/introspeccao/" class="md-nav__link">
+        Introspecção
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/observacao/" class="md-nav__link">
+        Observação
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/100reais/" class="md-nav__link">
+        Priorização
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+    
+  
+  
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_5" type="checkbox" id="__nav_5" checked>
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_5">
+          Modelagem
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Modelagem" data-md-level="1">
+        <label class="md-nav__title" for="__nav_5">
+          <span class="md-nav__icon md-icon"></span>
+          Modelagem
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../backlog/" class="md-nav__link">
+        Backlog
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../casosDeUso/" class="md-nav__link">
+        Casos de uso
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../cenarios/" class="md-nav__link">
+        Cenários
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../especificacaoSuplementar/" class="md-nav__link">
+        Especificação Suplementar
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+    
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          Léxicos
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        Léxicos
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#historico-de-versoes" class="md-nav__link">
+    Histórico de versões
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#introducao" class="md-nav__link">
+    Introdução
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#metodologia" class="md-nav__link">
+    Metodologia
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#participantes" class="md-nav__link">
+    Participantes
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#resultados" class="md-nav__link">
+    Resultados
+  </a>
+  
+    <nav class="md-nav" aria-label="Resultados">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#estado" class="md-nav__link">
+    ESTADO
+  </a>
+  
+    <nav class="md-nav" aria-label="ESTADO">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#lexico-01-duracao" class="md-nav__link">
+    Léxico 01 - Duração
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#lexico-02-fila-de-reproducao" class="md-nav__link">
+    Léxico 02 - Fila de reprodução
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#lexico-03-novo" class="md-nav__link">
+    Léxico 03 - Novo
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#lexico-04-velocidade-de-reproducao" class="md-nav__link">
+    Léxico 04 - Velocidade de reprodução
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#objeto" class="md-nav__link">
+    OBJETO
+  </a>
+  
+    <nav class="md-nav" aria-label="OBJETO">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#lexico-05-canal" class="md-nav__link">
+    Léxico 05 - Canal
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#lexico-06-episodio" class="md-nav__link">
+    Léxico 06 - Episódio
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#lexico-07-historico" class="md-nav__link">
+    Léxico 07 - Histórico
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#lexico-08-podcast" class="md-nav__link">
+    Léxico 08 - PodCast
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#lexico-09-usuario" class="md-nav__link">
+    Léxico 09 - Usuário
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#verbo" class="md-nav__link">
+    VERBO
+  </a>
+  
+    <nav class="md-nav" aria-label="VERBO">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#lexico-10-assinar" class="md-nav__link">
+    Léxico 10 - Assinar
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#lexico-11-atualizar" class="md-nav__link">
+    Léxico 11 - Atualizar
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#lexico-12-baixar" class="md-nav__link">
+    Léxico 12 - Baixar
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#lexico-13-descobrir" class="md-nav__link">
+    Léxico 13 - Descobrir
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#lexico-14-favoritar" class="md-nav__link">
+    Léxico 14 - Favoritar
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#lexico-15-filtrar" class="md-nav__link">
+    Léxico 15 - Filtrar
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#lexico-16-pesquisar" class="md-nav__link">
+    Léxico 16 - Pesquisar
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#lexico-17-reproduzir" class="md-nav__link">
+    Léxico 17 - Reproduzir
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#referencias" class="md-nav__link">
+    Referências
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../nfr-framework" class="md-nav__link">
+        NFR Framework
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_6" type="checkbox" id="__nav_6" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_6">
+          Análise
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Análise" data-md-level="1">
+        <label class="md-nav__title" for="__nav_6">
+          <span class="md-nav__icon md-icon"></span>
+          Análise
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_6_1" type="checkbox" id="__nav_6_1" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_6_1">
+          Verificação
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Verificação" data-md-level="2">
+        <label class="md-nav__title" for="__nav_6_1">
+          <span class="md-nav__icon md-icon"></span>
+          Verificação
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise/verificacao/verificacao-introducao/" class="md-nav__link">
+        Introdução
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise/verificacao/verificacao-backlog" class="md-nav__link">
+        Backlog
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise/verificacao/casosDeUso/" class="md-nav__link">
+        Casos de uso
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise/verificacao/cenarios/" class="md-nav__link">
+        Cenários
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise/verificacao/especificacao-suplementar/" class="md-nav__link">
+        Especificação Suplementar
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise/verificacao/verificacao-Lexicos/" class="md-nav__link">
+        Léxico
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise/verificacao/verificacao-nfr-framework/" class="md-nav__link">
+        NFR Framework
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_6_2" type="checkbox" id="__nav_6_2" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_6_2">
+          Validação
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Validação" data-md-level="2">
+        <label class="md-nav__title" for="__nav_6_2">
+          <span class="md-nav__icon md-icon"></span>
+          Validação
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise/validacao/validacaoComunicacaoInformal/" class="md-nav__link">
+        Comunicação Informal
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise/validacao/validacaoPrototipacao/" class="md-nav__link">
+        Prototipação
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_7" type="checkbox" id="__nav_7" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_7">
+          Pós-Rastreabilidade
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Pós-Rastreabilidade" data-md-level="1">
+        <label class="md-nav__title" for="__nav_7">
+          <span class="md-nav__icon md-icon"></span>
+          Pós-Rastreabilidade
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../posRastreabilidade/backward-from/" class="md-nav__link">
+        Backward from
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../posRastreabilidade/forward-from/" class="md-nav__link">
+        Forward from
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_8" type="checkbox" id="__nav_8" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_8">
+          Atas de reuniões
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Atas de reuniões" data-md-level="1">
+        <label class="md-nav__title" for="__nav_8">
+          <span class="md-nav__icon md-icon"></span>
+          Atas de reuniões
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_8_1" type="checkbox" id="__nav_8_1" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_8_1">
+          Fevereiro
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Fevereiro" data-md-level="2">
+        <label class="md-nav__title" for="__nav_8_1">
+          <span class="md-nav__icon md-icon"></span>
+          Fevereiro
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../reunioes/02-02/" class="md-nav__link">
+        Dia 02
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../reunioes/09-02/" class="md-nav__link">
+        Dia 09
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../reunioes/17-02/" class="md-nav__link">
+        Dia 17
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../reunioes/23-02/" class="md-nav__link">
+        Dia 23
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_8_2" type="checkbox" id="__nav_8_2" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_8_2">
+          Março
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Março" data-md-level="2">
+        <label class="md-nav__title" for="__nav_8_2">
+          <span class="md-nav__icon md-icon"></span>
+          Março
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../reunioes/10-03/" class="md-nav__link">
+        Dia 10
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../reunioes/24-03/" class="md-nav__link">
+        Dia 24
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_9" type="checkbox" id="__nav_9" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_9">
+          Apresentações
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Apresentações" data-md-level="1">
+        <label class="md-nav__title" for="__nav_9">
+          <span class="md-nav__icon md-icon"></span>
+          Apresentações
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../apresentacoes/apresentacao1/" class="md-nav__link">
+        Apresentação-1
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../apresentacoes/apresentacao2/" class="md-nav__link">
+        Apresentação-2
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../apresentacoes/apresentacao3/" class="md-nav__link">
+        Apresentação-3
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../apresentacoes/apresentacao4/" class="md-nav__link">
+        Apresentação-4
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../apresentacoes/apresentacao5/" class="md-nav__link">
+        Apresentação-5
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../apresentacoes/apresentacao6/" class="md-nav__link">
+        Apresentação-6
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../apresentacoes/apresentacao7/" class="md-nav__link">
+        Apresentação-7
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#historico-de-versoes" class="md-nav__link">
+    Histórico de versões
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#introducao" class="md-nav__link">
+    Introdução
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#metodologia" class="md-nav__link">
+    Metodologia
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#participantes" class="md-nav__link">
+    Participantes
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#resultados" class="md-nav__link">
+    Resultados
+  </a>
+  
+    <nav class="md-nav" aria-label="Resultados">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#estado" class="md-nav__link">
+    ESTADO
+  </a>
+  
+    <nav class="md-nav" aria-label="ESTADO">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#lexico-01-duracao" class="md-nav__link">
+    Léxico 01 - Duração
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#lexico-02-fila-de-reproducao" class="md-nav__link">
+    Léxico 02 - Fila de reprodução
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#lexico-03-novo" class="md-nav__link">
+    Léxico 03 - Novo
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#lexico-04-velocidade-de-reproducao" class="md-nav__link">
+    Léxico 04 - Velocidade de reprodução
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#objeto" class="md-nav__link">
+    OBJETO
+  </a>
+  
+    <nav class="md-nav" aria-label="OBJETO">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#lexico-05-canal" class="md-nav__link">
+    Léxico 05 - Canal
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#lexico-06-episodio" class="md-nav__link">
+    Léxico 06 - Episódio
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#lexico-07-historico" class="md-nav__link">
+    Léxico 07 - Histórico
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#lexico-08-podcast" class="md-nav__link">
+    Léxico 08 - PodCast
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#lexico-09-usuario" class="md-nav__link">
+    Léxico 09 - Usuário
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#verbo" class="md-nav__link">
+    VERBO
+  </a>
+  
+    <nav class="md-nav" aria-label="VERBO">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#lexico-10-assinar" class="md-nav__link">
+    Léxico 10 - Assinar
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#lexico-11-atualizar" class="md-nav__link">
+    Léxico 11 - Atualizar
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#lexico-12-baixar" class="md-nav__link">
+    Léxico 12 - Baixar
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#lexico-13-descobrir" class="md-nav__link">
+    Léxico 13 - Descobrir
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#lexico-14-favoritar" class="md-nav__link">
+    Léxico 14 - Favoritar
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#lexico-15-filtrar" class="md-nav__link">
+    Léxico 15 - Filtrar
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#lexico-16-pesquisar" class="md-nav__link">
+    Léxico 16 - Pesquisar
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#lexico-17-reproduzir" class="md-nav__link">
+    Léxico 17 - Reproduzir
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#referencias" class="md-nav__link">
+    Referências
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          <div class="md-content" data-md-component="content">
+            <article class="md-content__inner md-typeset">
+              
+                
+  <a href="https://github.com/Requisitos-de-Software/2021.2-AntennaPod/edit/master/docs/modelagem/lexicos.md" title="Edit this page" class="md-content__button md-icon">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20.71 7.04c.39-.39.39-1.04 0-1.41l-2.34-2.34c-.37-.39-1.02-.39-1.41 0l-1.84 1.83 3.75 3.75M3 17.25V21h3.75L17.81 9.93l-3.75-3.75L3 17.25Z"/></svg>
+  </a>
+
+
+
+<h1 id="lexicos">Léxicos</h1>
+<h2 id="historico-de-versoes">Histórico de versões</h2>
+<table>
+<thead>
+<tr>
+<th>Data</th>
+<th>Versão</th>
+<th>Descrição</th>
+<th>Autor</th>
+<th>Revisor</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>25.02.2022</td>
+<td>1.0</td>
+<td>Criação do documento</td>
+<td><a href="https://github.com/AmandaNbr">Amanda Nobre</a></td>
+<td><a href="https://github.com/yudi-azvd">Yudi Yamane</a></td>
+</tr>
+<tr>
+<td>13.03.2022</td>
+<td>1.1</td>
+<td>Dividindo por tipo e colocando em ordem alfabética</td>
+<td><a href="https://github.com/AmandaNbr">Amanda Nobre</a></td>
+<td><a href="https://github.com/yudi-azvd">Yudi Yamane</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="introducao">Introdução</h2>
+<p>Léxico é uma técnica de modelagem que tem como objeto principal a própria linguagem, pois busca descrever símbolos (palavras chave e frases recorrentes no desenvolvimento do projeto) para mapeá-los e entender as noções e impactos de cada símbolo levantado.</p>
+<p>A descrição de símbolos ocorre das 3 seguintes formas:</p>
+<table>
+<thead>
+<tr>
+<th>Tipo</th>
+<th>Noção</th>
+<th>Impacto</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>VERBO</td>
+<td>Quem realiza, quando acontece e quais os procedimentos envolvidos.</td>
+<td>Quais os reflexos da ação no ambiente (outras ações que devem ocorrer) e quais os novos estados decorrentes.</td>
+</tr>
+<tr>
+<td>OBJETO</td>
+<td>Definir o objeto e identificar outros objetos com os quais se relaciona.</td>
+<td>Ações que podem ser aplicadas ao objeto.</td>
+</tr>
+<tr>
+<td>ESTADO</td>
+<td>O que significa e quais ações levaram a esse estado.</td>
+<td>Identificar outros estados e ações que podem ocorrer a partir do estado que se descreve.</td>
+</tr>
+</tbody>
+</table>
+<h2 id="metodologia">Metodologia</h2>
+<p>Para definir os léxicos foi feita uma introspecção através da navegação nos artefatos e requisitos levantados e, a partir disso, os símbolos foram coletados. 
+Os léxicos estão organizados por tipo, em ordem alfabética e seguindo o seguinte modelo:</p>
+<table>
+<thead>
+<tr>
+<th>LXX</th>
+<th>Nome do Léxico</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Tipo</td>
+<td>(Verbo, objeto ou estado)</td>
+</tr>
+<tr>
+<td>Sinônimos</td>
+<td>Sinônimos do léxico</td>
+</tr>
+<tr>
+<td>Noção</td>
+<td>Noção do léxico</td>
+</tr>
+<tr>
+<td>Impacto</td>
+<td>Impactos do léxico</td>
+</tr>
+<tr>
+<td>Autor</td>
+<td>Autor do léxico</td>
+</tr>
+</tbody>
+</table>
+<h2 id="participantes">Participantes</h2>
+<ul>
+<li><a href="https://github.com/AmandaNbr">Amanda Nobre</a></li>
+</ul>
+<h2 id="resultados">Resultados</h2>
+<h3 id="estado">ESTADO</h3>
+<h4 id="lexico-01-duracao">Léxico 01 - Duração</h4>
+<table>
+<thead>
+<tr>
+<th>L01</th>
+<th>Duração</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Tipo</td>
+<td>Estado</td>
+</tr>
+<tr>
+<td>Sinônimos</td>
+<td>Tempo</td>
+</tr>
+<tr>
+<td>Noção</td>
+<td>Tempo de duração de um episódio</td>
+</tr>
+<tr>
+<td>Impacto</td>
+<td>O usuário pode visualizar o tempo de duração de um episódio</td>
+</tr>
+<tr>
+<td>Autor</td>
+<td><a href="https://github.com/AmandaNbr">Amanda Nobre</a></td>
+</tr>
+</tbody>
+</table>
+<h4 id="lexico-02-fila-de-reproducao">Léxico 02 - Fila de reprodução</h4>
+<table>
+<thead>
+<tr>
+<th>L02</th>
+<th>Fila de reprodução</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Tipo</td>
+<td>Estado</td>
+</tr>
+<tr>
+<td>Sinônimos</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Noção</td>
+<td>Fila episódios que serão reproduzidos em sequência</td>
+</tr>
+<tr>
+<td>Impacto</td>
+<td>O usuário pode inserir um episódio na fila</td>
+</tr>
+<tr>
+<td></td>
+<td>O usuário pode retirar um episódio da fila</td>
+</tr>
+<tr>
+<td></td>
+<td>O usuário pode visulizar a fila de reprodução</td>
+</tr>
+<tr>
+<td></td>
+<td>O usuário pode mudar a posição dos episódios na fila</td>
+</tr>
+<tr>
+<td>Autor</td>
+<td><a href="https://github.com/AmandaNbr">Amanda Nobre</a></td>
+</tr>
+</tbody>
+</table>
+<h4 id="lexico-03-novo">Léxico 03 - Novo</h4>
+<table>
+<thead>
+<tr>
+<th>L03</th>
+<th>Novo</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Tipo</td>
+<td>Estado</td>
+</tr>
+<tr>
+<td>Sinônimos</td>
+<td>Recente, inédito</td>
+</tr>
+<tr>
+<td>Noção</td>
+<td>Um episódio ao ser postado recebe a identificação de "novo"</td>
+</tr>
+<tr>
+<td>Impacto</td>
+<td>O usuário pode visualizar os novos episódios facilmente</td>
+</tr>
+<tr>
+<td></td>
+<td>O usuário pode tirar a identificação de "novo" de um episódio</td>
+</tr>
+<tr>
+<td>Autor</td>
+<td><a href="https://github.com/AmandaNbr">Amanda Nobre</a></td>
+</tr>
+</tbody>
+</table>
+<h4 id="lexico-04-velocidade-de-reproducao">Léxico 04 - Velocidade de reprodução</h4>
+<table>
+<thead>
+<tr>
+<th>L04</th>
+<th>Velocidade de reprodução</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Tipo</td>
+<td>Estado</td>
+</tr>
+<tr>
+<td>Sinônimos</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Noção</td>
+<td>Velocidade de reprodução de um episódio</td>
+</tr>
+<tr>
+<td>Impacto</td>
+<td>O usuário pode alterar a velocidade de reprodução</td>
+</tr>
+<tr>
+<td>Autor</td>
+<td><a href="https://github.com/AmandaNbr">Amanda Nobre</a></td>
+</tr>
+</tbody>
+</table>
+<h3 id="objeto">OBJETO</h3>
+<h4 id="lexico-05-canal">Léxico 05 - Canal</h4>
+<table>
+<thead>
+<tr>
+<th>L05</th>
+<th>Canal</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Tipo</td>
+<td>Objeto</td>
+</tr>
+<tr>
+<td>Sinônimos</td>
+<td>Criador de conteúdo</td>
+</tr>
+<tr>
+<td>Noção</td>
+<td>Pessoa ou organização que posta o PodCasts</td>
+</tr>
+<tr>
+<td>Impacto</td>
+<td>O AntennaPod disponibiliza os canais para serem assinados e visualizados</td>
+</tr>
+<tr>
+<td>Autor</td>
+<td><a href="https://github.com/AmandaNbr">Amanda Nobre</a></td>
+</tr>
+</tbody>
+</table>
+<h4 id="lexico-06-episodio">Léxico 06 - Episódio</h4>
+<table>
+<thead>
+<tr>
+<th>L06</th>
+<th>Episódio</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Tipo</td>
+<td>Objeto</td>
+</tr>
+<tr>
+<td>Sinônimos</td>
+<td>Capítulo</td>
+</tr>
+<tr>
+<td>Noção</td>
+<td>Episódio de um PodCast de um canal e disponibilizado pelo AntennaPod</td>
+</tr>
+<tr>
+<td>Impacto</td>
+<td>O AntennaPod disponibiliza os episódios de PodCasts para serem reproduzidos</td>
+</tr>
+<tr>
+<td>Autor</td>
+<td><a href="https://github.com/AmandaNbr">Amanda Nobre</a></td>
+</tr>
+</tbody>
+</table>
+<h4 id="lexico-07-historico">Léxico 07 - Histórico</h4>
+<table>
+<thead>
+<tr>
+<th>L07</th>
+<th>Histórico</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Tipo</td>
+<td>Objeto</td>
+</tr>
+<tr>
+<td>Sinônimos</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Noção</td>
+<td>Lista de episódios reproduzidos</td>
+</tr>
+<tr>
+<td>Impacto</td>
+<td>O usuário pode visulizar a lista de episódios reproduzidos</td>
+</tr>
+<tr>
+<td></td>
+<td>O usuário pode limpar a lista de episódios reproduzidos</td>
+</tr>
+<tr>
+<td>Autor</td>
+<td><a href="https://github.com/AmandaNbr">Amanda Nobre</a></td>
+</tr>
+</tbody>
+</table>
+<h4 id="lexico-08-podcast">Léxico 08 - PodCast</h4>
+<table>
+<thead>
+<tr>
+<th>L08</th>
+<th>PodCast</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Tipo</td>
+<td>Objeto</td>
+</tr>
+<tr>
+<td>Sinônimos</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Noção</td>
+<td>Arquivo digital de áudio</td>
+</tr>
+<tr>
+<td>Impacto</td>
+<td>O usuário ouve PodCasts no aplicativo AntennaPod</td>
+</tr>
+<tr>
+<td>Autor</td>
+<td><a href="https://github.com/AmandaNbr">Amanda Nobre</a></td>
+</tr>
+</tbody>
+</table>
+<h4 id="lexico-09-usuario">Léxico 09 - Usuário</h4>
+<table>
+<thead>
+<tr>
+<th>L09</th>
+<th>Usuário</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Tipo</td>
+<td>Objeto</td>
+</tr>
+<tr>
+<td>Sinônimos</td>
+<td>Utilizador, cliente</td>
+</tr>
+<tr>
+<td>Noção</td>
+<td>Quem utiliza o aplicativo</td>
+</tr>
+<tr>
+<td>Impacto</td>
+<td>O usuário instala o AntennaPod</td>
+</tr>
+<tr>
+<td></td>
+<td>O usuário ouve PodCasts</td>
+</tr>
+<tr>
+<td></td>
+<td>O usuário se inscreve em canais</td>
+</tr>
+<tr>
+<td>Autor</td>
+<td><a href="https://github.com/AmandaNbr">Amanda Nobre</a></td>
+</tr>
+</tbody>
+</table>
+<h3 id="verbo">VERBO</h3>
+<h4 id="lexico-10-assinar">Léxico 10 - Assinar</h4>
+<table>
+<thead>
+<tr>
+<th>L10</th>
+<th>Assinar</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Tipo</td>
+<td>Verbo</td>
+</tr>
+<tr>
+<td>Sinônimos</td>
+<td>Inscrever-se</td>
+</tr>
+<tr>
+<td>Noção</td>
+<td>O usuário assina um canal de PodCast</td>
+</tr>
+<tr>
+<td>Impacto</td>
+<td>O usuário, após assinar o canal, tem acesso aos episódios</td>
+</tr>
+<tr>
+<td></td>
+<td>O usuário, após assinar o canal, recebe notificações de novos episódios</td>
+</tr>
+<tr>
+<td>Autor</td>
+<td><a href="https://github.com/AmandaNbr">Amanda Nobre</a></td>
+</tr>
+</tbody>
+</table>
+<h4 id="lexico-11-atualizar">Léxico 11 - Atualizar</h4>
+<table>
+<thead>
+<tr>
+<th>L11</th>
+<th>Atualizar</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Tipo</td>
+<td>Verbo</td>
+</tr>
+<tr>
+<td>Sinônimos</td>
+<td>Renovar</td>
+</tr>
+<tr>
+<td>Noção</td>
+<td>O usuário pode atualizar a página</td>
+</tr>
+<tr>
+<td>Impacto</td>
+<td>O usuário, ao atualizar a página, verá ou não alguma mudança, como um novo episódio</td>
+</tr>
+<tr>
+<td>Autor</td>
+<td><a href="https://github.com/AmandaNbr">Amanda Nobre</a></td>
+</tr>
+</tbody>
+</table>
+<h4 id="lexico-12-baixar">Léxico 12 - Baixar</h4>
+<table>
+<thead>
+<tr>
+<th>L12</th>
+<th>Baixar</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Tipo</td>
+<td>Verbo</td>
+</tr>
+<tr>
+<td>Sinônimos</td>
+<td>Fazer download</td>
+</tr>
+<tr>
+<td>Noção</td>
+<td>O usuário pode baixar um episódio</td>
+</tr>
+<tr>
+<td>Impacto</td>
+<td>O usuário pode fazer download do conteúdo de forma a ser possível ouvir o PodCast sem conexão com à Internet.</td>
+</tr>
+<tr>
+<td>Autor</td>
+<td><a href="https://github.com/AmandaNbr">Amanda Nobre</a></td>
+</tr>
+</tbody>
+</table>
+<h4 id="lexico-13-descobrir">Léxico 13 - Descobrir</h4>
+<table>
+<thead>
+<tr>
+<th>L13</th>
+<th>Descobrir</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Tipo</td>
+<td>Verbo</td>
+</tr>
+<tr>
+<td>Sinônimos</td>
+<td>Recomendados, sugestões</td>
+</tr>
+<tr>
+<td>Noção</td>
+<td>Títulos selecionados de acordo com os gostos do seu perfil ou mais ouvidos</td>
+</tr>
+<tr>
+<td>Impacto</td>
+<td>O usuário poderá visualizar PodCasts recomendados</td>
+</tr>
+<tr>
+<td></td>
+<td>O usuário poderá reproduzir PodCasts recomendados</td>
+</tr>
+<tr>
+<td>Autor</td>
+<td><a href="https://github.com/AmandaNbr">Amanda Nobre</a></td>
+</tr>
+</tbody>
+</table>
+<h4 id="lexico-14-favoritar">Léxico 14 - Favoritar</h4>
+<table>
+<thead>
+<tr>
+<th>L14</th>
+<th>Favoritar</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Tipo</td>
+<td>Verbo</td>
+</tr>
+<tr>
+<td>Sinônimos</td>
+<td>Gostar, curtir</td>
+</tr>
+<tr>
+<td>Noção</td>
+<td>O usuário favorita um episódio que gosta</td>
+</tr>
+<tr>
+<td>Impacto</td>
+<td>O usuário pode adicionar ou remover episódios dos favoritos</td>
+</tr>
+<tr>
+<td></td>
+<td>O usuário visualizar a lista de favoritos</td>
+</tr>
+<tr>
+<td>Autor</td>
+<td><a href="https://github.com/AmandaNbr">Amanda Nobre</a></td>
+</tr>
+</tbody>
+</table>
+<h4 id="lexico-15-filtrar">Léxico 15 - Filtrar</h4>
+<table>
+<thead>
+<tr>
+<th>L15</th>
+<th>Filtrar</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Tipo</td>
+<td>Verbo</td>
+</tr>
+<tr>
+<td>Sinônimos</td>
+<td>Separar, escolher</td>
+</tr>
+<tr>
+<td>Noção</td>
+<td>O usuário pode filtrar as pesquisas</td>
+</tr>
+<tr>
+<td>Impacto</td>
+<td>O usuário pode filtrar PodCasts por país</td>
+</tr>
+<tr>
+<td></td>
+<td>O usuário pode filtrar episódios por reproduzidos, favoritados, pausados, está na fila e baixados</td>
+</tr>
+<tr>
+<td>Autor</td>
+<td><a href="https://github.com/AmandaNbr">Amanda Nobre</a></td>
+</tr>
+</tbody>
+</table>
+<h4 id="lexico-16-pesquisar">Léxico 16 - Pesquisar</h4>
+<table>
+<thead>
+<tr>
+<th>L16</th>
+<th>Pesquisar</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Tipo</td>
+<td>Verbo</td>
+</tr>
+<tr>
+<td>Sinônimos</td>
+<td>Buscar, procurar</td>
+</tr>
+<tr>
+<td>Noção</td>
+<td>O usuário pode pesquisar um PodCast, um episódio ou um canal</td>
+</tr>
+<tr>
+<td>Impacto</td>
+<td>O usuário poderá pesquisar por um título específico</td>
+</tr>
+<tr>
+<td>Autor</td>
+<td><a href="https://github.com/AmandaNbr">Amanda Nobre</a></td>
+</tr>
+</tbody>
+</table>
+<h4 id="lexico-17-reproduzir">Léxico 17 - Reproduzir</h4>
+<table>
+<thead>
+<tr>
+<th>L17</th>
+<th>Reproduzir</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Tipo</td>
+<td>Verbo</td>
+</tr>
+<tr>
+<td>Sinônimos</td>
+<td>Apresentar, exibir, dar play, ouvir</td>
+</tr>
+<tr>
+<td>Noção</td>
+<td>O usuário reproduz um episódio de um PodCast</td>
+</tr>
+<tr>
+<td>Impacto</td>
+<td>O usuário pode pausar o episódio</td>
+</tr>
+<tr>
+<td></td>
+<td>O usuário pode avançar 30 segundos e retornar 10 segundos no episódio</td>
+</tr>
+<tr>
+<td></td>
+<td>O usuário pode avançar outro episodio da fila</td>
+</tr>
+<tr>
+<td></td>
+<td>O usuário pode mudar a velocidade de reprodução</td>
+</tr>
+<tr>
+<td>Autor</td>
+<td><a href="https://github.com/AmandaNbr">Amanda Nobre</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="referencias">Referências</h2>
+<p>SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 10.</p>
+<p>REQUISITOS DE SOFTWARE, DisneyPlus 2021.1. Léxicos. Disponível em: <a href="https://requisitos-de-software.github.io/2021.1-DisneyPlus/modelagem/lexicos/#l04-conta">https://requisitos-de-software.github.io/2021.1-DisneyPlus/modelagem/lexicos/#l04-conta</a></p>
+
+              
+            </article>
+          </div>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+    <nav class="md-footer__inner md-grid" aria-label="Footer">
+      
+        
+        <a href="../especificacaoSuplementar/" class="md-footer__link md-footer__link--prev" aria-label="Previous: Especificação Suplementar" rel="prev">
+          <div class="md-footer__button md-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+          </div>
+          <div class="md-footer__title">
+            <div class="md-ellipsis">
+              <span class="md-footer__direction">
+                Previous
+              </span>
+              Especificação Suplementar
+            </div>
+          </div>
+        </a>
+      
+      
+        
+        <a href="../../analise/verificacao/verificacao-introducao/" class="md-footer__link md-footer__link--next" aria-label="Next: Introdução" rel="next">
+          <div class="md-footer__title">
+            <div class="md-ellipsis">
+              <span class="md-footer__direction">
+                Next
+              </span>
+              Introdução
+            </div>
+          </div>
+          <div class="md-footer__button md-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4Z"/></svg>
+          </div>
+        </a>
+      
+    </nav>
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    <script id="__config" type="application/json">{"base": "../..", "features": [], "search": "../../assets/javascripts/workers/search.2a1c317c.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.config.lang": "en", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Search", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version.title": "Select version"}}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.748e2769.min.js"></script>
+      
+    
+  </body>
+</html>
