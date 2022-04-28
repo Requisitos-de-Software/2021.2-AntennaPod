@@ -5,6 +5,7 @@
 | ---------- | ------ | ----------------------------------------- | --------------------------------------------- | ------------------------------------------- |
 | 03.03.2022 | 1.0    | Criação do documento e adição de conteudo | [Abraão Alves](https://github.com/Abraao1231) | [Yudi Yamane](https://github.com/yudi-azvd) |
 | 05.03.2002 | 1.2    | Criação de diagramas                      | [Abraão Alves](https://github.com/Abraao1231) | [Yudi Yamane](https://github.com/yudi-azvd) |
+| 22.04.2022 | 1.3    | Melhoria no documento | [Abraão Alves](https://github.com/Abraao1231) | [Yudi Yamane](https://github.com/yudi-azvd) |
 
 ##  Introdução 
 O NFR Framework é uma abordagem proposta por Chung na universidade de Toronto para representar e analisar Requisitos Não-Funcionais. Seu objetivo é ajudar desenvolvedores na implementação de soluções personalizadas, levando em consideração as características do domínio e do sistema em questão. Tais características incluem Requisitos Não-funcionais, Requisitos funcionais, prioridades e carga de
